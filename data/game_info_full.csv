@@ -1,0 +1,2361 @@
+"Game","Genre","Release_Year","Release_Month","New_Game","Wrong"
+"League of Legends","Role-playing (RPG), Strategy, MOBA","2009","10",0,0
+"Counter-Strike: Global Offensive","Shooter, Tactical","2012","08",0,0
+"Dota 2","Strategy, MOBA","2013","07",0,0
+"Hearthstone","Strategy, Turn-based strategy (TBS), Card & Board Game","2014","03",0,0
+"Call of Duty: Black Ops III","Shooter","2015","11",0,0
+"Minecraft","Simulator, Adventure","2016","12",0,0
+"World of Warcraft","Role-playing (RPG), Adventure","2004","11",0,0
+"Z1: Battle Royale","Shooter, Adventure","2018","02",0,1
+"Talk Shows & Podcasts",NA,NA,NA,0,0
+"FIFA 16","Sport","2015","09",0,0
+"StarCraft II","Real Time Strategy (RTS)","2015","12",0,0
+"Diablo III","Role-playing (RPG), Hack and slash/Beat 'em up, Adventure","2012","05",0,0
+"Destiny","Shooter, Role-playing (RPG)","2014","09",0,0
+"Blade & Soul","Role-playing (RPG)","2012","06",0,0
+"World of Tanks","Shooter, Simulator, Strategy, Arcade","2011","04",0,0
+"Tom Clancy's Rainbow Six Siege","Shooter, Tactical","2015","12",0,0
+"RuneScape","Role-playing (RPG), Adventure","2001","01",0,0
+"Tom Clancy's The Division","Shooter, Role-playing (RPG), Strategy, Tactical, Adventure","2016","03",0,0
+"Grand Theft Auto V","Shooter, Racing, Adventure","2013","09",0,0
+"SMITE","Role-playing (RPG), Strategy, Adventure, MOBA","2014","03",0,0
+"Creative","Platform, Adventure, Indie, Arcade","2020","03",0,1
+"Poker","Card & Board Game","2018","09",0,1
+"Super Mario Maker","Platform","2015","09",0,0
+"Heroes of the Storm","MOBA","2015","06",0,0
+"Darkest Dungeon","Role-playing (RPG), Strategy, Turn-based strategy (TBS), Tactical, Adventure, Indie","2016","01",0,0
+"Arma 3","Shooter, Simulator, Strategy, Tactical","2013","09",0,0
+"DayZ","Shooter, Role-playing (RPG), Simulator, Tactical, Adventure, Indie","2018","12",0,1
+"NBA 2K16","Sport","2015","09",0,0
+"Magic: The Gathering","Strategy, Turn-based strategy (TBS), Tactical, Card & Board Game","1997","03",0,0
+"Ark: Survival Evolved","Shooter, Role-playing (RPG), Simulator, Adventure, Indie","2017","08",0,1
+"Halo 5: Guardians","Shooter","2015","10",0,0
+"Super Smash Bros. Melee","Fighting, Platform","2001","11",0,0
+"Music","Music","1998","11",0,0
+"Super Smash Bros. for Wii U","Fighting, Platform","2014","11",0,0
+"Path of Exile","Role-playing (RPG), Hack and slash/Beat 'em up, Adventure","2013","10",0,0
+"Fallout 4","Shooter, Role-playing (RPG)","2015","11",0,0
+"Rocket League","Racing, Sport, Indie","2015","07",0,0
+"Dragon's Dogma: Dark Arisen","Role-playing (RPG), Adventure","2013","04",0,0
+"The Legend of Zelda: Ocarina of Time","Role-playing (RPG), Adventure","1998","11",0,0
+"Punch Club","Fighting, Role-playing (RPG), Simulator, Sport, Strategy, Indie","2016","01",0,0
+"The Binding of Isaac: Repentance","Shooter, Role-playing (RPG), Adventure, Indie, Arcade","2021","03",0,1
+"Rust","Shooter, Role-playing (RPG), Adventure, Indie","2018","02",0,1
+"Bloodborne","Role-playing (RPG), Adventure","2015","03",0,0
+"The Elder Scrolls V: Skyrim","Role-playing (RPG), Adventure","2017","11",0,1
+"Madden NFL 16","Sport","2015","08",0,0
+"Dark Souls","Role-playing (RPG), Adventure","2011","09",0,0
+"XCOM: Enemy Within","Simulator, Strategy, Turn-based strategy (TBS)","2013","11",0,0
+"Lineage II: The Chaotic Throne - The 1st Throne: The Kamael",NA,NA,NA,0,0
+"Euro Truck Simulator 2","Racing, Simulator","2012","10",0,0
+"The Legend of Zelda: Majora's Mask","Adventure","2000","04",0,0
+"Pok<U+00E9>mon Omega Ruby/Alpha Sapphire",NA,NA,NA,0,0
+"Duelyst","Strategy, Turn-based strategy (TBS), Indie, Card & Board Game","2016","08",0,0
+"Garry's Mod","Simulator, Indie","2004","12",0,0
+"Super Mario 64","Platform, Adventure","1996","06",0,0
+"osu!","Music, Indie","2007","09",0,0
+"Star Wars Battlefront","Shooter","2015","11",0,0
+"Mortal Kombat X","Fighting","2015","04",0,0
+"Dark Souls II: Scholar of the First Sin","Role-playing (RPG), Adventure","2015","04",0,0
+"Kingdom Hearts HD 1.5 ReMIX","Platform, Role-playing (RPG), Hack and slash/Beat 'em up, Adventure","2013","03",0,0
+"The Witness","Puzzle, Adventure, Indie","2016","01",0,0
+"Battlefield 4","Shooter, Simulator, Strategy","2013","10",0,0
+"Warcraft III","Real Time Strategy (RTS), Strategy","2002","07",0,0
+"Diablo II: Lord of Destruction","Role-playing (RPG), Hack and slash/Beat 'em up","2001","06",0,0
+"Mario Kart 8","Racing, Arcade","2014","05",0,0
+"Warframe","Shooter, Role-playing (RPG), Adventure","2013","03",0,0
+"Super Metroid","Shooter, Platform, Adventure","1994","03",0,0
+"Undertale","Puzzle, Role-playing (RPG), Turn-based strategy (TBS), Adventure, Indie","2015","09",0,0
+"Rise of the Tomb Raider","Shooter, Adventure","2015","11",0,0
+"Scrap Mechanic","Simulator, Adventure, Indie","2016","01",0,0
+"Final Fantasy IV","Role-playing (RPG)","1991","07",0,0
+"War Thunder","Shooter, Simulator, Tactical","2013","01",0,0
+"World of Warships","Shooter, Real Time Strategy (RTS), Simulator, Tactical","2015","09",0,0
+"Guild Wars 2","Role-playing (RPG), Adventure","2012","08",0,0
+"Dungeons & Dragons","Role-playing (RPG), Hack and slash/Beat 'em up","2021","07",0,1
+"Street Fighter V","Fighting, Arcade","2016","02",0,0
+"The Witcher 3: Wild Hunt","Role-playing (RPG), Adventure","2015","05",0,0
+"Super Mario Galaxy","Platform, Adventure","2007","11",0,0
+"Clash of Clans","Real Time Strategy (RTS), Strategy","2012","08",0,0
+"Pok<U+00E9>mon Red/Blue",NA,NA,NA,0,0
+"Pok<U+00E9>mon Yellow",NA,NA,NA,0,0
+"Tibia","Role-playing (RPG), Adventure","1997","01",0,0
+"The Legend of Zelda: A Link to the Past","Puzzle, Adventure","1991","11",0,0
+"Super Mario Bros. 3","Platform","1988","10",0,0
+"Killer Instinct","Fighting","2013","11",0,0
+"Paper Mario","Role-playing (RPG), Turn-based strategy (TBS), Adventure","2000","08",0,0
+"Half Life 2: Survivor","Shooter, Adventure","2013","06",0,0
+"Crash Bandicoot","Platform","1996","09",0,0
+"Gears of War: Ultimate Edition","Shooter","2015","08",0,0
+"M.U.G.E.N","Fighting","2002","04",0,0
+"Vainglory","MOBA","2014","11",0,0
+"Sid Meier's Civilization V","Simulator, Strategy, Turn-based strategy (TBS)","2010","09",0,0
+"Metal Gear Solid V: The Phantom Pain","Shooter, Tactical, Adventure","2015","09",0,0
+"Heroes of Newerth","Hack and slash/Beat 'em up, MOBA","2010","05",0,0
+"The Elder Scrolls Online","Role-playing (RPG), Adventure","2014","04",0,0
+"Resident Evil","Puzzle, Adventure","2002","03",0,0
+"Mass Effect 3","Shooter, Role-playing (RPG), Strategy, Adventure","2021","05",0,1
+"Resident Evil Zero","Shooter, Adventure","2002","11",0,0
+"Secret Hitler","Platform, Adventure","1988","08",0,0
+"Slime Rancher","Shooter, Simulator, Strategy, Adventure, Indie","2017","08",0,1
+"Splatoon","Shooter, Platform","2015","05",0,0
+"BattleBlock Theater","Platform, Puzzle, Adventure, Indie","2013","04",0,0
+"MapleStory","Platform, Role-playing (RPG), Adventure","2003","04",0,0
+"Team Fortress 2","Shooter","2007","10",0,0
+"Black Desert Online","Role-playing (RPG), Simulator, Strategy, Adventure","2017","05",0,1
+"Ultra Street Fighter IV","Fighting, Arcade","2014","04",0,0
+"Donkey Kong Country 2: Diddy's Kong Quest","Platform, Adventure","1995","11",0,0
+"Kirby 64: The Crystal Shards","Platform, Adventure","2000","03",0,0
+"American Truck Simulator","Racing, Simulator, Indie","2016","02",0,0
+"Nuclear Throne","Shooter, Adventure, Indie, Arcade","2015","12",0,0
+"Call of Duty: Black Ops II","Shooter","2012","11",0,0
+"Portal 2","Shooter, Platform, Puzzle, Adventure","2011","04",0,0
+"Final Fantasy XIV: Heavensward","Role-playing (RPG)","2015","06",0,0
+"Halo 4","Shooter","2012","11",0,0
+"Kirby: Squeak Squad","Platform, Adventure","2006","11",0,0
+"SpeedRunners","Platform, Racing, Indie, Arcade","2016","04",0,0
+"The Last of Us","Shooter, Adventure","2013","06",0,0
+"The Sims 4","Role-playing (RPG), Simulator","2014","09",0,0
+"Summoners War: Sky Arena","Role-playing (RPG), Strategy, Turn-based strategy (TBS)","2014","06",0,0
+"Dofus","Role-playing (RPG), Strategy, Adventure","2004","09",0,0
+"Outlast","Adventure, Indie","2013","09",0,0
+"Elite: Dangerous","Shooter, Role-playing (RPG), Simulator, Strategy, Adventure","2014","12",0,0
+"Kerbal Space Program","Simulator, Indie","2015","04",0,0
+"Rayman Legends","Platform, Adventure","2013","08",0,0
+"EVE Online","Role-playing (RPG), Simulator, Strategy","2003","05",0,0
+"Resident Evil: Revelations 2","Shooter, Adventure","2015","02",0,0
+"The Legend of Zelda: Ocarina of Time - Master Quest","Platform, Puzzle, Role-playing (RPG), Adventure","2002","02",0,0
+"Left 4 Dead 2","Shooter","2009","11",0,0
+"Super Mario World","Platform, Adventure","1990","11",0,0
+"7 Days to Die","Shooter, Role-playing (RPG), Simulator, Strategy, Adventure, Indie","2024","07",0,1
+"Transformers: Devastation","Hack and slash/Beat 'em up","2015","10",0,0
+"Secret of Mana","Role-playing (RPG), Adventure","1993","08",0,0
+"Farming Simulator 15","Simulator, Strategy","2014","10",0,0
+"Terraria","Platform, Role-playing (RPG), Simulator, Strategy, Adventure, Indie","2011","05",0,0
+"Ori and the Blind Forest","Platform, Puzzle, Adventure","2015","03",0,0
+"Alien: Isolation","Adventure","2014","10",0,0
+"Dying Light","Shooter, Role-playing (RPG), Adventure","2015","01",0,0
+"The Forest","Puzzle, Simulator, Adventure, Indie","2018","04",0,1
+"Agar.io","Strategy, Indie","2015","04",0,0
+"Star Citizen","Shooter, Role-playing (RPG), Simulator, Adventure, Indie","2013","08",0,0
+"Final Fantasy VII","Role-playing (RPG), Turn-based strategy (TBS), Adventure","1997","01",0,0
+"Super Mario Bros.","Platform","1993","07",0,0
+"Age of Empires","Real Time Strategy (RTS), Strategy","1997","10",0,0
+"Metroid Prime","Shooter, Platform, Puzzle, Adventure","2002","11",0,0
+"Quiplash","Strategy, Quiz/Trivia, Indie","2015","06",0,0
+"StepMania","Music, Simulator, Arcade","2001","10",0,0
+"Donkey Kong Country","Platform, Adventure","1994","11",0,0
+"Darksiders II","Role-playing (RPG), Hack and slash/Beat 'em up, Adventure","2012","08",0,0
+"Banjo-Kazooie","Platform, Quiz/Trivia, Adventure","1998","06",0,0
+"Star Wars: The Old Republic","Role-playing (RPG)","2011","12",0,0
+"Fire Emblem: Path of Radiance","Role-playing (RPG), Strategy, Turn-based strategy (TBS), Tactical","2005","04",0,0
+"Mount Your Friends","Simulator, Sport, Indie","2013","06",0,0
+"The Legend of Zelda: Oracle of Ages","Puzzle, Role-playing (RPG), Adventure","2001","02",0,0
+"Metroid Fusion","Shooter, Platform, Puzzle, Adventure","2002","11",0,0
+"The Long Dark","Shooter, Simulator, Strategy, Adventure, Indie","2017","08",0,1
+"NHL 16","Sport","2015","09",0,0
+"Grand Theft Auto: San Andreas","Shooter, Racing, Adventure","2004","10",0,0
+"SOMA","Puzzle, Adventure, Indie","2015","09",0,0
+"Hurtworld","Shooter, Racing, Simulator, Adventure","2019","12",0,1
+"Grand Theft Auto III","Shooter, Racing, Simulator, Adventure","2001","10",0,0
+"Just Cause 3","Adventure","2015","11",0,0
+"Super Mario Sunshine","Platform, Adventure","2002","07",0,0
+"Tony Hawk's Pro Skater","Sport","1999","09",0,0
+"Half-Life 2","Shooter","2004","11",0,0
+"Mirror's Edge","Platform, Adventure","2009","09",0,0
+"Mega Man 2","Platform, Adventure","1989","06",0,0
+"Move or Die","Platform, Indie, Arcade","2016","01",0,0
+"Subnautica","Adventure, Indie","2018","01",0,1
+"Super Monkey Ball: Banana Blitz","Puzzle, Racing","2006","11",0,0
+"TMNT","Platform, Hack and slash/Beat 'em up, Adventure","2007","03",0,0
+"Mike Tyson's Punch-Out!!","Fighting, Sport","1987","10",0,0
+"Azure Striker GUNVOLT","Shooter, Platform, Adventure, Indie","2016","09",0,0
+"Mega Man 10","Shooter, Platform","2010","03",0,0
+"The Elder Scrolls IV: Oblivion","Role-playing (RPG), Adventure","2006","03",0,0
+"Don't Starve","Simulator, Adventure, Indie","2013","04",0,0
+"Pinball","Pinball","1982","11",0,0
+"Twitch Plays","Real Time Strategy (RTS), Indie","2018","08",0,1
+"Metro: Last Light","Shooter","2013","05",0,0
+"Sonic Advance","Platform","2001","12",0,0
+"Until Dawn","Adventure","2015","08",0,0
+"Ninja Gaiden III: The Ancient Ship of Doom","Platform, Hack and slash/Beat 'em up, Adventure, Arcade","1991","08",0,0
+"Mafia LIVE!",NA,NA,NA,0,0
+"Prime World","Role-playing (RPG), Strategy, MOBA","2014","03",0,0
+"Mega Man X",NA,"2011","12",0,0
+"Iji","Shooter, Platform, Role-playing (RPG)","2008","09",0,0
+"Blast Corps","Puzzle, Tactical","1997","03",0,0
+"Life is Strange","Puzzle, Adventure, Indie","2015","01",0,0
+"Grid 2","Racing, Simulator, Sport, Arcade","2013","05",0,0
+"Company of Heroes 2","Real Time Strategy (RTS), Simulator, Strategy","2013","06",0,0
+"Tabletop Simulator","Role-playing (RPG), Simulator, Strategy, Indie, Card & Board Game","2015","06",0,0
+"Naval Action","Fighting, Racing, Role-playing (RPG), Simulator, Strategy, Tactical, Adventure, Indie","2019","06",0,1
+"Borderlands 2","Shooter, Role-playing (RPG)","2012","09",0,0
+"Yakuza Kiwami","Fighting, Role-playing (RPG), Hack and slash/Beat 'em up, Adventure","2016","01",0,0
+"Mario Kart 64","Racing","1996","12",0,0
+"Infestation: Survivor Stories",NA,NA,NA,0,0
+"Microsoft Flight Simulator X","Simulator","2006","10",0,0
+"Brain Age: Train Your Brain in Minutes a Day!","Puzzle, Quiz/Trivia","2005","05",0,0
+"Cities: Skylines","Simulator, Strategy","2015","03",0,0
+"Heroes of Might and Magic III: The Shadow of Death","Role-playing (RPG), Strategy, Turn-based strategy (TBS), Tactical","2000","03",0,0
+"Street Fighter III: 3rd Strike","Fighting, Arcade","1999","05",0,0
+"Naruto Shippuden: Ultimate Ninja Storm 3 Full Burst","Fighting, Adventure","2013","10",0,0
+"XCOM 2","Role-playing (RPG), Simulator, Strategy, Turn-based strategy (TBS), Tactical","2016","02",0,0
+"Overwatch","Shooter, Strategy","2016","05",0,0
+"Far Cry: Primal","Shooter, Adventure","2016","02",0,0
+"The Culling","Shooter, Indie","2017","10",0,1
+"ARK: Survival Evolved","Shooter, Role-playing (RPG), Simulator, Adventure, Indie","2017","08",0,1
+"Firewatch","Adventure, Indie","2016","02",0,0
+"Naruto Shippuden: Ultimate Ninja Storm 4","Fighting, Adventure","2016","02",0,0
+"The Binding of Isaac: Afterbirth","Shooter, Role-playing (RPG), Adventure, Indie","2015","10",0,0
+"Stardew Valley","Role-playing (RPG), Simulator, Strategy, Adventure, Indie","2016","02",0,0
+"Layers of Fear","Puzzle","2023","06",0,1
+"ShellShock Live","Shooter, Strategy, Turn-based strategy (TBS), Indie","2019","03",0,1
+"Unravel","Platform, Puzzle, Adventure","2016","02",0,0
+"Knight Online","Role-playing (RPG), Adventure","2002","07",0,0
+"SUPERHOT","Shooter, Puzzle, Adventure, Indie","2016","12",0,0
+"Golf With Your Friends","Simulator, Sport, Strategy, Indie","2016","01",0,0
+"APB Reloaded","Shooter, Adventure","2011","12",0,0
+"Grim Dawn","Role-playing (RPG), Hack and slash/Beat 'em up, Adventure, Indie","2016","02",0,0
+"South Park: The Stick of Truth","Role-playing (RPG), Strategy, Adventure","2014","03",0,0
+"Tales from the Borderlands","Point-and-click, Puzzle, Adventure","2014","11",0,0
+"Hitman: Absolution","Shooter, Tactical, Adventure","2012","11",0,0
+"The Solus Project","Simulator, Adventure, Indie","2016","06",0,0
+"WWE 2K16","Simulator, Sport","2015","10",0,0
+"Plants vs Zombies: Garden Warfare 2","Shooter","2016","02",0,0
+"Exanima","Role-playing (RPG), Simulator, Adventure, Indie","2015","04",0,0
+"Kantai Collection","Simulator, Turn-based strategy (TBS), Card & Board Game","2013","04",0,0
+"Final Fantasy X/X-2 HD Remaster","Role-playing (RPG), Strategy","2013","12",0,0
+"Digimon Story Cyber Sleuth","Role-playing (RPG)","2019","10",0,1
+"FTL: Faster Than Light","Role-playing (RPG), Simulator, Strategy, Indie","2012","09",0,0
+"Demon's Souls","Role-playing (RPG), Adventure","2020","11",0,1
+"Games + Demos","Adventure, Visual Novel","2016","10",0,0
+"Casino Games","Simulator, Sport, Strategy","1989","02",0,0
+"Fire Emblem: The Blazing Blade","Role-playing (RPG), Strategy, Tactical","2003","04",0,0
+"Blackjack","Card & Board Game","1977","09",0,0
+"Final Fantasy XII","Role-playing (RPG), Adventure","2006","03",0,0
+"Retro",NA,NA,NA,0,0
+"Dishonored","Puzzle, Role-playing (RPG), Adventure","2012","10",0,0
+"Far Cry 4","Shooter, Tactical, Adventure","2014","11",0,0
+"Just Survive","Shooter, Role-playing (RPG), Adventure","2015","01",0,0
+"Risk: Factions","Strategy, Turn-based strategy (TBS)","2010","06",0,0
+"Star Wars: Jedi Knight II - Jedi Outcast","Shooter, Adventure","2002","03",0,0
+"Evoland 2","Fighting, Music, Platform, Role-playing (RPG), Strategy, Turn-based strategy (TBS), Hack and slash/Beat 'em up, Adventure, Indie, Card & Board Game","2015","08",0,0
+"ArcheAge","Role-playing (RPG), Adventure","2013","01",0,0
+"The Walking Dead: Michonne","Point-and-click, Adventure","2016","02",0,0
+"Dead Space","Shooter, Puzzle","2008","10",0,0
+"MechWarrior Online","Simulator, Strategy","2013","09",0,0
+"Armored Warfare","Shooter, Racing, Simulator, Strategy, Tactical, Adventure","2015","10",0,0
+"Age of Empires II","Point-and-click, Real Time Strategy (RTS), Strategy","2001","11",0,0
+"The Walking Dead: Season One","Point-and-click","2012","06",0,0
+"Atlas Reactor","Fighting, Strategy, Turn-based strategy (TBS), Tactical","2016","10",0,0
+"Dark Souls II","Role-playing (RPG), Adventure","2014","03",0,0
+"Paper Mario: The Thousand-Year Door","Role-playing (RPG), Adventure","2024","05",0,1
+"HITMAN","Puzzle, Strategy, Turn-based strategy (TBS)","2014","04",0,0
+"Ultimate Marvel vs. Capcom 3","Fighting","2011","11",0,0
+"Pok<U+00E9>mon FireRed/LeafGreen",NA,NA,NA,0,0
+"NEKOPARA Vol. 2","Simulator, Adventure, Indie, Visual Novel","2016","02",0,0
+"Trove","Platform, Role-playing (RPG), Hack and slash/Beat 'em up, Adventure","2015","07",0,0
+"Board Games",NA,NA,NA,0,0
+"Bloodborne: The Old Hunters","Role-playing (RPG), Adventure","2015","11",0,0
+"Don't Starve Together","Simulator, Strategy, Adventure, Indie","2016","04",0,0
+"Ben and Ed","Platform, Adventure, Indie","2015","12",0,0
+"iRacing","Racing, Simulator, Sport","2008","08",0,0
+"Puzzle & Dragons","Puzzle, Role-playing (RPG)","2012","02",0,0
+"I Wanna Be The Guy","Shooter, Platform, Puzzle, Adventure, Indie","2007","10",0,0
+"RPG Maker","Role-playing (RPG), Simulator","1997","11",0,0
+"PAYDAY 2","Shooter, Role-playing (RPG), Tactical","2013","08",0,0
+"Rabi-Ribi","Platform, Role-playing (RPG), Adventure, Indie, Arcade","2016","01",0,0
+"TERA","Role-playing (RPG), Adventure","2011","01",0,0
+"Construction Simulator 2015","Racing, Simulator","2014","11",0,0
+"Roblox","Platform, Role-playing (RPG), Simulator, Adventure, Arcade","2006","09",0,0
+"Dark Souls III","Role-playing (RPG), Adventure","2016","03",0,0
+"EA Sports UFC 2","Fighting, Sport","2016","03",0,0
+"Paragon","MOBA","2016","06",0,0
+"Clash Royale","Real Time Strategy (RTS), Strategy, Tactical, Card & Board Game","2016","01",0,0
+"Heavy Rain","Adventure","2010","02",0,0
+"Pokk<U+00E9>n Tournament",NA,NA,NA,0,0
+"Salt and Sanctuary","Platform, Role-playing (RPG), Adventure, Indie","2016","03",0,0
+"The Legend of Zelda: Twilight Princess HD","Platform, Puzzle, Adventure","2016","03",0,0
+"Factorio","Simulator, Strategy, Indie","2020","08",0,1
+"TrackMania Turbo","Racing, Arcade","2016","03",0,0
+"Faeria","Puzzle, Role-playing (RPG), Strategy, Turn-based strategy (TBS), Tactical, Adventure, Indie, Card & Board Game","2017","03",0,1
+"The Legend of Zelda: The Wind Waker HD","Puzzle, Adventure","2013","09",0,0
+"Final Fantasy XV","Role-playing (RPG), Hack and slash/Beat 'em up, Adventure","2016","11",0,0
+"Mario Party 10","Quiz/Trivia, Card & Board Game","2015","03",0,0
+"Deponia Doomsday","Point-and-click, Puzzle, Adventure, Indie","2016","03",0,0
+"Deus Ex","Shooter, Role-playing (RPG), Adventure","2000","06",0,0
+"Tree of Savior","Role-playing (RPG), Adventure","2016","05",0,0
+"Worms Revolution","Strategy, Turn-based strategy (TBS)","2012","10",0,0
+"Yakuza 0","Role-playing (RPG), Simulator, Hack and slash/Beat 'em up, Adventure","2015","03",0,0
+"Metal Gear Solid 2: Sons of Liberty","Adventure","2001","11",0,0
+"Fire Emblem Fates: Special Edition","Role-playing (RPG), Strategy, Turn-based strategy (TBS)","2016","02",0,0
+"MLB The Show 16","Sport","2016","03",0,0
+"Need for Speed","Racing, Simulator, Adventure, Arcade","2015","11",0,0
+"Devil Daggers","Shooter, Indie","2016","02",0,0
+"Metal Gear Solid 3: Snake Eater","Shooter, Tactical, Adventure","2004","11",0,0
+"Forced Showdown","Role-playing (RPG), Strategy, Indie","2016","03",0,0
+"Geometry Dash","Music, Platform, Indie, Arcade","2013","08",0,0
+"Danganronpa: Trigger Happy Havoc","Point-and-click, Adventure, Visual Novel","2010","11",0,0
+"Europa Universalis IV","Real Time Strategy (RTS), Simulator, Strategy","2013","08",0,0
+"Metal Gear Solid","Tactical, Adventure","1998","09",0,0
+"Metal Gear Solid 4: Guns of the Patriots","Shooter, Tactical, Adventure","2008","06",0,0
+"The Legend of Zelda: The Wind Waker","Puzzle, Role-playing (RPG), Adventure","2002","12",0,0
+"MLB 15: The Show","Sport","2015","03",0,0
+"Resident Evil 4","Shooter, Puzzle, Adventure","2023","03",0,1
+"Kingdom Come: Deliverance","Role-playing (RPG), Adventure","2018","02",0,1
+"Pok<U+00E9>mon Crystal",NA,NA,NA,0,0
+"The Town of Light","Adventure, Indie","2016","02",0,0
+"The Guest","Puzzle, Adventure, Indie","2016","03",0,0
+"Metal Gear Solid: Peace Walker","Shooter, Strategy","2010","04",0,0
+"Hitman: Blood Money","Shooter","2006","05",0,0
+"Enter the Gungeon","Shooter, Adventure, Indie, Arcade","2016","04",0,0
+"Quantum Break","Shooter, Adventure","2016","04",0,0
+"DOOM","Shooter","2019","07",0,1
+"Ratchet & Clank","Shooter, Platform, Adventure","2002","11",0,0
+"RimWorld","Real Time Strategy (RTS), Simulator, Strategy, Indie","2018","10",0,1
+"Battleborn","Shooter, Real Time Strategy (RTS), Role-playing (RPG), Strategy, Hack and slash/Beat 'em up","2016","05",0,0
+"Gears of War 4","Shooter","2016","10",0,0
+"Dreadnought","Shooter, Simulator","2017","08",0,1
+"Slither","Shooter, Adventure, Arcade","1982","12",0,0
+"Crossout","Shooter, Racing, Simulator","2017","05",0,1
+"Hyper Light Drifter","Shooter, Role-playing (RPG), Hack and slash/Beat 'em up, Adventure, Indie","2016","03",0,0
+"Final Fantasy IX","Role-playing (RPG), Turn-based strategy (TBS), Adventure","2016","02",0,0
+"Mad Max","Shooter, Racing, Adventure","2015","09",0,0
+"Town of Salem","Role-playing (RPG), Strategy, Indie","2014","12",0,0
+"Overlord II","Role-playing (RPG), Strategy, Hack and slash/Beat 'em up, Adventure","2009","06",0,0
+"ARK: Survival Of The Fittest","Shooter, Role-playing (RPG), Strategy, Adventure, Indie","2016","03",0,0
+"Breaking Point","Shooter, Role-playing (RPG)","2015","12",0,0
+"Tower Unite","Shooter, Racing, Simulator, Sport, Adventure, Indie, Arcade, Card & Board Game","2016","04",0,0
+"RollerCoaster Tycoon World","Simulator, Strategy","2016","11",0,0
+"Chowderchu","Platform, Adventure, Indie","2016","01",0,0
+"Nioh","Role-playing (RPG), Hack and slash/Beat 'em up, Adventure","2017","02",0,1
+"Mirror's Edge Catalyst","Platform, Adventure","2016","06",0,0
+"Pineview Drive","Adventure, Indie","2014","07",0,0
+"Orcs Must Die! Unchained","Real Time Strategy (RTS), Strategy, Tactical, Indie","2017","03",0,1
+"Deus Ex: Human Revolution - Director's Cut","Shooter, Puzzle, Role-playing (RPG), Adventure","2013","10",0,0
+"Chess","Simulator, Sport, Strategy, Indie, Card & Board Game","2017","09",0,1
+"Borderlands: The Handsome Collection","Shooter, Role-playing (RPG)","2015","03",0,0
+"Star Fox Zero","Shooter, Adventure","2016","04",0,0
+"Planet Coaster","Simulator, Strategy","2016","11",0,0
+"Supernova",NA,NA,NA,0,0
+"Game & Wario","Shooter, Puzzle, Sport","2013","03",0,0
+"Battlefleet Gothic: Armada","Real Time Strategy (RTS), Strategy, Tactical","2016","04",0,0
+"Choice Chamber","Platform, Hack and slash/Beat 'em up, Indie","2015","07",0,0
+"Super Mario Galaxy 2","Platform, Adventure","2010","05",0,0
+"Call of Duty: Modern Warfare 2","Shooter","2009","11",0,0
+"DiRT Rally","Racing, Simulator, Sport","2015","12",0,0
+"Uncharted: The Nathan Drake Collection","Shooter, Platform, Puzzle, Adventure","2015","10",0,0
+"Nioh_","Role-playing (RPG), Hack and slash/Beat 'em up, Adventure","2017","02",0,1
+"Guilty Gear Xrd: Revelator","Fighting, Arcade","2015","08",0,0
+"Uncharted 4: A Thief's End","Shooter, Adventure","2016","05",0,0
+"Total War: Warhammer","Real Time Strategy (RTS), Role-playing (RPG), Strategy, Turn-based strategy (TBS)","2016","05",0,0
+"Stellaris","Real Time Strategy (RTS), Simulator, Strategy","2016","05",0,0
+"Gang Beasts","Fighting, Indie","2017","12",0,1
+"Call of Duty: Black Ops","Shooter","2010","11",0,0
+"Homefront: The Revolution","Shooter, Adventure","2016","05",0,0
+"TrackMania 2: Stadium","Racing, Sport","2013","06",0,0
+"DC Universe Online","Fighting, Role-playing (RPG), Hack and slash/Beat 'em up, Adventure, Indie","2011","01",0,0
+"Dragon Quest Builders","Role-playing (RPG), Adventure","2016","01",0,0
+"Youtubers Life","Simulator, Strategy, Adventure, Indie","2016","05",0,0
+"Danganronpa 2: Goodbye Despair","Point-and-click, Adventure, Visual Novel","2012","07",0,0
+"Slither.io","Simulator, Arcade","2016","03",0,0
+"Parkitect","Simulator, Strategy, Indie","2018","11",0,1
+"Super Mario 3D World","Platform, Adventure","2021","02",0,1
+"HEX: Shards of Fate","Role-playing (RPG), Strategy, Turn-based strategy (TBS), Card & Board Game","2016","01",0,0
+"Call of Duty 4: Modern Warfare","Shooter, Simulator","2007","11",0,0
+"Blackwake","Shooter, Simulator, Strategy, Indie","2017","02",0,1
+"NBA 2K15","Simulator, Sport","2014","10",0,0
+"PlanetSide 2","Shooter, Role-playing (RPG), Tactical, Arcade","2012","11",0,0
+"Pro Evolution Soccer 2016","Simulator, Sport","2015","09",0,0
+"Monstrum","Indie","2015","05",0,0
+"Monopoly","Strategy, Card & Board Game","2012","09",0,0
+"S.T.A.L.K.E.R.: Call of Pripyat","Shooter, Role-playing (RPG)","2009","10",0,0
+"DOOM 3","Shooter","2019","07",0,1
+"Uncharted 2: Among Thieves","Shooter, Platform, Adventure","2009","10",0,0
+"Prison Architect","Simulator, Strategy, Adventure, Indie","2015","10",0,0
+"Tekken 7","Fighting","2015","02",0,0
+"Call of Duty: Modern Warfare 3","Shooter, Tactical, Adventure","2011","11",0,0
+"Battlefield Hardline","Shooter","2015","03",0,0
+"Barbie and The Magic of Pegasus","Puzzle, Adventure","2005","10",0,0
+"Cards Against Humanity","Card & Board Game","2020","11",0,1
+"E3 2016",NA,NA,NA,0,0
+"Dead by Daylight","Strategy","2016","06",0,0
+"Shattered Skies","Shooter, Role-playing (RPG), Adventure, Indie","2016","07",0,0
+"Hearts of Iron IV","Real Time Strategy (RTS), Simulator, Strategy","2016","06",0,0
+"Neverwinter","Role-playing (RPG), Adventure","2013","06",0,0
+"Ragnarok Online","Role-playing (RPG), Adventure","2002","08",0,0
+"Drawful 2","Strategy, Quiz/Trivia, Indie, Card & Board Game","2016","06",0,0
+"Sherlock Holmes: The Devil's Daughter","Puzzle, Adventure","2016","06",0,0
+"Mighty No. 9","Shooter, Platform, Adventure, Arcade","2016","06",0,0
+"Forza Motorsport 6","Racing, Simulator, Sport","2015","09",0,0
+"Crea","Role-playing (RPG), Adventure, Indie","2016","06",0,0
+"Shadowverse","Role-playing (RPG), Strategy, Turn-based strategy (TBS), Card & Board Game","2016","06",0,0
+"Bloons TD 5","Simulator, Strategy, Tactical","2011","12",0,0
+"Star Ocean: Integrity and Faithlessness","Role-playing (RPG), Adventure","2016","03",0,0
+"Reign of Kings","Role-playing (RPG), Simulator, Adventure, Indie","2015","03",0,0
+"Battlefield: Bad Company 2","Shooter, Simulator, Strategy, Adventure","2010","03",0,0
+"Final Fantasy V","Role-playing (RPG), Adventure","1992","12",0,0
+"RollerCoaster Tycoon 2","Real Time Strategy (RTS), Simulator, Strategy","2002","10",0,0
+"Chronicle: RuneScape Legends","Strategy, Turn-based strategy (TBS), Adventure, Card & Board Game","2015","11",0,0
+"Metin2","Role-playing (RPG), Adventure","2006","12",0,0
+"LawBreakers","Shooter, Sport","2017","08",0,1
+"LEGO Star Wars: The Force Awakens","Platform, Puzzle, Hack and slash/Beat 'em up, Adventure","2016","06",0,0
+"Goat Simulator","Simulator, Indie","2014","09",0,0
+"Social Eating",NA,NA,NA,0,0
+"Savage: Resurrection","Shooter, Real Time Strategy (RTS), Role-playing (RPG), Strategy","2016","05",0,0
+"Vampire: The Masquerade - Bloodlines","Role-playing (RPG)","2004","11",0,0
+"The Mean Greens: Plastic Warfare","Shooter, Indie","2015","12",0,0
+"Pok<U+00E9>mon GO",NA,NA,NA,0,0
+"Evolve","Shooter","2015","02",0,0
+"Battlefield 1","Shooter","2016","10",0,0
+"INSIDE","Platform, Puzzle, Adventure, Indie","2016","06",0,0
+"Furi","Shooter, Hack and slash/Beat 'em up, Adventure, Indie","2016","07",0,0
+"We Happy Few","Shooter, Adventure, Indie","2018","08",0,1
+"L.A. Noire","Shooter, Strategy, Adventure","2017","11",0,1
+"Starbound","Platform, Role-playing (RPG), Adventure, Indie","2016","07",0,0
+"Monster Hunter Generations","Role-playing (RPG), Hack and slash/Beat 'em up, Adventure","2015","11",0,0
+"The Elder Scrolls III: Morrowind","Role-playing (RPG), Adventure","2002","05",0,0
+"Final Fantasy VI","Role-playing (RPG), Adventure","2022","02",0,1
+"Red Dead Redemption","Shooter, Role-playing (RPG), Adventure","2010","05",0,0
+"Kartrider","Racing, Arcade","2004","06",0,0
+"Super Mario RPG: Legend of the Seven Stars","Role-playing (RPG), Adventure","1996","03",0,0
+"Virtual Reality","Simulator, Adventure, Indie","2017","03",0,1
+"Necropolis","Puzzle, Adventure, Indie","2016","07",0,0
+"DNC 2016",NA,NA,NA,0,0
+"Zero Escape: Zero Time Dilemma","Puzzle, Role-playing (RPG), Strategy, Adventure, Visual Novel","2016","06",0,0
+"Tekken 7: Fated Retribution","Fighting","2016","07",0,0
+"Donkey Kong Country: Tropical Freeze","Platform","2014","02",0,0
+"The Legend of Zelda: Four Swords Adventures","Adventure","2004","06",0,0
+"Trials Fusion","Platform, Racing, Sport, Arcade","2014","04",0,0
+"Miscreated","Shooter, Role-playing (RPG), Simulator, Strategy, Adventure, Indie","2018","12",0,1
+"The Legend of Zelda: Link's Awakening DX","Role-playing (RPG), Adventure","1998","12",0,0
+"60 Seconds!","Simulator, Strategy, Adventure, Indie","2015","05",0,0
+"RNC 2016",NA,NA,NA,0,0
+"Wolfenstein: The New Order","Shooter, Adventure","2014","05",0,0
+"Pikmin","Real Time Strategy (RTS), Adventure","2001","10",0,0
+"Sonic the Hedgehog","Platform","2008","07",0,0
+"QuackShot starring Donald Duck","Platform","1991","09",0,0
+"Human: Fall Flat","Platform, Puzzle, Simulator, Adventure, Indie","2016","07",0,0
+"Kirby: Nightmare in Dream Land","Platform, Adventure","2002","10",0,0
+"Mega Man Zero 2","Shooter, Platform, Adventure","2003","05",0,0
+"Mega Man ZX Advent","Shooter, Platform, Adventure","2007","07",0,0
+"Mafia II","Shooter, Racing, Adventure","2010","08",0,0
+"Mega Man X2","Shooter, Platform, Adventure","1994","12",0,0
+"Castlevania: Symphony of the Night","Platform, Role-playing (RPG), Adventure","1997","03",0,0
+"The Legend of Zelda: A Link Between Worlds","Puzzle, Role-playing (RPG), Adventure","2013","11",0,0
+"Illusion of Gaia","Role-playing (RPG)","1993","11",0,0
+"Pepsiman","Platform, Adventure","1999","03",0,0
+"Star Wars: Knights of the Old Republic","Role-playing (RPG), Adventure","2003","07",0,0
+"BioShock","Shooter, Puzzle, Role-playing (RPG), Adventure","2007","08",0,0
+"Riders of Icarus","Role-playing (RPG), Adventure","2016","07",0,0
+"Donkey Kong 64","Platform, Adventure","1999","11",0,0
+"Zelda II: The Adventure of Link","Platform, Role-playing (RPG), Adventure","1987","01",0,0
+"Castlevania","Platform, Puzzle, Hack and slash/Beat 'em up, Adventure","1999","01",0,0
+"Hexen: Beyond Heretic","Shooter, Puzzle, Role-playing (RPG)","1995","10",0,0
+"New Super Mario Bros.","Platform, Adventure","2006","05",0,0
+"Jak and Daxter: The Precursor Legacy","Platform, Racing, Adventure","2001","12",0,0
+"Resident Evil 2","Shooter, Adventure","2019","01",0,1
+"Mark of the Ninja","Platform, Adventure, Indie","2012","09",0,0
+"Ape Escape","Platform","1999","06",0,0
+"Spyro: Year of the Dragon","Platform, Puzzle, Adventure","2000","10",0,0
+"Ghostbusters","Shooter, Platform","1990","06",0,0
+"VVVVVV","Platform, Puzzle, Adventure, Indie, Arcade","2010","01",0,0
+"Super Mario 64 DS","Platform, Adventure","2004","11",0,0
+"Defunct","Racing, Adventure, Indie","2016","01",0,0
+"I Am Setsuna","Role-playing (RPG), Adventure","2016","02",0,0
+"Sonic Adventure 2: Battle","Platform, Adventure","2001","12",0,0
+"No Man's Sky","Role-playing (RPG), Simulator, Adventure, Indie","2016","08",0,0
+"Deus Ex: Mankind Divided","Shooter, Puzzle, Role-playing (RPG), Adventure","2016","08",0,0
+"Madden NFL 17","Sport","2016","08",0,0
+"This Is the Police","Simulator, Strategy, Adventure, Indie","2016","07",0,0
+"Albion Online","Role-playing (RPG)","2017","07",0,1
+"Titanfall 2","Shooter, Adventure","2016","10",0,0
+"Batman: The Telltale Series","Point-and-click, Adventure","2016","08",0,0
+"Attack on Titan","Hack and slash/Beat 'em up","2016","02",0,0
+"The Elder Scrolls: Legends","Strategy, Turn-based strategy (TBS), Card & Board Game","2017","03",0,1
+"Worms W.M.D","Strategy, Turn-based strategy (TBS)","2016","08",0,0
+"ABZ<U+00DB>",NA,NA,NA,0,0
+"London 2012: The Official Video Game","Sport","2012","06",0,0
+"Beyond: Two Souls","Adventure","2013","10",0,0
+"The King of Fighters XIV","Fighting","2016","08",0,0
+"Pok<U+00E9>mon Trading Card Game",NA,NA,NA,0,0
+"Death Road to Canada","Role-playing (RPG), Adventure, Indie","2016","07",0,0
+"Kingdom: New Lands","Simulator, Strategy, Adventure, Indie, Arcade","2016","08",0,0
+"Bully: Scholarship Edition","Adventure","2008","02",0,0
+"Obduction","Point-and-click, Shooter, Puzzle, Adventure, Indie","2016","08",0,0
+"Resident Evil 5","Shooter, Adventure","2009","03",0,0
+"F1 2016","Racing, Simulator, Sport","2016","08",0,0
+"Squad","Shooter, Simulator, Strategy, Tactical, Indie","2020","09",0,1
+"Shadow of the Colossus","Platform, Puzzle, Adventure","2005","10",0,0
+"StarCraft: Brood War","Real Time Strategy (RTS), Strategy","1998","11",0,0
+"Final Fantasy Tactics: The War of the Lions","Role-playing (RPG), Simulator, Strategy, Turn-based strategy (TBS), Tactical, Adventure","2007","05",0,0
+"Google Go",NA,NA,NA,0,0
+"Age of Empires II: HD Edition","Real Time Strategy (RTS), Strategy","2013","04",0,0
+"Dragon Quest Heroes II","Role-playing (RPG), Hack and slash/Beat 'em up","2016","05",0,0
+"Divinity: Original Sin","Puzzle, Role-playing (RPG), Turn-based strategy (TBS), Adventure, Indie","2014","06",0,0
+"FIFA 17","Sport","2016","09",0,0
+"NBA 2K17","Sport","2016","09",0,0
+"For Honor","Fighting, Hack and slash/Beat 'em up","2017","02",0,1
+"Battlerite","Fighting, Real Time Strategy (RTS), Strategy, Hack and slash/Beat 'em up, MOBA","2017","11",0,1
+"Forza Horizon 3","Racing","2016","09",0,0
+"BioShock: The Collection","Shooter, Puzzle, Role-playing (RPG), Adventure","2016","09",0,0
+"ReCore","Platform, Adventure","2016","09",0,0
+"Tales of Berseria","Role-playing (RPG)","2016","08",0,0
+"The Bunker","Simulator, Adventure, Indie","2016","09",0,0
+"Mafia","Fighting, Shooter, Racing, Adventure","2002","08",0,0
+"Persona 5","Role-playing (RPG), Turn-based strategy (TBS), Adventure","2016","09",0,0
+"Paladins","Shooter, Strategy","2017","05",0,1
+"The Underground Man","Platform, Adventure, Indie","2016","09",0,0
+"Fallout: New Vegas","Shooter, Role-playing (RPG)","2010","10",0,0
+"Project Highrise","Simulator, Strategy, Indie","2016","09",0,0
+"Sid Meier's Civilization VI","Simulator, Strategy, Turn-based strategy (TBS)","2016","10",0,0
+"Dead Rising","Hack and slash/Beat 'em up, Adventure","2006","08",0,0
+"Smash + Grab","Real Time Strategy (RTS), Hack and slash/Beat 'em up","2016","09",0,0
+"Cossacks 3","Real Time Strategy (RTS), Strategy","2016","09",0,0
+"PLAYERUNKNOWN'S BATTLEGROUNDS","Shooter, Adventure, Indie","2019","10",0,1
+"Pro Evolution Soccer 2017","Simulator, Sport","2016","09",0,0
+"Event[0]","Puzzle, Adventure, Indie","2016","09",0,0
+"Divinity: Original Sin II","Role-playing (RPG), Strategy, Turn-based strategy (TBS), Adventure","2017","09",0,1
+"The Turing Test","Puzzle, Adventure","2016","08",0,0
+"Blood Bowl 2","Role-playing (RPG), Simulator, Sport, Strategy, Turn-based strategy (TBS)","2015","09",0,0
+"NHL 17","Sport","2016","09",0,0
+"Osiris: New Dawn","Role-playing (RPG), Adventure, Indie","2023","01",0,1
+"TwitchCon 2016",NA,NA,NA,0,0
+"Halcyon 6: Starbase Commander","Role-playing (RPG), Simulator, Strategy, Turn-based strategy (TBS), Indie","2016","09",0,0
+"Warhammer 40,000: Eternal Crusade","Shooter, Role-playing (RPG), Adventure","2016","09",0,0
+"Ghost of a Tale","Puzzle, Role-playing (RPG), Adventure, Indie","2018","03",0,1
+"Guitar Hero III: Legends of Rock","Music, Simulator","2007","10",0,0
+"Spongebob Squarepants: Battle For Bikini Bottom","Platform, Adventure","2003","10",0,0
+"Phoenix Wright: Ace Attorney <U+2212> Spirit of Justice",NA,NA,NA,0,0
+"Mafia III","Shooter, Racing, Adventure","2016","10",0,0
+"Call of Duty: Infinite Warfare","Shooter, Adventure","2016","11",0,0
+"Farming Simulator 17","Simulator, Strategy","2016","10",0,0
+"Shadow Warrior 2","Shooter, Puzzle, Role-playing (RPG), Adventure","2016","10",0,0
+"Dragon Ball: Xenoverse 2","Fighting, Role-playing (RPG), Simulator, Adventure","2016","10",0,0
+"Jackbox Party Packs","Puzzle, Strategy, Quiz/Trivia, Indie","2014","11",0,0
+"Tale of Wuxia","Role-playing (RPG), Simulator, Strategy, Adventure","2016","04",0,0
+"World of Final Fantasy","Role-playing (RPG), Tactical, Adventure","2016","10",0,0
+"WWE 2K17","Simulator, Sport","2016","10",0,0
+"My Summer Car","Racing, Simulator, Sport, Indie","2025","01",0,1
+"Dead Space 2","Shooter, Adventure","2011","01",0,0
+"Corpse Party","Adventure","2008","03",0,0
+"Dead Rising 2","Hack and slash/Beat 'em up, Adventure","2010","09",0,0
+"Syndrome","Shooter, Puzzle, Adventure","2016","10",0,0
+"Outlast 2","Adventure, Indie","2017","04",0,1
+"Clustertruck","Platform, Indie","2016","09",0,0
+"The Evil Within","Shooter, Puzzle, Adventure","2014","10",0,0
+"Amnesia: The Dark Descent","Puzzle, Adventure, Indie","2010","09",0,0
+"Silent Hill: Downpour","Adventure","2012","03",0,0
+"Silent Hill 2","Adventure","2012","03",0,0
+"Sword Art Online: Hollow Realization","Role-playing (RPG), Adventure","2016","10",0,0
+"The Ball","Shooter, Platform, Puzzle, Adventure, Indie","2010","10",0,0
+"Gwent: The Witcher Card Game","Role-playing (RPG), Strategy, Card & Board Game","2018","10",0,1
+"Five Nights at Freddy's: Sister Location","Point-and-click, Simulator, Strategy, Adventure, Indie","2016","10",0,0
+"Through the Woods","Adventure, Indie","2016","10",0,0
+"Dead Space 3","Shooter, Puzzle, Adventure","2013","02",0,0
+"Paper Mario: Color Splash","Role-playing (RPG), Adventure","2016","10",0,0
+"Mass Effect","Shooter, Role-playing (RPG)","2007","11",0,0
+"Silent Hill","Puzzle, Adventure","1999","02",0,0
+"Resident Evil: Code Veronica X HD","Shooter, Puzzle, Adventure","2011","09",0,0
+"Condemned: Criminal Origins","Shooter, Puzzle, Adventure","2005","11",0,0
+"Silent Hill 3","Puzzle, Adventure","2003","05",0,0
+"LEGO The Lord of the Rings","Adventure","2012","11",0,0
+"Stone Age",NA,NA,NA,0,0
+"Rock Band 4","Music, Simulator","2015","10",0,0
+"Revelation","Puzzle","1991","12",0,0
+"Harvester","Point-and-click, Adventure","1996","09",0,0
+"Resident Evil 3: Nemesis","Shooter, Puzzle, Adventure","1999","09",0,0
+"Phantasmagoria","Point-and-click, Adventure","1995","08",0,0
+"Horror Stories","Puzzle, Indie, Arcade","2019","02",0,1
+"BlazBlue: Central Fiction","Fighting, Arcade","2015","11",0,0
+"Call of Duty: Modern Warfare Remastered","Shooter","2016","11",0,0
+"Pok<U+00E9>mon Sun/Moon",NA,NA,NA,0,0
+"Watch Dogs 2","Shooter, Adventure","2016","11",0,0
+"Dishonored 2","Shooter, Role-playing (RPG), Adventure","2016","11",0,0
+"Steep","Simulator, Sport, Adventure","2016","12",0,0
+"Penn & Teller's Smoke and Mirrors","Arcade","1995","05",0,0
+"Transport Fever","Real Time Strategy (RTS), Simulator, Tactical","2016","11",0,0
+"Extra Life",NA,NA,NA,0,0
+"Mass Effect 2","Shooter, Role-playing (RPG), Adventure","2010","01",0,0
+"Football Manager 2017","Simulator, Sport","2016","11",0,0
+"Tyranny","Real Time Strategy (RTS), Role-playing (RPG), Strategy, Adventure","2016","11",0,0
+"Diablo","Role-playing (RPG), Strategy","1996","12",0,0
+"Owlboy","Platform, Puzzle, Adventure, Indie","2016","11",0,0
+"Bioshock Infinite","Shooter, Adventure","2014","11",0,0
+"The Political Machine 2016","Simulator, Strategy, Indie","2016","02",0,0
+"Killing Floor 2","Shooter","2016","11",0,0
+"Revelation Online","Role-playing (RPG)","2015","06",0,0
+"Just Dance 2017","Music","2016","10",0,0
+"ARAYA","Adventure, Indie","2016","11",0,0
+"Hello Neighbor","Puzzle, Role-playing (RPG), Strategy, Adventure, Indie","2017","12",0,1
+"The Isle","Fighting, Shooter, Role-playing (RPG), Simulator, Strategy, Adventure, Indie","2015","12",0,0
+"MXM","Fighting, Real Time Strategy (RTS), Sport, Strategy, Tactical","2017","06",0,1
+"Infestation: The New Z","Shooter, Role-playing (RPG), Indie","2016","11",0,0
+"Animal Crossing: New Leaf","Simulator","2012","11",0,0
+"Destiny Child","Role-playing (RPG), Simulator","2016","10",0,0
+"Friday the 13th: The Game","Indie","2017","05",0,1
+"IRL","Indie, Visual Novel","2020","10",0,1
+"Let It Die","Hack and slash/Beat 'em up","2016","12",0,0
+"The Last Guardian","Platform, Puzzle, Adventure","2016","12",0,0
+"ASTRONEER","Simulator, Adventure, Indie","2019","02",0,1
+"Yakuza 6: The Song of Life","Role-playing (RPG), Hack and slash/Beat 'em up, Adventure","2016","12",0,0
+"Dead Rising 4","Shooter, Hack and slash/Beat 'em up, Adventure","2016","12",0,0
+"Escape From Tarkov","Shooter, Role-playing (RPG), Simulator, Tactical","2017","07",0,1
+"Casino_old",NA,NA,NA,0,0
+"Resident Evil 7 biohazard","Shooter, Puzzle, Adventure","2017","01",0,1
+"The Walking Dead: A New Frontier","Point-and-click, Adventure","2016","12",0,0
+"The Game Awards 2016",NA,NA,NA,0,0
+"Stonehearth","Real Time Strategy (RTS), Simulator, Strategy, Indie","2013","12",0,0
+"The Binding of Isaac: Rebirth","Shooter, Puzzle, Role-playing (RPG), Adventure, Indie, Arcade","2014","11",0,0
+"Viscera Cleanup Detail","Simulator, Indie","2015","10",0,0
+"Shoppe Keep","Role-playing (RPG), Simulator, Strategy, Adventure, Indie","2016","05",0,0
+"Shadow Tactics: Blades of the Shogun","Real Time Strategy (RTS), Simulator, Strategy, Tactical, Indie","2016","12",0,0
+"The Walking Dead: Season Two","Point-and-click, Puzzle, Adventure","2013","12",0,0
+"Ultimate Chicken Horse","Shooter, Platform, Adventure, Indie, Arcade","2016","03",0,0
+"Karaoke","Music","2012","12",0,0
+"Fate/Extella: The Umbral Star","Fighting, Hack and slash/Beat 'em up","2016","11",0,0
+"Eternal Card Game","Puzzle, Role-playing (RPG), Strategy, Turn-based strategy (TBS), Card & Board Game","2018","11",0,1
+"Rhythm Tengoku: The Best Plus","Music","2015","06",0,0
+"Transport Tycoon Deluxe","Simulator, Strategy","1995","12",0,0
+"Space Hulk: Deathwing","Shooter, Hack and slash/Beat 'em up, Adventure","2016","12",0,0
+"Breakaway",NA,NA,NA,0,0
+"Conan Exiles","Fighting, Role-playing (RPG), Simulator, Strategy, Adventure","2018","05",1,0
+"Pok<U+00E9>mon Emerald",NA,NA,NA,0,0
+"Final Fantasy","Role-playing (RPG), Adventure","2021","07",1,0
+"Detention","Point-and-click, Puzzle, Role-playing (RPG), Adventure, Indie","2017","01",1,0
+"The Legend of Zelda: Ocarina of Time 3D","Puzzle, Role-playing (RPG), Adventure","2011","06",0,0
+"Star Wars: Force Arena","Real Time Strategy (RTS), Strategy","2017","01",1,0
+"Resident Evil 6","Shooter, Adventure","2012","10",0,0
+"UNO","Puzzle, Quiz/Trivia, Card & Board Game","2013","04",0,0
+"Tetris with Cardcaptor Sakura: Eternal Heart","Puzzle","2000","08",0,0
+"Mega Man","Platform","1995","12",0,0
+"Halo 2","Shooter","2004","11",0,0
+"Kirby's Dream Land 3","Platform, Adventure","1997","11",0,0
+"Assassin's Creed II","Platform, Adventure","2009","11",0,0
+"The Legend of Zelda: The Minish Cap","Puzzle, Role-playing (RPG), Adventure","2004","11",0,0
+"Batman: Arkham City","Hack and slash/Beat 'em up, Adventure","2011","10",0,0
+"Devil May Cry","Hack and slash/Beat 'em up, Adventure","2001","08",0,0
+"Sly Cooper and the Thievius Raccoonus","Platform, Adventure","2002","09",0,0
+"Metroid Prime 2: Echoes","Shooter, Platform, Puzzle, Adventure","2004","11",0,0
+"Silent Hill 4: The Room","Adventure","2004","06",0,0
+"Blaster Master","Shooter, Platform, Adventure, Arcade","1988","06",0,0
+"Kirby Super Star","Platform, Adventure","1996","03",0,0
+"Grand Theft Auto: Vice City","Shooter, Racing, Adventure, Arcade","2002","10",0,0
+"Left 4 Dead","Shooter","2008","11",0,0
+"Sonic Advance 2","Platform, Adventure","2002","12",0,0
+"Shovel Knight","Platform, Adventure, Indie","2014","06",0,0
+"Mega Man Legends","Shooter, Role-playing (RPG), Adventure","1997","12",0,0
+"The Legend of Korra","Fighting, Hack and slash/Beat 'em up, Adventure","2014","10",0,0
+"Trauma Center: New Blood","Puzzle, Simulator, Adventure","2007","11",0,0
+"Castlevania: Rondo of Blood","Platform, Adventure","1993","10",0,0
+"Mega Man Network Transmission","Platform, Role-playing (RPG)","2003","03",0,0
+"Super Castlevania IV","Platform, Adventure","1991","10",0,0
+"Crash Bandicoot 2: Cortex Strikes Back","Platform, Adventure","1997","11",0,0
+"Sparkster","Shooter, Platform","1994","09",0,0
+"Rocket: Robot on Wheels","Platform","1999","10",0,0
+"Horizon Zero Dawn","Shooter, Role-playing (RPG), Adventure","2017","02",1,0
+"Tom Clancy's Ghost Recon: Wildlands","Shooter, Tactical, Adventure","2017","03",1,0
+"Sniper Elite 4","Shooter, Tactical, Adventure","2017","02",1,0
+"NieR: Automata","Role-playing (RPG), Hack and slash/Beat 'em up","2017","02",1,0
+"Oxygen Not Included","Simulator, Strategy, Indie","2019","07",1,0
+"IMDb Live Viewing Party",NA,NA,NA,0,0
+"theHunter: Call of the Wild","Shooter, Simulator, Sport, Strategy, Adventure","2017","02",1,0
+"Hollow Knight","Platform, Adventure, Indie","2017","02",1,0
+"The Wild Eight","Role-playing (RPG), Simulator, Adventure, Indie","2018","02",1,0
+"Halo Wars 2","Real Time Strategy (RTS), Strategy","2017","02",1,0
+"Super Robot Taisen V","Role-playing (RPG), Simulator, Strategy, Tactical","2017","02",1,0
+"Yu-Gi-Oh! Duel Links","Role-playing (RPG), Simulator, Strategy, Turn-based strategy (TBS), Quiz/Trivia, Adventure, Card & Board Game","2016","11",0,0
+"Berserk and the Band of the Hawk","Hack and slash/Beat 'em up","2016","10",0,0
+"Injustice 2","Fighting","2017","05",1,0
+"Night in the Woods","Platform, Adventure, Indie","2017","02",1,0
+"Fire Emblem Heroes","Role-playing (RPG), Simulator, Strategy, Turn-based strategy (TBS)","2017","02",1,0
+"Hand of Fate","Role-playing (RPG), Strategy, Turn-based strategy (TBS), Hack and slash/Beat 'em up, Adventure, Indie, Card & Board Game","2015","02",0,0
+"The Legend of Zelda: Skyward Sword","Platform, Puzzle, Role-playing (RPG), Adventure","2011","11",0,0
+"Tricky Towers","Puzzle, Indie, Arcade","2016","08",0,0
+"Brawlhalla","Fighting, Platform, Indie, Arcade","2014","04",0,0
+"Digimon World: Next Order","Role-playing (RPG), Simulator, Adventure","2017","01",1,0
+"Phoning Home","Adventure, Indie","2017","02",1,0
+"The Legend of Zelda: Breath of the Wild","Puzzle, Role-playing (RPG), Adventure","2017","03",1,0
+"Power Rangers: Battle for the Grid","Fighting","2019","03",1,0
+"Mass Effect: Andromeda","Shooter, Role-playing (RPG), Adventure","2017","03",1,0
+"Deceit","Shooter, Tactical, Indie","2017","03",1,0
+"MLB The Show 17","Sport","2017","03",1,0
+"Finding Bigfoot",NA,NA,NA,0,0
+"The Escapists","Puzzle, Role-playing (RPG), Simulator, Strategy, Tactical, Adventure, Indie","2015","02",0,0
+"Golf It!","Simulator, Sport, Indie","2017","02",1,0
+"Disc Jam","Sport, Indie, Arcade","2017","03",1,0
+"Kingdom Hearts HD 1.5 + 2.5 ReMIX","Role-playing (RPG), Adventure","2017","03",1,0
+"Middle-earth: Shadow of Mordor","Role-playing (RPG), Hack and slash/Beat 'em up, Adventure","2014","09",0,0
+"Brawl of Ages","Strategy","2017","09",1,0
+"Monster Hunter Generations Ultimate","Role-playing (RPG), Hack and slash/Beat 'em up","2017","03",1,0
+"Worms Armageddon","Shooter, Platform, Strategy","1999","01",0,0
+"Line of Sight","Shooter, Indie","2017","01",1,0
+"Kona","Puzzle, Adventure, Indie","2017","03",1,0
+"Spelunky","Platform, Adventure, Indie","2012","07",0,0
+"Power Rangers Samurai","Fighting","2011","11",0,0
+"LEGO Worlds","Puzzle, Adventure","2017","03",1,0
+"Stories Untold","Puzzle, Adventure, Indie","2017","02",1,0
+"Crusader Kings II","Role-playing (RPG), Simulator, Strategy","2012","02",0,0
+"Vikings: Wolves of Midgard","Role-playing (RPG), Hack and slash/Beat 'em up","2017","03",1,0
+"Warhammer 40,000: Dawn of War III","Real Time Strategy (RTS), Simulator, Strategy","2017","04",1,0
+"Yooka-Laylee","Platform, Adventure, Indie","2017","04",1,0
+"Little Nightmares","Platform, Puzzle, Strategy, Adventure, Indie","2017","04",1,0
+"Domina","Simulator, Strategy, Indie","2017","04",1,0
+"Welcome to the Game","Puzzle, Simulator, Indie","2016","06",0,0
+"I Wanna Be The Boshy","Shooter, Platform, Puzzle","2010","11",0,0
+"Bayonetta","Shooter, Hack and slash/Beat 'em up, Adventure","2020","02",1,0
+"Late Shift","Simulator, Adventure, Indie","2017","04",1,0
+"Cosmos",NA,NA,NA,0,0
+"Use Your Words","Puzzle, Indie, Card & Board Game","2017","04",1,0
+"Sniper: Ghost Warrior 3","Shooter, Tactical","2017","04",1,0
+"Thimbleweed Park","Point-and-click, Puzzle, Adventure, Indie","2017","03",1,0
+"Kindergarten","Adventure, Indie","2017","04",1,0
+"Paradigm","Point-and-click, Adventure, Indie","2017","04",1,0
+"Skyforge","Role-playing (RPG), Hack and slash/Beat 'em up, Adventure","2017","04",1,0
+"Battle Brothers","Role-playing (RPG), Strategy, Turn-based strategy (TBS), Tactical, Adventure, Indie","2017","03",1,0
+"Syberia 3","Point-and-click, Puzzle, Adventure","2017","04",1,0
+"Cat Goes Fishing","Simulator, Indie","2015","01",0,0
+"Prey","Shooter, Puzzle, Role-playing (RPG), Adventure","2017","05",1,0
+"DRAGON BALL Z DOKKAN BATTLE","Fighting, Puzzle, Role-playing (RPG), Card & Board Game","2015","07",0,0
+"What Remains of Edith Finch","Puzzle, Adventure, Indie","2017","04",1,0
+"DropZone","Real Time Strategy (RTS), Strategy","2017","03",1,0
+"Call of Duty: WWII","Shooter","2017","11",1,0
+"PaRappa the Rapper","Music","1996","12",0,0
+"The Surge","Role-playing (RPG), Adventure","2017","05",1,0
+"Mister Rogers' Neighborhood",NA,NA,NA,0,0
+"Dead Cells","Platform, Adventure, Indie","2018","08",1,0
+"Quake Champions","Shooter","2022","08",1,0
+"Worlds Adrift","Role-playing (RPG), Adventure, Indie","2017","05",1,0
+"Destiny 2","Shooter, Role-playing (RPG), Adventure","2017","09",1,0
+"Forts","Real Time Strategy (RTS), Strategy","2017","04",1,0
+"FINAL FANTASY XIV Online","Role-playing (RPG)","2013","08",0,0
+"Immortal Redneck","Shooter, Indie, Arcade","2017","04",1,0
+"Guilty Gear Xrd Rev 2","Fighting","2017","03",1,0
+"NBA Playgrounds","Sport, Arcade","2017","05",1,0
+"Star Trek: Bridge Crew","Role-playing (RPG), Simulator, Adventure","2017","05",1,0
+"Super Senso","Strategy, Turn-based strategy (TBS)","2016","11",0,0
+"Vanquish","Shooter, Adventure","2010","10",0,0
+"The Long Journey Home","Role-playing (RPG), Simulator, Strategy, Adventure, Indie","2017","05",1,0
+"Old Spice Games",NA,NA,NA,0,0
+"Tropico 5","Role-playing (RPG), Simulator, Strategy","2014","05",0,0
+"Rising Storm 2: Vietnam","Shooter, Simulator, Strategy, Indie","2017","05",1,0
+"The Infectious Madness of Doctor Dekker","Point-and-click, Puzzle, Simulator, Adventure, Indie","2017","05",1,0
+"RiME","Platform, Puzzle, Adventure, Indie","2017","05",1,0
+"Girls' Frontline","Shooter, Real Time Strategy (RTS), Role-playing (RPG), Simulator, Strategy, Tactical","2016","05",0,0
+"Pok<U+00E9>mon Trading Card Game Online",NA,NA,NA,0,0
+"Strafe","Shooter, Indie, Arcade","2017","05",1,0
+"Fire Emblem Echoes: Shadows of Valentia","Role-playing (RPG), Turn-based strategy (TBS), Adventure","2017","04",1,0
+"Ben and Ed - Blood Party","Indie","2018","02",1,0
+"E3 2017",NA,NA,NA,0,0
+"SOS","Shooter, Adventure","2018","01",1,0
+"ARMS","Role-playing (RPG), Strategy, Turn-based strategy (TBS)","2006","01",0,0
+"Witch It","Shooter, Indie","2020","10",1,0
+"Bethesda at E3",NA,NA,NA,0,0
+"Passpartout: The Starving Artist","Simulator, Adventure, Indie","2017","06",1,0
+"Mystery Science Theater 3000",NA,NA,NA,0,0
+"Crash Bandicoot N. Sane Trilogy","Platform, Adventure","2017","06",1,0
+"EverQuest","Role-playing (RPG), Adventure","1999","03",0,0
+"Get Even","Shooter, Adventure","2017","06",1,0
+"Ys VIII: Lacrimosa of Dana","Role-playing (RPG), Adventure","2016","07",0,0
+"Perception","Adventure, Indie","2017","05",1,0
+"Die Young","Simulator, Adventure, Indie","2019","09",1,0
+"Brawl Stars","Shooter, Strategy, MOBA","2018","12",1,0
+"Metro 2033","Shooter, Role-playing (RPG)","2010","03",0,0
+"Conarium","Puzzle, Adventure, Indie","2017","06",1,0
+"Marvel Future Fight","Fighting, Role-playing (RPG)","2015","03",0,0
+"Everspace","Fighting, Shooter, Simulator, Indie","2017","05",1,0
+"Mount & Blade: Warband","Shooter, Role-playing (RPG), Simulator, Strategy, Adventure","2010","03",0,0
+"Fortnite","Shooter, Role-playing (RPG), Simulator, Strategy, Adventure","2017","07",1,0
+"Anime",NA,"2024","09",1,0
+"Dark and Light","Role-playing (RPG), Simulator, Adventure","2017","07",1,0
+"Splatoon 2","Shooter, Platform","2017","07",1,0
+"Gigantic","Real Time Strategy (RTS), Strategy","2017","06",1,0
+"Final Fantasy XII: The Zodiac Age","Role-playing (RPG), Adventure","2017","07",1,0
+"Citadel: Forged With Fire","Shooter, Role-playing (RPG), Adventure, Indie","2019","11",1,0
+"EarthBound","Role-playing (RPG), Turn-based strategy (TBS), Adventure","1994","08",0,0
+"The End Is Nigh","Platform, Adventure, Indie","2017","07",1,0
+"Pok<U+00E9>mon HeartGold/SoulSilver",NA,NA,NA,0,0
+"Dream Daddy: A Dad Dating Simulator","Simulator, Adventure, Indie, Visual Novel","2017","07",1,0
+"Angvik","Platform, Indie","2014","01",0,0
+"Chrono Trigger","Role-playing (RPG), Adventure","1995","03",0,0
+"Kingdom Hearts II","Role-playing (RPG), Adventure","2005","12",0,0
+"StarCraft","Real Time Strategy (RTS), Strategy","1998","03",0,0
+"God of War Collection","Hack and slash/Beat 'em up, Adventure","2009","11",0,0
+"Tetris: The Grand Master","Puzzle, Arcade","1998","08",0,0
+"Next Day: Survival","Shooter, Role-playing (RPG), Indie","2018","05",1,0
+"Kingdoms and Castles","Simulator, Strategy, Indie","2017","07",1,0
+"Azure Striker GUNVOLT 2","Shooter, Platform, Adventure, Indie","2016","09",0,0
+"Super Monkey Ball Deluxe","Platform, Puzzle","2005","03",0,0
+"Onimusha: Warlords","Role-playing (RPG), Adventure","2019","01",1,0
+"Call of Duty: Ghosts","Shooter","2013","11",0,0
+"For The King","Puzzle, Strategy, Adventure","1998","12",0,0
+"Jet Set Radio Future","Music, Platform, Racing, Sport","2002","02",0,0
+"Brothers: A Tale of Two Sons","Puzzle, Adventure, Indie","2013","08",0,0
+"StarTropics","Role-playing (RPG), Adventure","1990","12",0,0
+"Halo: Combat Evolved","Shooter","2001","11",0,0
+"Kirby: Planet Robobot","Platform, Adventure","2016","04",0,0
+"Bionic Commando Rearmed","Shooter, Platform, Arcade","2008","08",0,0
+"Poly Bridge","Puzzle, Simulator, Indie","2016","07",0,0
+"Guacamelee! Gold Edition","Platform, Hack and slash/Beat 'em up, Adventure, Indie","2013","08",0,0
+"House Party","Role-playing (RPG), Simulator, Adventure, Indie","2022","07",1,0
+"God of War III","Hack and slash/Beat 'em up, Adventure","2010","03",0,0
+"Freedom Planet","Platform, Puzzle, Adventure, Indie","2014","07",0,0
+"Luigi's Mansion","Adventure","2018","10",1,0
+"Prince of Persia: The Sands of Time","Platform, Puzzle, Adventure","2003","11",0,0
+"Poi","Platform, Adventure, Indie","2015","11",0,0
+"XCOM 2: War of the Chosen","Simulator, Strategy, Turn-based strategy (TBS)","2017","08",1,0
+"Dauntless","Role-playing (RPG), Adventure","2019","09",1,0
+"Hellblade: Senua's Sacrifice","Simulator, Hack and slash/Beat 'em up, Adventure, Indie","2017","08",1,0
+"Madden NFL 18","Sport","2017","08",1,0
+"Uncharted: The Lost Legacy","Shooter, Puzzle, Adventure","2017","08",1,0
+"Gamescom 2017",NA,NA,NA,0,0
+"Absolver","Fighting, Role-playing (RPG), Adventure, Indie","2017","08",1,0
+"Observer","Adventure, Indie","2017","08",1,0
+"Mario + Rabbids Kingdom Battle","Puzzle, Role-playing (RPG), Strategy, Tactical, Adventure","2017","08",1,0
+"Sonic Mania","Platform, Adventure","2017","08",1,0
+"The Escapists 2","Puzzle, Role-playing (RPG), Simulator, Strategy, Tactical, Adventure, Indie","2017","08",1,0
+"White Day: A Labyrinth Named School","Adventure, Indie","2017","08",1,0
+"Wrestling",NA,"1990","12",0,0
+"Darkwood","Role-playing (RPG), Adventure, Indie","2017","08",1,0
+"Car Mechanic Simulator 2018","Racing, Simulator","2017","07",1,0
+"Agents of Mayhem","Shooter, Adventure","2017","08",1,0
+"Foxhole","Shooter, Real Time Strategy (RTS), Role-playing (RPG), Strategy, Indie","2017","07",1,0
+"Dragon Quest IV","Role-playing (RPG), Adventure","2001","11",0,0
+"Arena of Valor","Strategy, MOBA","2015","11",0,0
+"Comedy Night","Simulator, Indie","2017","08",1,0
+"Exploration","Simulator, Strategy, Tactical","1993","12",0,0
+"The Joy Of Sex","Simulator","1993","02",0,0
+"Fate/Grand Order","Role-playing (RPG), Turn-based strategy (TBS), Tactical, Adventure, Visual Novel, Card & Board Game","2015","07",0,0
+"FIFA 18","Sport","2017","09",1,0
+"NBA 2K18","Simulator, Sport","2017","09",1,0
+"Marvel vs. Capcom: Infinite","Fighting","2017","09",1,0
+"Cuphead","Shooter, Platform, Adventure, Indie, Arcade","2019","09",1,0
+"Total War: Warhammer II","Real Time Strategy (RTS), Strategy","2017","09",1,0
+"SMITE Tactics",NA,NA,NA,0,0
+"Life is Strange: Before the Storm","Adventure, Indie","2017","08",1,0
+"Dragon Ball FighterZ","Fighting","2018","01",1,0
+"LOST ARK","Role-playing (RPG), Hack and slash/Beat 'em up, Adventure","2018","12",1,0
+"Danganronpa V3: Killing Harmony","Point-and-click, Adventure, Visual Novel","2017","01",1,0
+"Home Sweet Home","Puzzle, Simulator, Adventure, Indie","2017","09",1,0
+"Stranded Deep","Simulator, Adventure, Indie","2015","01",0,0
+"Dishonored: Death of the Outsider","Puzzle, Role-playing (RPG), Adventure","2017","09",1,0
+"F1 2017","Racing, Simulator, Sport","2017","08",1,0
+"Rock of Ages 2: Bigger & Boulder","Racing, Simulator, Strategy, Indie","2017","08",1,0
+"Everybody's Golf","Simulator, Sport","2017","08",1,0
+"Holdfast: Nations At War","Shooter, Simulator, Strategy, Indie","2017","09",1,0
+"Project CARS 2","Racing, Simulator","2017","09",1,0
+"Pro Evolution Soccer 2018","Simulator, Sport","2017","09",1,0
+"Cook, Serve, Delicious! 2!!","Simulator, Strategy, Indie","2017","09",1,0
+"Call of Duty 2","Shooter","2005","10",0,0
+"NHL 18","Sport","2017","09",1,0
+"Twitch Presents",NA,NA,NA,0,0
+"South Park: The Fractured But Whole","Role-playing (RPG), Strategy, Adventure","2017","10",1,0
+"The Evil Within 2","Shooter, Role-playing (RPG), Adventure","2017","10",1,0
+"Middle-earth: Shadow of War","Role-playing (RPG), Adventure","2017","10",1,0
+"Super Mario Odyssey","Platform, Adventure","2017","10",1,0
+"Assassin's Creed: Origins","Role-playing (RPG), Adventure","2017","10",1,0
+"Star Wars Battlefront II","Shooter, Adventure","2017","11",1,0
+"Wolfenstein II: The New Colossus","Shooter, Adventure","2017","10",1,0
+"ELEX","Role-playing (RPG), Adventure","2022","03",1,0
+"TwitchCon 2017",NA,NA,NA,0,0
+"Battle Chasers: Nightwar","Role-playing (RPG), Strategy, Turn-based strategy (TBS), Indie","2017","10",1,0
+"Throne of Lies: Medieval Politics","Role-playing (RPG), Strategy, Indie, Card & Board Game","2017","09",1,0
+"The Jackbox Party Pack 4","Puzzle, Strategy, Quiz/Trivia, Indie","2017","10",1,0
+"A Hat in Time","Platform, Adventure, Indie","2017","10",1,0
+"Gold Rush: The Game",NA,"2021","05",1,0
+"Doki Doki Literature Club!","Adventure, Indie, Visual Novel","2017","09",1,0
+"WWE 2K18","Fighting, Simulator, Sport","2017","10",1,0
+"The Witcher","Role-playing (RPG), Adventure","2007","10",0,0
+"Werewolves <U+72FC><U+4EBA><U+6BBA>",NA,NA,NA,0,0
+"Tomb Raider II","Adventure","2024","02",1,0
+"Gran Turismo Sport","Racing, Simulator, Sport","2017","10",1,0
+"Getting Over It with Bennett Foddy","Platform, Simulator, Adventure, Indie","2017","12",1,0
+"Forza Motorsport 7","Racing, Simulator","2017","10",1,0
+"Romance of the Three Kingdoms XIII","Simulator, Strategy","2016","01",0,0
+"Ragnarok Online Mobile",NA,NA,NA,0,0
+"Bomber Crew","Simulator, Strategy, Indie","2017","10",1,0
+"Duke Nukem Forever","Shooter, Adventure","2011","06",0,0
+"Party Hard Tycoon","Simulator, Strategy, Indie","2017","10",1,0
+"Golf Story","Role-playing (RPG), Simulator, Sport, Adventure, Indie","2017","09",1,0
+"Hob","Platform, Puzzle, Adventure, Indie","2017","09",1,0
+"Pok<U+00E9>mon Ultra Sun/Ultra Moon",NA,NA,NA,0,0
+"Hand of Fate 2","Role-playing (RPG), Turn-based strategy (TBS), Hack and slash/Beat 'em up, Adventure, Indie, Card & Board Game","2017","11",1,0
+"Always On","Adventure, Indie","2024","03",1,0
+"Need For Speed: Payback","Racing, Sport","2017","11",1,0
+"Lineage 2: Revolution","Role-playing (RPG), Adventure","2017","11",1,0
+"Football Manager 2018","Simulator, Sport","2017","11",1,0
+"MU Legend","Role-playing (RPG), Adventure","2017","11",1,0
+"Life Is Feudal: MMO","Role-playing (RPG), Simulator, Adventure","2017","08",1,0
+"The Witcher 2: Assassins of Kings","Role-playing (RPG), Adventure","2011","05",0,0
+"Hidden Agenda","Adventure","2017","10",1,0
+"Fallout 3","Shooter, Role-playing (RPG)","2008","10",0,0
+"This War of Mine","Simulator, Strategy, Adventure, Indie","2014","11",0,0
+"Just Dance 2018","Music","2017","10",1,0
+"Sonic Forces","Platform, Strategy, Adventure","2017","11",1,0
+"MudRunner","Racing, Simulator, Strategy","2017","10",1,0
+"Hand Simulator","Simulator","2017","07",1,0
+".hack//G.U. Last Recode",NA,NA,NA,0,0
+"They Are Billions","Real Time Strategy (RTS), Role-playing (RPG), Strategy, Indie","2019","06",1,0
+"VRChat","Simulator, Adventure","2017","02",1,0
+"Monster Hunter: World","Role-playing (RPG), Adventure","2018","01",1,0
+"Yakuza Kiwami 2","Role-playing (RPG), Adventure","2017","12",1,0
+"Xenoblade Chronicles 2","Role-playing (RPG), Adventure","2017","12",1,0
+"The Game Awards","Adventure, Indie","2024","02",1,0
+"Bridge Constructor Portal","Puzzle, Simulator, Strategy","2017","12",1,0
+"Lineage M","Role-playing (RPG)","2017","06",1,0
+"Digimon Story: Cyber Sleuth - Hacker's Memory","Role-playing (RPG), Adventure","2017","12",1,0
+"Gothic II: Night of the Raven","Role-playing (RPG), Strategy, Adventure","2003","08",0,0
+"TrackMania 2: Canyon","Racing, Sport","2011","09",0,0
+"The Idolmaster: Stella Stage","Music, Simulator","2017","12",1,0
+"Legion TD 2","Real Time Strategy (RTS), Strategy, Indie","2021","10",1,0
+"Rules of Survival","Shooter, Strategy","2017","11",1,0
+"SpellForce 3","Real Time Strategy (RTS), Role-playing (RPG), Strategy","2017","12",1,0
+"Ylands","Simulator, Adventure","2017","12",1,0
+"Dungeon of the Endless","Platform, Real Time Strategy (RTS), Role-playing (RPG), Strategy, Adventure, Indie","2014","10",0,0
+"<U+014C>kami",NA,NA,NA,0,0
+"Stationeers","Simulator, Indie","2017","12",1,0
+"Islands of Nyne: Battle Royale","Shooter, Indie","2018","07",1,0
+"Sea of Thieves","Simulator, Adventure","2018","03",1,0
+"Slay the Spire","Role-playing (RPG), Strategy, Turn-based strategy (TBS), Adventure, Indie, Card & Board Game","2019","01",1,0
+"Hunt: Showdown","Shooter, Simulator","2019","08",1,0
+"Pok<U+00E9>mon Black/White Version 2",NA,NA,NA,0,0
+"Battalion 1944","Shooter, Indie","2019","05",1,0
+"Metroid Prime 3: Corruption","Shooter, Platform, Adventure","2007","08",0,0
+"Darwin Project","Indie","2020","01",1,0
+"Sonic Advance 3","Platform, Adventure","2004","06",0,0
+"Super Mario World 2: Yoshi's Island","Platform","1995","08",0,0
+"Grand Theft Auto IV","Shooter, Racing, Adventure","2008","04",0,0
+"F-Zero GX","Racing","2003","07",0,0
+"Mario & Luigi: Superstar Saga","Role-playing (RPG), Adventure","2003","11",0,0
+"Black Squad","Shooter","2017","07",1,0
+"Super Punch-Out!!","Sport","1994","10",0,0
+"Superman","Adventure","1992","12",0,0
+"Rayman","Platform, Adventure","1995","09",0,0
+"Rusty Lake Paradise","Point-and-click, Puzzle, Adventure, Indie","2018","01",1,0
+"Blood II: The Chosen","Shooter","1998","10",0,0
+"Mega Man Zero 3","Shooter, Platform, Adventure","2004","04",0,0
+"Secret of Evermore","Role-playing (RPG)","1995","10",0,0
+"Monopoly Plus","Simulator, Strategy, Arcade, Card & Board Game","2014","11",0,0
+"Super Monkey Ball","Platform, Arcade","2001","09",0,0
+"LittleBigPlanet 2","Platform, Puzzle, Adventure","2011","01",0,0
+"Fire Emblem: The Sacred Stones","Role-playing (RPG), Strategy, Turn-based strategy (TBS), Tactical","2004","10",0,0
+"Farmer's Dynasty","Role-playing (RPG), Simulator, Strategy, Adventure","2019","11",1,0
+"Ninja Gaiden Black","Hack and slash/Beat 'em up, Adventure","2005","09",0,0
+"Dungreed","Platform, Adventure, Indie","2018","02",1,0
+"Warhammer: Vermintide 2","Shooter, Role-playing (RPG), Adventure, Indie","2018","03",1,0
+"EA Sports UFC 3","Fighting, Sport","2018","02",1,0
+"Metal Gear Survive","Shooter, Strategy, Adventure","2018","02",1,0
+"Celeste","Platform, Adventure, Indie","2018","01",1,0
+"Eco","Simulator, Adventure, Indie","2018","02",1,0
+"My Time at Portia","Role-playing (RPG), Simulator, Adventure, Indie","2019","01",1,0
+"Into the Breach","Puzzle, Role-playing (RPG), Simulator, Strategy, Turn-based strategy (TBS), Indie","2018","02",1,0
+"We Were Here Too","Puzzle, Adventure, Indie","2018","02",1,0
+"Papers, Please","Point-and-click, Puzzle, Simulator, Indie","2013","08",0,0
+"Sword Art Online: Fatal Bullet","Shooter, Role-playing (RPG)","2018","02",1,0
+"Remothered: Tormented Fathers","Adventure, Indie","2018","01",1,0
+"Desolate","Role-playing (RPG), Adventure, Indie","2019","01",1,0
+"Sid Meier's Civilization VI: Rise & Fall","Strategy, Turn-based strategy (TBS)","2018","02",1,0
+"Railway Empire","Simulator, Strategy","2018","01",1,0
+"Descenders","Racing, Simulator, Sport, Arcade","2019","05",1,0
+"Farm Together","Simulator, Strategy, Indie","2018","10",1,0
+"Dynasty Warriors 9","Role-playing (RPG), Hack and slash/Beat 'em up, Adventure","2018","02",1,0
+"The Red Strings Club","Puzzle, Simulator, Adventure, Indie, Visual Novel","2018","01",1,0
+"Mount Your Friends 3D: A Hard Man is Good to Climb","Simulator, Sport, Indie","2018","02",1,0
+"Abandon Ship","Role-playing (RPG), Strategy, Tactical, Adventure, Indie","2019","10",1,0
+"Far Cry 5","Shooter, Adventure","2018","03",1,0
+"A Way Out","Adventure","2018","03",1,0
+"Surviving Mars","Simulator, Strategy","2018","03",1,0
+"Fist of the North Star: Lost Paradise","Role-playing (RPG), Hack and slash/Beat 'em up, Adventure","2018","03",1,0
+"Friends Marble",NA,NA,NA,0,0
+"Golfing Over It with Alva Majo","Platform, Sport, Indie","2018","03",1,0
+"Super Seducer","Role-playing (RPG), Simulator, Strategy, Adventure","2018","03",1,0
+"Ni no Kuni II: Revenant Kingdom","Role-playing (RPG), Adventure","2018","03",1,0
+"PixArk","Shooter, Role-playing (RPG), Strategy, Adventure","2018","03",1,0
+"Heroes of Hammerwatch","Role-playing (RPG), Adventure, Indie","2018","03",1,0
+"Deep Rock Galactic","Shooter, Adventure, Indie","2020","05",1,0
+"MLB The Show 18","Sport","2018","03",1,0
+"Kirby Star Allies","Platform, Hack and slash/Beat 'em up, Adventure","2018","03",1,0
+"Attack on Titan 2","Hack and slash/Beat 'em up","2018","03",1,0
+"Bio Inc. Redemption","Puzzle, Simulator, Strategy, Indie","2017","05",1,0
+"Pizza Connection 3","Simulator, Strategy","2018","12",1,0
+"Northgard","Real Time Strategy (RTS), Role-playing (RPG), Simulator, Strategy, Turn-based strategy (TBS), Indie","2018","03",1,0
+"Chuchel","Point-and-click, Puzzle, Adventure, Indie","2018","03",1,0
+"PC Building Simulator","Simulator, Strategy, Indie","2019","01",1,0
+"Devil May Cry HD Collection","Platform, Hack and slash/Beat 'em up","2012","03",0,0
+"Puyo Puyo Tetris","Puzzle, Strategy","2014","02",0,0
+"The Council","Role-playing (RPG), Adventure","2018","03",1,0
+"Rift","Role-playing (RPG)","2011","03",0,0
+"Zero Escape: Nine Hours, Nine Persons, Nine Doors","Point-and-click, Puzzle, Adventure, Visual Novel","2017","03",1,0
+"God of War","Role-playing (RPG), Hack and slash/Beat 'em up, Adventure","2018","04",1,0
+"Welcome to the Game II","Simulator, Strategy, Indie","2018","04",1,0
+"Radical Heights","Shooter, Indie","2018","04",1,0
+"Frostpunk","Simulator, Strategy, Indie","2018","04",1,0
+"SpyParty","Simulator, Strategy, Tactical, Indie","2018","04",1,0
+"BATTLETECH","Strategy, Turn-based strategy (TBS), Adventure","2018","04",1,0
+"Ring Of Elysium","Shooter","2018","09",1,0
+"Pillars of Eternity","Role-playing (RPG), Strategy, Adventure, Indie","2015","03",0,0
+"God of War II","Platform, Hack and slash/Beat 'em up, Adventure","2007","03",0,0
+"Maelstrom","Simulator, Strategy, Adventure, Indie","2018","04",1,0
+"Batman: The Enemy Within","Point-and-click, Adventure","2017","08",1,0
+"Heroes of Might and Magic V: Tribes of the East","Role-playing (RPG), Strategy, Turn-based strategy (TBS)","2007","10",0,0
+"Halo Online",NA,NA,NA,0,0
+"Soulworker","Role-playing (RPG)","2016","04",0,0
+"Hell Let Loose","Shooter, Simulator, Strategy, Indie","2019","06",1,0
+"SCP: Secret Laboratory","Shooter, Strategy, Indie","2017","12",1,0
+"Beholder","Role-playing (RPG), Simulator, Strategy, Adventure, Indie","2016","11",0,0
+"Orcs Must Die! 2","Shooter, Platform, Strategy, Adventure, Indie","2012","07",0,0
+"PUBG Mobile","Shooter, Strategy","2018","03",1,0
+"The Swords of Ditto","Role-playing (RPG), Hack and slash/Beat 'em up, Adventure, Indie, Arcade","2018","04",1,0
+"Detroit: Become Human","Puzzle, Adventure","2018","05",1,0
+"State of Decay 2","Role-playing (RPG), Simulator","2018","05",1,0
+"Bless Online","Role-playing (RPG), Adventure","2018","10",1,0
+"Raft","Simulator, Adventure, Indie","2022","06",1,0
+"Wizard of Legend","Role-playing (RPG), Hack and slash/Beat 'em up, Adventure, Indie, Arcade","2018","05",1,0
+"Pillars of Eternity II: Deadfire","Role-playing (RPG), Adventure","2018","05",1,0
+"House Flipper","Simulator, Indie","2018","05",1,0
+"Moonlighter","Role-playing (RPG), Simulator, Hack and slash/Beat 'em up, Adventure, Indie","2018","05",1,0
+"Beat Saber","Music, Sport, Indie","2019","05",1,0
+"Graveyard Keeper","Strategy, Adventure, Indie","2018","08",1,0
+"Agony","Shooter","1992","12",0,0
+"Post Scriptum",NA,NA,NA,0,0
+"Doctor Who Pinball","Simulator","2018","05",1,0
+"Call of Duty: Black Ops 4","Shooter","2018","10",1,0
+"Deathgarden: BLOODHARVEST",NA,"2018","08",1,0
+"MapleStory 2","Role-playing (RPG), Simulator, Adventure","2015","07",0,0
+"FAR: Lone Sails","Platform, Puzzle, Simulator, Adventure, Indie","2018","05",1,0
+"Total War Saga: Thrones of Britannia","Real Time Strategy (RTS), Strategy, Turn-based strategy (TBS)","2018","05",1,0
+"Yu-Gi-Oh! Forbidden Memories","Strategy, Turn-based strategy (TBS), Card & Board Game","1999","12",0,0
+"Weed Shop 2","Simulator, Strategy, Indie","2017","03",1,0
+"FIFA Online 4","Simulator, Sport","2018","06",1,0
+"BlazBlue: Cross Tag Battle","Fighting, Adventure, Arcade","2018","05",1,0
+"Jikkyou Powerful Pro Yakyuu 2018",NA,NA,NA,0,0
+"STAY","Indie","2021","02",1,0
+"Judgment: Apocalypse Survival Simulation","Role-playing (RPG), Simulator, Strategy, Indie","2018","05",1,0
+"Shoppe Keep 2","Role-playing (RPG), Simulator, Strategy, Adventure, Indie","2018","05",1,0
+"Dungeon Hunter Champions","Role-playing (RPG), Strategy","2018","05",1,0
+"Russian Fishing 4","Role-playing (RPG), Simulator, Sport, Adventure","2018","06",1,0
+"E3 2018",NA,NA,NA,0,0
+"Realm Royale","Shooter, Adventure","2018","06",1,0
+"Jurassic World Evolution","Simulator, Strategy","2018","06",1,0
+"Mario Tennis Aces","Sport, Adventure","2018","06",1,0
+"Vampyr","Role-playing (RPG), Adventure","2018","06",1,0
+"E3","Puzzle, Strategy","2013","06",0,0
+"Battlefield V","Shooter","2018","11",1,0
+"The Crew 2","Racing","2018","06",1,0
+"Wreckfest","Racing, Sport, Indie","2018","06",1,0
+"Baldi's Basics in Education and Learning","Indie","2018","03",1,0
+"CRSED: F.O.A.D.","Shooter","2019","12",1,0
+"Totally Accurate Battlegrounds","Shooter, Indie","2018","06",1,0
+"Unravel Two","Platform, Puzzle, Adventure","2018","06",1,0
+"Hot Lava","Platform, Racing, Adventure, Indie","2019","09",1,0
+"The Awesome Adventures of Captain Spirit","Adventure","2018","06",1,0
+"Totally Accurate Battle Simulator","Fighting, Simulator, Strategy, Indie","2021","04",1,0
+"The Legend of Zelda: Majora's Mask 3D","Role-playing (RPG), Adventure","2015","02",0,0
+"Bus Simulator 18","Simulator","2018","06",1,0
+"The Legend of Zelda: Oracle of Seasons","Puzzle, Role-playing (RPG), Adventure","2001","02",0,0
+"The Simpsons: Hit & Run","Platform, Racing, Adventure","2003","09",0,0
+"Borderlands: The Pre-Sequel","Shooter, Role-playing (RPG)","2014","10",0,0
+"Pok<U+00E9>mon Quest",NA,NA,NA,0,0
+"Might & Magic: Elemental Guardians",NA,"2018","05",1,0
+"Banjo-Tooie","Platform, Quiz/Trivia, Adventure","2000","11",0,0
+"Octopath Traveler","Role-playing (RPG), Adventure","2018","07",1,0
+"Old School RuneScape","Role-playing (RPG), Adventure","2013","02",0,0
+"Dungeon Fighter Online","Role-playing (RPG), Hack and slash/Beat 'em up, Adventure, Arcade","2005","08",0,0
+"Rend","Role-playing (RPG), Adventure, Indie","2019","04",1,0
+"Earthfall","Shooter, Adventure","2018","07",1,0
+"MapleStory M","Role-playing (RPG), Adventure, Arcade","2018","01",1,0
+"Bloons TD 6","Strategy, Tactical","2018","06",1,0
+"Space Engineers","Simulator, Strategy, Adventure, Indie","2019","02",1,0
+"Home Run Derby VR","Sport","2018","04",1,0
+"Fear the Wolves","Shooter, Adventure","2019","02",1,0
+"SCUM","Adventure, Indie","2018","08",1,0
+"Madden NFL 19","Sport","2018","08",1,0
+"Boxing Fight",NA,NA,NA,0,0
+"Overcooked! 2","Simulator, Strategy, Tactical, Indie, Arcade","2018","08",1,0
+"Two Point Hospital","Simulator, Strategy, Indie","2018","08",1,0
+"Death's Gambit","Role-playing (RPG), Adventure, Indie","2018","08",1,0
+"Cyberpunk 2077","Shooter, Role-playing (RPG), Adventure","2020","12",1,0
+"Yakuza 3","Role-playing (RPG), Hack and slash/Beat 'em up, Adventure","2009","02",0,0
+"This Is the Police 2","Simulator, Strategy, Turn-based strategy (TBS), Tactical, Adventure, Indie, Visual Novel","2018","07",1,0
+"Crypto","Puzzle","2016","02",0,0
+"Shenmue I & II","Role-playing (RPG), Adventure","2018","08",1,0
+"Last Tide","Shooter, Indie","2018","08",1,0
+"Shenmue","Role-playing (RPG), Simulator, Hack and slash/Beat 'em up, Adventure","1999","12",0,0
+"The Walking Dead: The Final Season","Point-and-click, Adventure","2018","08",1,0
+"Pro Evolution Soccer 2019","Simulator, Sport","2018","08",1,0
+"Mist Survival","Simulator, Adventure, Indie","2018","08",1,0
+"Princess Connect! Re:Dive","Role-playing (RPG), Simulator, Adventure, Visual Novel","2018","02",1,0
+"Strange Brigade","Shooter, Puzzle, Adventure","2018","08",1,0
+"Phantom Doctrine","Role-playing (RPG), Simulator, Strategy, Turn-based strategy (TBS), Tactical, Adventure","2018","08",1,0
+"Not Tonight","Puzzle, Role-playing (RPG), Simulator, Adventure","2018","08",1,0
+"Green Hell","Simulator, Strategy, Adventure, Indie","2019","09",1,0
+"Fate Seeker","Role-playing (RPG), Adventure","2018","08",1,0
+"JoJo's Bizarre Adventure","Fighting","1999","10",0,0
+"The Swordsmen X","Role-playing (RPG), Adventure","2020","04",1,0
+"World of Warcraft: Battle for Azeroth","Role-playing (RPG)","2018","08",1,0
+"Halo: The Master Chief Collection","Shooter","2014","11",0,0
+"Marvel's Spider-Man","Hack and slash/Beat 'em up, Adventure","2018","09",1,0
+"FIFA 19","Sport","2018","09",1,0
+"NBA 2K19","Simulator, Sport","2018","09",1,0
+"Just Chatting",NA,"2020","08",1,0
+"Casino","Card & Board Game","1978","12",0,0
+"Shadow of the Tomb Raider","Shooter, Puzzle, Adventure","2018","09",1,0
+"Battlerite Royale","Fighting","2018","09",1,0
+"Pathfinder: Kingmaker","Role-playing (RPG), Tactical, Adventure","2018","09",1,0
+"Super Seducer 2","Role-playing (RPG), Simulator, Strategy, Adventure","2018","09",1,0
+"Forza Horizon 4","Racing","2018","10",1,0
+"The Bard's Tale IV","Role-playing (RPG)","2018","09",1,0
+"Dying Light: Bad Blood","Shooter, Role-playing (RPG)","2018","09",1,0
+"Life is Strange 2","Adventure","2018","09",1,0
+"Marbles On Stream","Racing, Simulator","2018","03",1,0
+"SoulCalibur VI","Fighting","2018","10",1,0
+"60 Parsecs!","Point-and-click, Role-playing (RPG), Simulator, Strategy, Adventure, Indie","2018","09",1,0
+"The Messenger","Platform, Adventure, Indie, Arcade","2018","08",1,0
+"Art","Point-and-click, Adventure","2009","02",0,0
+"Immortal: Unchained","Shooter, Role-playing (RPG), Adventure","2018","09",1,0
+"CrossCode","Shooter, Puzzle, Role-playing (RPG), Adventure, Indie","2018","09",1,0
+"The Dark Occult","Adventure, Indie","2018","09",1,0
+"Naruto to Boruto: Shinobi Striker","Fighting","2018","08",1,0
+"ASMR","Simulator, Strategy, Adventure, Indie","2021","10",1,0
+"Breathedge","Role-playing (RPG), Simulator, Adventure, Indie","2018","09",1,0
+"NHL 19","Sport","2018","09",1,0
+"Travel & Outdoors",NA,NA,NA,0,0
+"Cube Escape: Paradox","Point-and-click, Puzzle, Adventure, Indie","2018","09",1,0
+"Identity V","Role-playing (RPG), Strategy","2018","04",1,0
+"Pummel Party","Indie, Arcade, Card & Board Game","2018","09",1,0
+"Old School Musical","Fighting, Music, Adventure, Indie, Arcade","2018","09",1,0
+"Red Dead Redemption 2","Shooter, Role-playing (RPG), Adventure","2018","10",1,0
+"Assassin's Creed: Odyssey","Adventure","2018","10",1,0
+"Special Events","Sport, Strategy","1994","02",0,0
+"Mega Man 11","Shooter, Platform, Adventure","2018","10",1,0
+"Super Mario Party","Card & Board Game","2018","10",1,0
+"Thronebreaker: The Witcher Tales","Puzzle, Role-playing (RPG), Strategy, Turn-based strategy (TBS), Adventure, Card & Board Game","2018","10",1,0
+"Visage","Puzzle, Simulator, Adventure, Indie","2020","10",1,0
+"Fallout 76","Shooter, Role-playing (RPG)","2018","11",1,0
+"Food & Drink","Puzzle","2024","09",1,0
+"Fitness & Health",NA,"2004","09",0,0
+"Call of Cthulhu","Role-playing (RPG), Adventure","2018","10",1,0
+"World War 3","Shooter, Indie","2022","12",1,0
+"The Jackbox Party Pack 5","Puzzle, Strategy, Quiz/Trivia, Indie","2018","10",1,0
+"WWE 2K19","Simulator, Sport","2018","10",1,0
+"OVERKILL's The Walking Dead","Shooter","2018","11",1,0
+"Science & Technology",NA,NA,NA,0,0
+"Dragalia Lost","Role-playing (RPG)","2018","09",1,0
+"Infliction","Adventure, Indie","2018","10",1,0
+"Football Manager 2019","Simulator, Sport","2018","11",1,0
+"God's Basement","Adventure, Indie","2018","10",1,0
+"Makers & Crafting","Platform, Role-playing (RPG), Adventure, Card & Board Game","2023","01",1,0
+"Return of the Obra Dinn","Puzzle, Adventure, Indie","2018","10",1,0
+"CardLife","Role-playing (RPG), Adventure, Indie","2019","02",1,0
+"S.T.A.L.K.E.R.: Clear Sky","Shooter, Role-playing (RPG)","2008","08",0,0
+"Beauty & Body Art",NA,NA,NA,0,0
+"CreativeDestruction","Shooter, Adventure","2018","08",1,0
+"Hokuto No Ken 2",NA,NA,NA,0,0
+"Professor Layton and the Curious Village","Point-and-click, Puzzle, Visual Novel","2007","02",0,0
+"Pok<U+00E9>mon: Let's Go, Pikachu!",NA,NA,NA,0,0
+"Artifact","Strategy, Turn-based strategy (TBS), Card & Board Game","2018","11",1,0
+"HITMAN 2","Shooter, Tactical, Adventure","2018","11",1,0
+"Farming Simulator 19","Simulator, Strategy","2018","11",1,0
+"Darksiders III","Role-playing (RPG), Hack and slash/Beat 'em up, Adventure","2018","11",1,0
+"Spyro Reignited Trilogy","Platform, Adventure","2018","11",1,0
+"Thief Simulator","Simulator, Strategy, Adventure, Indie","2018","11",1,0
+"One Hour One Life","Role-playing (RPG), Simulator, Adventure, Indie","2018","02",1,0
+"Ragnarok M: Eternal Love","Role-playing (RPG), Simulator","2019","01",1,0
+"Last Year","Strategy, Indie","2019","12",1,0
+"Final Fantasy XI","Role-playing (RPG), Adventure","2002","05",0,0
+"Deltarune: Chapter 1","Role-playing (RPG), Turn-based strategy (TBS), Adventure, Indie","2018","10",1,0
+"Granny","Adventure, Indie, Arcade","2017","11",1,0
+"The Lord of the Rings Online","Role-playing (RPG), Adventure","2007","04",0,0
+"The Room Three","Point-and-click, Puzzle, Adventure, Indie","2015","11",0,0
+"Just Dance 2019","Music","2018","10",1,0
+"Marble It Up!","Platform, Puzzle, Racing, Indie, Arcade","2018","09",1,0
+"Super Smash Bros. Ultimate","Fighting, Platform","2018","12",1,0
+"Epic Seven","Role-playing (RPG), Simulator, Turn-based strategy (TBS)","2018","11",1,0
+"Protocol","Shooter, Puzzle, Adventure, Indie","2018","02",1,0
+"X4: Foundations","Simulator, Strategy","2018","11",1,0
+"Atlas","Role-playing (RPG), Adventure","2018","12",1,0
+"Slots",NA,"2002","12",0,0
+"Just Cause 4","Shooter, Adventure","2018","12",1,0
+"Mutant Year Zero: Road to Eden","Role-playing (RPG), Strategy, Turn-based strategy (TBS), Tactical, Adventure","2018","12",1,0
+"Judgement","Adventure","2015","09",0,0
+"Ashen","Role-playing (RPG), Adventure, Indie","2018","12",1,0
+"GRIS","Platform, Puzzle, Adventure, Indie","2018","12",1,0
+"Hades","Role-playing (RPG), Hack and slash/Beat 'em up, Adventure, Indie","2020","09",1,0
+"Kenshi","Real Time Strategy (RTS), Role-playing (RPG), Strategy, Adventure, Indie","2018","12",1,0
+"Insurgency: Sandstorm","Shooter, Simulator, Strategy","2018","12",1,0
+"Kingdom Two Crowns","Role-playing (RPG), Simulator, Strategy, Adventure, Indie, Arcade","2018","12",1,0
+"Katamari Damacy","Puzzle, Adventure","2004","03",0,0
+"Earth Defense Force 5","Shooter","2017","12",1,0
+"Book of Demons","Role-playing (RPG), Adventure, Indie","2018","12",1,0
+"Kingdom Hearts III","Role-playing (RPG), Hack and slash/Beat 'em up, Adventure","2019","01",1,0
+"Anthem","Shooter, Role-playing (RPG), Adventure","2019","02",1,0
+"The Legend of Zelda: Twilight Princess","Puzzle, Role-playing (RPG), Adventure","2006","11",0,0
+"Tales of Vesperia","Role-playing (RPG)","2008","08",0,0
+"Yakuza 4","Role-playing (RPG), Simulator, Sport, Hack and slash/Beat 'em up, Adventure","2010","03",0,0
+"CLOP","Simulator","2012","08",0,0
+"New Super Mario Bros. U","Platform, Adventure","2012","11",0,0
+"Ace Combat 7: Skies Unknown","Shooter, Simulator, Arcade","2019","01",1,0
+"Mortal Kombat 11","Fighting","2019","04",1,0
+"Subnautica: Below Zero","Adventure, Indie","2021","05",1,0
+"Catherine","Platform, Puzzle, Adventure","2011","02",0,0
+"Miracle snack shop","Role-playing (RPG), Simulator, Adventure, Indie, Visual Novel","2018","12",1,0
+"Mario Kart DS","Racing","2005","11",0,0
+"Trauma Center: Under the Knife 2","Puzzle, Simulator, Adventure","2008","07",0,0
+"Apex Legends","Shooter, Tactical","2019","02",1,0
+"Metro Exodus","Shooter, Adventure","2019","02",1,0
+"Tom Clancy's The Division 2","Shooter, Role-playing (RPG), Tactical, Adventure","2019","03",1,0
+"Far Cry New Dawn","Shooter, Adventure","2019","02",1,0
+"Tetris","Puzzle","2014","07",0,0
+"DEVOTION","Puzzle, Adventure, Indie","2019","02",1,0
+"Jump Force","Fighting","2019","02",1,0
+"Anno 1800","Real Time Strategy (RTS), Simulator, Strategy","2019","04",1,0
+"Trials Rising","Platform, Racing, Sport, Arcade","2019","02",1,0
+"Wargroove","Strategy, Turn-based strategy (TBS), Tactical, Indie","2019","01",1,0
+"Dragon Quest Builders 2","Role-playing (RPG), Adventure","2018","12",1,0
+"A Dance of Fire and Ice","Music, Indie, Arcade","2014","10",0,0
+"Project Winter","Strategy, Adventure, Indie","2019","05",1,0
+"Crunchyroll Anime Awards",NA,NA,NA,0,0
+"Spellbreak","Shooter, Role-playing (RPG), Adventure","2020","09",1,0
+"TETRIS 99","Puzzle, Arcade","2019","02",1,0
+"","Error","Error","Error",1,0
+"Sunless Skies","Role-playing (RPG), Adventure, Indie","2019","01",1,0
+"Foundation","Simulator, Strategy, Indie","2025","01",1,0
+"God Eater 3","Role-playing (RPG), Adventure","2018","12",1,0
+"Sekiro: Shadows Die Twice","Adventure","2019","03",1,0
+"Auto Chess","Strategy, Tactical, Card & Board Game","2019","01",1,0
+"Devil May Cry 5","Hack and slash/Beat 'em up, Adventure","2019","03",1,0
+"Satisfactory","Simulator, Strategy, Adventure, Indie","2024","09",1,0
+"Pogostuck: Rage With Your Friends","Platform, Adventure, Indie","2019","02",1,0
+"Outward","Role-playing (RPG), Indie","2019","03",1,0
+"Risk of Rain 2","Shooter, Adventure, Indie","2019","08",1,0
+"MLB The Show 19","Sport","2019","03",1,0
+"Tropico 6","Real Time Strategy (RTS), Simulator, Strategy","2019","03",1,0
+"Dead or Alive 6","Fighting","2019","03",1,0
+"Kageroh: Shadow Corridor",NA,"2019","03",1,0
+"Dawn of Man","Simulator, Strategy, Indie","2019","03",1,0
+"Devil May Cry 4: Special Edition","Hack and slash/Beat 'em up, Adventure","2015","06",0,0
+"Baba is You","Puzzle, Strategy, Indie","2019","03",1,0
+"Twitch Sings","Music, Arcade","2019","04",1,0
+"Skylanders: Ring of heroes","Role-playing (RPG), Turn-based strategy (TBS)","2019","02",1,0
+"Devil May Cry 3: Special Edition","Shooter, Hack and slash/Beat 'em up, Adventure","2006","01",0,0
+"HALF DEAD 2","Adventure","2019","08",1,0
+"Generation Zero","Shooter, Adventure","2019","03",1,0
+"Outlaws of the Old West","Shooter, Role-playing (RPG), Strategy, Adventure, Indie","2019","03",1,0
+"Intruder","Shooter, Simulator, Indie","2019","03",1,0
+"Days Gone","Shooter, Adventure","2019","04",1,0
+"World War Z","Shooter","2019","04",1,0
+"Borderlands","Shooter, Role-playing (RPG)","2009","10",0,0
+"Forager","Puzzle, Role-playing (RPG), Simulator, Strategy, Adventure, Indie","2019","04",1,0
+"MORDHAU","Fighting, Hack and slash/Beat 'em up, Indie","2019","04",1,0
+"Imperator: Rome","Real Time Strategy (RTS), Simulator, Strategy, Turn-based strategy (TBS), Tactical","2019","04",1,0
+"Katana ZERO","Platform, Strategy, Adventure, Indie, Arcade","2019","04",1,0
+"Yoshi's Crafted World","Platform","2019","03",1,0
+"Yuppie Psycho","Adventure, Indie","2019","04",1,0
+"Pagan Online",NA,NA,NA,0,0
+"Supraland","Platform, Puzzle, Adventure, Indie","2019","04",1,0
+"Prominence Poker","Simulator, Strategy, Turn-based strategy (TBS), Card & Board Game","2016","08",0,0
+"My Twin Brother Made Me Crossdress As Him and Now I Have to Deal with a Geeky Stalker and a Domme Beauty Who Want Me in a Bind!!",NA,NA,NA,0,0
+"Total War: Three Kingdoms","Real Time Strategy (RTS), Strategy, Turn-based strategy (TBS)","2019","05",1,0
+"RAGE 2","Hack and slash/Beat 'em up, Arcade","1992","12",0,0
+"A Plague Tale: Innocence","Role-playing (RPG), Adventure","2019","05",1,0
+"Jump King","Platform, Adventure, Indie","2019","05",1,0
+"Splitgate: Arena Warfare",NA,NA,NA,0,0
+"Layers of Fear 2","Simulator, Adventure, Indie","2019","05",1,0
+"Borderlands 3","Shooter, Role-playing (RPG)","2019","09",1,0
+"XERA: Survival","Shooter, Simulator, Strategy, Adventure, Indie","2021","09",1,0
+"Observation","Puzzle, Simulator, Adventure, Indie, Arcade","2019","05",1,0
+"Death Stranding","Shooter, Role-playing (RPG), Adventure","2019","11",1,0
+"Nioh 2","Role-playing (RPG), Hack and slash/Beat 'em up, Adventure","2020","03",1,0
+"Minion Masters","Real Time Strategy (RTS), Role-playing (RPG), Strategy, Turn-based strategy (TBS), Adventure, Indie, Card & Board Game","2019","05",1,0
+"Void Bastards","Shooter, Strategy, Arcade","2019","05",1,0
+"Warface","Shooter, Role-playing (RPG), Simulator, Strategy, Adventure","2013","10",0,0
+"Last Epoch","Role-playing (RPG), Hack and slash/Beat 'em up, Adventure, Indie","2024","02",1,0
+"Close to the Sun","Adventure, Indie","2019","05",1,0
+"Pathologic","Shooter, Role-playing (RPG), Adventure, Indie","2005","06",0,0
+"Teamfight Tactics","Strategy, Turn-based strategy (TBS), Tactical, Card & Board Game","2019","06",1,0
+"Dota Underlords","Role-playing (RPG), Strategy, Tactical, Card & Board Game","2019","06",1,0
+"Super Mario Maker 2","Platform","2019","06",1,0
+"Bloodstained: Ritual of the Night","Platform, Role-playing (RPG), Adventure","2019","06",1,0
+"Cooking Simulator","Simulator, Indie, Arcade","2019","06",1,0
+"Crash Team Racing Nitro-Fueled","Racing, Arcade","2019","06",1,0
+"Cadence of Hyrule: Crypt of the NecroDancer Featuring The Legend of Zelda","Music, Adventure","2019","06",1,0
+"The Sinking City","Shooter, Puzzle, Role-playing (RPG), Adventure","2019","06",1,0
+"Yakuza 5","Adventure","2012","12",0,0
+"Judgment","Role-playing (RPG), Adventure","2021","04",1,0
+"My Friend Pedro","Shooter, Platform, Adventure, Indie, Arcade","2019","06",1,0
+"SAMURAI SHODOWN","Fighting, Arcade","1994","10",0,0
+"Outer Wilds","Puzzle, Simulator, Adventure, Indie","2019","05",1,0
+"Conqueror's Blade","Role-playing (RPG), Strategy, Tactical","2019","05",1,0
+"Trover Saves the Universe","Platform, Puzzle, Adventure, Indie","2019","05",1,0
+"Reventure","Platform, Strategy, Adventure, Indie","2019","06",1,0
+"Punch-Out!!","Fighting, Sport, Adventure","2009","05",0,0
+"Roller Champions","Racing, Simulator, Sport","2022","05",1,0
+"Barotrauma","Simulator, Strategy, Adventure, Indie","2023","03",1,0
+"F1 2019","Racing, Simulator, Sport","2019","06",1,0
+"Fire Emblem: Three Houses","Role-playing (RPG), Strategy, Turn-based strategy (TBS), Tactical, Adventure","2019","07",1,0
+"Wolfenstein: Youngblood","Shooter, Adventure","2019","07",1,0
+"Madden NFL 20","Sport","2019","08",1,0
+"Gears 5","Shooter, Adventure","2019","09",1,0
+"Iratus: Lord of the Dead","Role-playing (RPG), Strategy, Turn-based strategy (TBS), Indie","2020","04",1,0
+"Marvel Ultimate Alliance 3: The Black Order","Role-playing (RPG), Hack and slash/Beat 'em up","2019","07",1,0
+"The Surge 2","Role-playing (RPG), Adventure","2019","09",1,0
+"Remnant: From the Ashes","Shooter, Role-playing (RPG), Adventure","2019","08",1,0
+"Call of Duty: Warzone","Shooter","2020","03",1,0
+"The Dark Pictures Anthology: Man of Medan","Adventure","2019","08",1,0
+"Ancestors: The Humankind Odyssey","Role-playing (RPG), Adventure, Indie","2019","08",1,0
+"Control","Shooter, Adventure","2019","08",1,0
+"Blair Witch","Adventure, Indie","2019","08",1,0
+"Dicey Dungeons","Role-playing (RPG), Strategy, Adventure, Indie, Card & Board Game","2019","08",1,0
+"Phoenix Wright: Ace Attorney Trilogy HD","Point-and-click, Puzzle, Simulator, Adventure, Visual Novel","2012","02",0,0
+"Secret Neighbor","Adventure, Indie","2019","10",1,0
+"Silver Chains","Adventure, Indie","2019","08",1,0
+"Telling Lies","Point-and-click, Simulator, Indie","2019","08",1,0
+"Age of Wonders: Planetfall","Simulator, Strategy, Turn-based strategy (TBS), Tactical","2019","08",1,0
+"Astral Chain","Hack and slash/Beat 'em up, Adventure","2019","08",1,0
+"GeoGuessr","Strategy, Quiz/Trivia","2013","05",0,0
+"Rebel Galaxy Outlaw","Shooter, Role-playing (RPG), Adventure, Indie","2020","09",1,0
+"UnderMine","Role-playing (RPG), Adventure, Indie","2020","08",1,0
+"NBA 2K20","Simulator, Sport","2019","09",1,0
+"Hide Or Die",NA,"2020","05",1,0
+"Warhammer 40,000: Inquisitor - Prophecy","Role-playing (RPG), Adventure, Indie","2019","07",1,0
+"Age of Empires: Definitive Edition","Real Time Strategy (RTS), Simulator, Strategy, Adventure","2018","02",1,0
+"FIFA 20","Sport","2019","09",1,0
+"Code Vein","Role-playing (RPG), Adventure","2019","09",1,0
+"The Legend of Zelda: Link's Awakening","Adventure","1993","06",0,0
+"GreedFall","Role-playing (RPG), Strategy, Adventure","2019","09",1,0
+"Tom Clancy's Ghost Recon: Breakpoint","Shooter, Tactical, Adventure","2019","10",1,0
+"Planet Zoo","Simulator, Strategy","2019","11",1,0
+"Blasphemous","Platform, Role-playing (RPG), Hack and slash/Beat 'em up, Adventure, Indie","2019","09",1,0
+"Untitled Goose Game","Puzzle, Simulator, Adventure, Indie","2019","09",1,0
+"Cube World","Role-playing (RPG), Adventure, Indie","2019","09",1,0
+"eFootball PES 2020","Simulator, Sport","2019","09",1,0
+"Final Fantasy VIII","Role-playing (RPG), Adventure","1999","02",0,0
+"AI: The Somnium Files","Puzzle, Adventure, Visual Novel","2019","09",1,0
+"Noita","Shooter, Role-playing (RPG), Simulator, Adventure, Indie, Arcade","2020","10",1,0
+"Catherine: Full Body","Platform, Puzzle, Simulator, Strategy, Adventure","2019","02",1,0
+"Children of Morta","Role-playing (RPG), Adventure, Indie","2019","09",1,0
+"Daymare: 1998","Adventure, Indie","2019","09",1,0
+"Garena Free Fire","Adventure","2017","12",1,0
+"NHL 20","Sport","2019","09",1,0
+"Phoenix Wright: Ace Attorney Trilogy","Puzzle, Simulator, Adventure, Visual Novel","2014","04",0,0
+"Legends of Runeterra","Strategy, Turn-based strategy (TBS), Card & Board Game","2020","04",1,0
+"The Outer Worlds","Shooter, Role-playing (RPG), Adventure","2019","10",1,0
+"The Beast Inside","Role-playing (RPG), Adventure, Indie","2019","10",1,0
+"We Were Here Together","Puzzle, Adventure, Indie","2019","10",1,0
+"Call of Duty: Mobile","Shooter, Adventure","2019","05",1,0
+"Luigi's Mansion 3","Adventure","2019","10",1,0
+"Mansions of Madness","Strategy, Adventure","2016","08",0,0
+"The Jackbox Party Pack 6","Puzzle, Strategy, Quiz/Trivia, Indie","2019","10",1,0
+"Little Misfortune","Point-and-click, Platform, Puzzle, Adventure, Indie, Arcade","2019","09",1,0
+"Ring Fit Adventure","Role-playing (RPG), Sport, Adventure","2019","10",1,0
+"Indivisible","Platform, Role-playing (RPG), Adventure, Indie","2019","10",1,0
+"Unrailed!","Indie, Arcade","2019","09",1,0
+"Pok<U+00E9>mon Sword/Shield",NA,NA,NA,0,0
+"WHAT THE GOLF?","Sport","1999","12",0,0
+"Disco Elysium","Role-playing (RPG), Adventure, Indie","2019","10",1,0
+"Trine 4: The Nightmare Prince","Platform, Puzzle, Adventure, Indie","2019","10",1,0
+"The Long Drive","Simulator, Adventure, Indie","2019","09",1,0
+"Saint Seiya : Awakening","Role-playing (RPG)","2019","05",1,0
+"MISTOVER","Role-playing (RPG), Strategy, Turn-based strategy (TBS), Adventure","2019","10",1,0
+"Chernobylite","Shooter, Role-playing (RPG), Simulator, Adventure","2021","07",1,0
+"Tabletop RPGs",NA,NA,NA,0,0
+"MediEvil","Platform, Puzzle, Hack and slash/Beat 'em up, Adventure","2019","10",1,0
+"Pok<U+00E9>mon Stadium 2",NA,NA,NA,0,0
+"WWE 2K20","Simulator, Sport","2019","10",1,0
+"Outlast II","Adventure, Indie","2017","04",1,0
+"Star Wars Jedi: Fallen Order","Adventure","2019","11",1,0
+"Age of Empires II: Definitive Edition","Real Time Strategy (RTS), Strategy","2019","11",1,0
+"Need for Speed: Heat","Racing, Sport, Adventure","2019","11",1,0
+"Football Manager 2020","Simulator, Sport","2019","11",1,0
+"Shenmue III","Fighting, Role-playing (RPG), Hack and slash/Beat 'em up, Adventure","2019","11",1,0
+"Diablo IV","Role-playing (RPG), Hack and slash/Beat 'em up","2023","06",1,0
+"Ratropolis","Role-playing (RPG), Strategy, Indie, Card & Board Game","2019","11",1,0
+"Internet Cafe Simulator","Simulator, Indie","2019","10",1,0
+"Superliminal","Puzzle, Adventure, Indie","2019","11",1,0
+"Star Wars: Knights of the Old Republic II - The Sith Lords","Role-playing (RPG), Strategy, Adventure","2004","12",0,0
+"The Legend of Bum-bo","Puzzle, Role-playing (RPG), Strategy, Adventure","2019","11",1,0
+"Kingdom Under Fire II","Real Time Strategy (RTS), Role-playing (RPG), Strategy","2019","11",1,0
+"Song of Horror","Adventure","2019","10",1,0
+"Otaku's Adventure","Point-and-click, Puzzle, Role-playing (RPG), Adventure, Indie","2019","05",1,0
+"Arcanum: Of Steamworks and Magick Obscura","Role-playing (RPG)","2001","08",0,0
+"Mario & Sonic at the Olympic Games Tokyo 2020","Sport","2019","11",1,0
+"Just Dance 2020","Music","2019","11",1,0
+"Metro Sim Hustle","Role-playing (RPG), Simulator, Adventure, Indie","2021","07",1,0
+"Heave Ho","Platform, Strategy, Adventure, Indie, Arcade","2019","08",1,0
+"GTFO","Shooter, Adventure","2021","12",1,0
+"Phoenix Point","Role-playing (RPG), Simulator, Strategy, Tactical","2019","12",1,0
+"Transport Fever 2","Simulator, Strategy","2019","12",1,0
+"Darksiders Genesis","Role-playing (RPG), Hack and slash/Beat 'em up, Adventure","2019","12",1,0
+"MechWarrior 5: Mercenaries","Fighting, Shooter, Simulator, Tactical","2019","12",1,0
+"Halo: Reach","Shooter","2010","09",0,0
+"BONEWORKS","Shooter, Puzzle, Simulator, Adventure, Indie","2019","12",1,0
+"Politics","Role-playing (RPG), Simulator","2016","07",0,0
+"Black Mesa","Shooter, Platform, Adventure, Indie","2020","03",1,0
+"skribbl.io",NA,"2017","12",1,0
+"Monster Rancher 2","Platform, Role-playing (RPG), Simulator, Strategy","1999","02",0,0
+"LEGO Star Wars: The Complete Saga","Platform, Adventure","2007","11",0,0
+"DRAGON BALL Z: KAKAROT","Strategy, Turn-based strategy (TBS), Card & Board Game","2020","10",1,0
+"Temtem","Role-playing (RPG), Turn-based strategy (TBS), Adventure, Indie","2022","09",1,0
+"Yakuza","Fighting, Role-playing (RPG), Simulator, Sport, Hack and slash/Beat 'em up, Adventure","2005","12",0,0
+"Monster Hunter World: Iceborne","Role-playing (RPG), Hack and slash/Beat 'em up, Adventure","2019","09",1,0
+"Plague Inc: Evolved","Real Time Strategy (RTS), Simulator, Strategy, Tactical, Indie","2015","09",0,0
+"Journey to the Savage Planet","Shooter, Adventure","2020","01",1,0
+"Pok<U+00E9>mon X/Y",NA,NA,NA,0,0
+"Fallout","Puzzle, Role-playing (RPG), Turn-based strategy (TBS)","1998","10",0,0
+"The Legend of Zelda","Adventure","1986","02",0,0
+"Raid: Shadow Legends","Role-playing (RPG), Strategy, Turn-based strategy (TBS)","2018","07",1,0
+"Donkey Kong Country 3: Dixie Kong's Double Trouble!","Platform, Adventure","1996","11",0,0
+"Romance of the Three Kingdoms XIV","Simulator, Strategy, Turn-based strategy (TBS)","2020","01",1,0
+"Pok<U+00E9>mon Ruby/Sapphire",NA,NA,NA,0,0
+"Arknights","Real Time Strategy (RTS), Role-playing (RPG), Simulator, Strategy, Tactical, Adventure","2019","05",1,0
+"some some convenience store","Simulator, Strategy, Adventure, Indie, Visual Novel","2020","01",1,0
+"Wolcen: Lords of Mayhem","Role-playing (RPG), Hack and slash/Beat 'em up, Adventure, Indie","2020","02",1,0
+"Granblue Fantasy: Versus","Fighting, Role-playing (RPG)","2020","02",1,0
+"Stoneshard","Role-playing (RPG), Strategy, Turn-based strategy (TBS), Tactical, Adventure, Indie","2020","02",1,0
+"Dreams","Adventure","2020","02",1,0
+"Zombie Army 4: Dead War","Shooter, Arcade","2020","02",1,0
+"The Coin Game","Simulator, Adventure, Indie","2019","02",1,0
+"Skul: The Hero Slayer","Platform, Indie","2021","01",1,0
+"The Walking Dead: Saints & Sinners","Role-playing (RPG), Simulator, Strategy, Adventure, Indie","2020","01",1,0
+"Wasteland 2","Role-playing (RPG), Strategy, Turn-based strategy (TBS), Adventure, Indie","2014","09",0,0
+"DreadOut 2","Adventure, Indie","2020","02",1,0
+"Persona 5 Royal","Role-playing (RPG), Turn-based strategy (TBS), Adventure","2019","10",1,0
+"Vintage Story","Indie","2018","08",1,0
+"The Suicide of Rachel Foster","Adventure, Indie","2020","02",1,0
+"The Pedestrian","Platform, Puzzle, Adventure, Indie","2020","01",1,0
+"Animal Crossing: New Horizons","Simulator","2020","03",1,0
+"DOOM Eternal","Shooter","2020","03",1,0
+"Half-Life: Alyx","Shooter, Puzzle, Adventure","2020","03",1,0
+"Mount & Blade II: Bannerlord","Role-playing (RPG), Simulator, Strategy, Tactical, Adventure","2020","03",1,0
+"Ori and the Will of the Wisps","Platform, Adventure","2020","03",1,0
+"Last Oasis","Role-playing (RPG), Adventure, Indie","2021","03",1,0
+"Twitch Stream Aid",NA,NA,NA,0,0
+"MLB The Show 20","Sport","2020","03",1,0
+"Stilt Fella","Platform, Simulator, Sport, Indie, Arcade","2020","02",1,0
+"The Seven Deadly Sins: Grand Cross","Role-playing (RPG)","2020","03",1,0
+"Pok<U+00E9>mon Mystery Dungeon: Rescue Team DX",NA,NA,NA,0,0
+"Motorsport Manager","Racing, Simulator, Sport, Strategy","2014","08",0,0
+"Resident Evil 3","Shooter, Adventure","2020","04",1,0
+"Curse of the Dead Gods","Racing, Role-playing (RPG), Simulator, Adventure, Indie","2021","02",1,0
+"Final Fantasy VII Remake","Role-playing (RPG), Adventure","2020","04",1,0
+"Predator: Hunting Grounds","Shooter","2020","04",1,0
+"Yes, Your Grace","Role-playing (RPG), Simulator, Strategy, Adventure","2020","03",1,0
+"Total Lockdown","Shooter, Adventure, Indie","2020","03",1,0
+"Diabotical","Shooter, Adventure","2020","09",1,0
+"ShootMania Storm","Shooter","2013","04",0,0
+"VALORANT","Shooter, Tactical","2020","06",1,0
+"Drug Dealer Simulator","Simulator, Adventure, Indie","2020","04",1,0
+"XCOM: Chimera Squad","Strategy, Turn-based strategy (TBS), Tactical","2020","04",1,0
+"Deadside","Shooter, Adventure, Indie","2024","12",1,0
+"Trials of Mana","Shooter, Platform, Role-playing (RPG)","1995","09",0,0
+"Gears Tactics","Strategy, Turn-based strategy (TBS), Tactical","2020","04",1,0
+"SnowRunner","Racing, Simulator, Adventure, Arcade","2020","04",1,0
+"Resident Evil Resistance",NA,"2020","04",1,0
+"Virtual Casino","Card & Board Game","1996","12",0,0
+"Peggle 2","Puzzle, Arcade","2013","12",0,0
+"Griftlands","Role-playing (RPG), Strategy, Turn-based strategy (TBS), Indie, Card & Board Game","2020","06",1,0
+"Minecraft Dungeons","Role-playing (RPG), Hack and slash/Beat 'em up, Adventure","2020","05",1,0
+"Maneater","Role-playing (RPG), Adventure, Indie","2020","05",1,0
+"Crucible","Shooter, MOBA","2020","05",1,0
+"Korean Baseball League",NA,NA,NA,0,0
+"Monster Train","Role-playing (RPG), Strategy, Turn-based strategy (TBS), Indie, Card & Board Game","2020","05",1,0
+"Shadow Arena","Strategy","2020","05",1,0
+"Streets of Rage 4","Fighting, Hack and slash/Beat 'em up, Indie, Arcade","2020","04",1,0
+"Poly Bridge 2","Puzzle, Simulator, Indie","2020","05",1,0
+"Phantasy Star Online 2","Role-playing (RPG), Hack and slash/Beat 'em up, Adventure","2012","07",0,0
+"Warface: Breakout","Shooter","2020","05",1,0
+"NCAA Football 14","Simulator, Sport","2013","07",0,0
+"The Last of Us Part II","Shooter, Adventure","2020","06",1,0
+"Clubhouse Games: 51 Worldwide Classics","Arcade, Card & Board Game","2020","06",1,0
+"SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated","Platform, Adventure","2020","06",1,0
+"Command & Conquer Remastered Collection","Real Time Strategy (RTS), Strategy","2020","06",1,0
+"Last Day on Earth: Survival","Shooter, Role-playing (RPG), Simulator, Strategy, Hack and slash/Beat 'em up, Adventure","2017","05",1,0
+"Desperados III","Real Time Strategy (RTS), Simulator, Strategy, Tactical","2020","06",1,0
+"TrackMania","Racing, Sport, Arcade","2003","11",0,0
+"Summer Game Fest",NA,NA,NA,0,0
+"Xenoblade Chronicles: Definitive Edition","Role-playing (RPG)","2020","05",1,0
+"rFactor 2","Racing, Simulator, Sport","2015","11",0,0
+"Persona 4 Golden","Role-playing (RPG), Adventure, Visual Novel","2012","06",0,0
+"Gunfire Reborn","Shooter, Role-playing (RPG), Adventure, Indie","2021","11",1,0
+"Torchlight III","Role-playing (RPG), Adventure, Indie","2020","06",1,0
+"Krunker","Shooter","2018","05",1,0
+"Barn Finders","Simulator, Adventure, Indie","2020","06",1,0
+"Ghost of Tsushima","Role-playing (RPG), Hack and slash/Beat 'em up, Adventure","2020","07",1,0
+"Hyper Scape","Shooter","2020","08",1,0
+"Rogue Company","Shooter, Strategy, Tactical","2020","09",1,0
+"Fall Guys: Ultimate Knockout","Platform, Sport, Indie","2020","12",1,0
+"F1 2020","Racing, Simulator, Sport","2020","07",1,0
+"Among Us","Strategy, Indie","2018","06",1,0
+"Grounded","Role-playing (RPG), Adventure","2022","09",1,0
+"eBaseball Powerful Pro Yaky<U+016B> 2020",NA,NA,NA,0,0
+"Paper Mario: The Origami King","Role-playing (RPG), Adventure","2020","07",1,0
+"Sports",NA,NA,NA,0,0
+"Max Payne 3","Shooter","2012","05",0,0
+"Carrion","Platform, Adventure, Indie","2020","07",1,0
+"Destroy All Humans!","Adventure","2005","06",0,0
+"Pok<U+00E9>mon Platinum",NA,NA,NA,0,0
+"Neon Abyss","Shooter, Platform, Role-playing (RPG), Adventure, Indie","2020","07",1,0
+"Slam Dunk","Sport","2021","12",1,0
+"Genshin Impact","Role-playing (RPG), Adventure","2020","09",1,0
+"Mortal Shell","Role-playing (RPG), Indie","2020","08",1,0
+"Rocket Arena","Shooter, Sport","2020","07",1,0
+"King of Crabs","Fighting, Simulator, Adventure","2019","03",1,0
+"Sword Art Online: Alicization Lycoris","Role-playing (RPG), Adventure","2020","07",1,0
+"Mobile Legends: Bang Bang","Strategy, Adventure, MOBA","2016","07",0,0
+"Kingdom of the Winds",NA,"2020","07",1,0
+"New World","Simulator, Turn-based strategy (TBS)","1982","12",0,0
+"Microsoft Flight Simulator","Simulator","2020","08",1,0
+"Scrutinized","Puzzle, Simulator, Indie","2020","08",1,0
+"EA Sports UFC 4","Fighting, Sport","2020","08",1,0
+"Marvel's Avengers","Role-playing (RPG), Adventure","2020","09",1,0
+"Madden NFL 21","Simulator, Sport, Strategy","2020","05",1,0
+"PGA TOUR 2K21","Simulator, Sport","2020","08",1,0
+"Wasteland 3","Role-playing (RPG), Strategy, Turn-based strategy (TBS), Tactical, Adventure","2020","08",1,0
+"Spiritfarer","Platform, Simulator, Adventure, Indie","2020","08",1,0
+"Captain Tsubasa: Rise of New Champions","Role-playing (RPG), Sport, Arcade","2020","08",1,0
+"A Total War Saga: Troy","Real Time Strategy (RTS), Simulator, Strategy, Turn-based strategy (TBS)","2020","08",1,0
+"Hellpoint","Role-playing (RPG), Adventure, Indie","2020","07",1,0
+"Streamer Life Simulator","Simulator, Strategy, Indie","2020","08",1,0
+"Surgeon Simulator 2","Puzzle, Simulator, Indie","2020","08",1,0
+"There Is No Game : Wrong Dimension","Point-and-click, Puzzle, Adventure, Indie","2020","08",1,0
+"Agrou","Strategy, Indie","2020","07",1,0
+"NBA 2K21","Simulator, Sport","2020","09",1,0
+"Crusader Kings III","Role-playing (RPG), Simulator, Strategy","2020","09",1,0
+"Phasmophobia","Puzzle, Tactical, Indie","2020","09",1,0
+"Spelunky 2","Platform, Adventure, Indie","2020","09",1,0
+"Mafia: Definitive Edition","Shooter, Adventure","2020","09",1,0
+"FIFA 21","Simulator, Sport","2020","10",1,0
+"Call of Duty: Black Ops Cold War","Shooter","2020","11",1,0
+"Tony Hawk's Pro Skater 1+2","Simulator, Sport","2020","09",1,0
+"Watch Parties","Adventure, Indie","2021","10",1,0
+"Super Mario 3D All-Stars","Platform, Adventure","2020","09",1,0
+"Medieval Dynasty","Role-playing (RPG), Simulator, Adventure, Indie","2021","09",1,0
+"Cricket",NA,NA,NA,0,0
+"Kingdoms of Amalur: Reckoning","Role-playing (RPG), Hack and slash/Beat 'em up","2012","02",0,0
+"Night of the Dead","Fighting, Simulator, Adventure, Indie","2024","05",1,0
+"Craftopia","Role-playing (RPG), Hack and slash/Beat 'em up, Adventure, Indie","2020","07",1,0
+"BPM: BULLETS PER MINUTE","Shooter, Music, Adventure, Indie, Arcade","2020","09",1,0
+"Tell Me Why","Adventure","2020","08",1,0
+"Serious Sam 4","Shooter, Adventure, Indie","2020","09",1,0
+"Five Nights at Freddy's","Simulator, Strategy, Adventure, Indie","2014","08",0,0
+"Pro Gymnast","Platform, Simulator, Sport, Indie, Arcade","2020","09",1,0
+"Baldur's Gate 3","Role-playing (RPG), Strategy, Turn-based strategy (TBS), Tactical, Adventure","2023","08",1,0
+"Watch Dogs: Legion","Shooter, Role-playing (RPG), Adventure","2020","10",1,0
+"Amnesia: Rebirth","Puzzle, Adventure, Indie","2020","10",1,0
+"The Dark Pictures Anthology: Little Hope","Adventure","2020","10",1,0
+"Crash Bandicoot 4: It's About Time","Platform","2020","10",1,0
+"Party Animals","Fighting, Role-playing (RPG), Adventure, Indie","2023","09",1,0
+"Star Wars: Squadrons","Shooter, Simulator","2020","10",1,0
+"In Silence","Adventure","2020","10",1,0
+"Heroes of Might and Magic III: The Restoration of Erathia","Role-playing (RPG), Strategy, Turn-based strategy (TBS)","1999","02",0,0
+"Eternal Return: Black Survival",NA,NA,NA,0,0
+"Super Mario Bros. 35","Platform","2020","10",1,0
+"Call Of Duty: Modern Warfare","Shooter","2009","11",0,0
+"League of Legends: Wild Rift","Strategy, MOBA","2020","10",1,0
+"Ghostrunner","Shooter, Platform, Adventure","2020","10",1,0
+"Stream Raiders",NA,NA,NA,0,0
+"NHL 21","Simulator, Sport","2020","10",1,0
+"Sign of Silence","Adventure, Indie","2021","10",1,0
+"Diablo II","Role-playing (RPG), Hack and slash/Beat 'em up","2000","06",0,0
+"Murder House","Adventure, Indie","2020","10",1,0
+"The Survivalists","Role-playing (RPG), Simulator, Strategy, Adventure, Indie","2020","10",1,0
+"Lineage 2","Role-playing (RPG), Adventure","2017","11",1,0
+"Remothered: Broken Porcelain","Adventure","2020","10",1,0
+"Second Extinction","Shooter","2020","10",1,0
+"Assassin's Creed Valhalla","Role-playing (RPG), Adventure","2020","11",1,0
+"Marvel's Spider-Man: Miles Morales","Hack and slash/Beat 'em up, Adventure","2020","11",1,0
+"Yakuza: Like a Dragon","Role-playing (RPG), Turn-based strategy (TBS), Adventure","2020","01",1,0
+"Godfall","Role-playing (RPG), Adventure","2020","11",1,0
+"GlitchCon",NA,NA,NA,0,0
+"Teardown","Puzzle, Simulator, Strategy, Indie","2022","04",1,0
+"Bugsnax","Puzzle, Adventure, Indie","2020","11",1,0
+"Football Manager 2021","Simulator, Sport","2020","11",1,0
+"Sakuna: Of Rice and Ruin","Platform, Role-playing (RPG), Simulator, Hack and slash/Beat 'em up, Adventure, Indie","2020","11",1,0
+"Hyrule Warriors: Age Of Calamity","Fighting, Hack and slash/Beat 'em up, Adventure","2020","11",1,0
+"Astro's Playroom","Platform, Adventure","2020","11",1,0
+"Blazing Sails","Shooter, Tactical, Adventure, Indie","2023","11",1,0
+"Who Wants To Be A Millionaire","Quiz/Trivia","2013","12",0,0
+"Immortals Fenyx Rising","Puzzle, Role-playing (RPG), Adventure","2020","12",1,0
+"Who Wants to Be a Millionaire","Quiz/Trivia","1999","11",0,0
+"Quiplash 2 InterLASHional","Indie","2020","04",1,0
+"Firefighting Simulator","Simulator, Strategy","2020","11",1,0
+"Five Dates","Simulator, Adventure, Indie","2020","11",1,0
+"Aim Gods",NA,NA,NA,0,0
+"Back 4 Blood","Shooter","2021","10",1,0
+"Dragon Quest XI: Echoes of an Elusive Age","Role-playing (RPG)","2017","07",1,0
+"Codenames","Card & Board Game","2020","05",1,0
+"Barbie Horse Adventures: Wild Horse Rescue","Sport, Adventure","2003","11",0,0
+"Anime Land",NA,"1995","12",0,0
+"Call of the Sea","Puzzle, Adventure, Indie","2020","12",1,0
+"Lineage: The Blood Pledge","Role-playing (RPG), Adventure","2001","10",0,0
+"HITMAN 3","Shooter, Tactical, Adventure","2021","01",1,0
+"The Medium","Adventure","2021","01",1,0
+"Gartic Phone","Quiz/Trivia","2020","10",1,0
+"Monster Hunter Rise","Role-playing (RPG), Hack and slash/Beat 'em up, Adventure","2021","03",1,0
+"At Dead Of Night","Strategy, Adventure, Indie","2020","11",1,0
+"Dyson Sphere Program","Simulator, Strategy, Indie","2021","01",1,0
+"Valheim","Role-playing (RPG), Adventure, Indie","2022","09",1,0
+"Little Nightmares II","Platform, Puzzle, Adventure","2021","02",1,0
+"Guilty Gear: Strive","Fighting","2021","06",1,0
+"Super Seducer 3","Role-playing (RPG), Simulator, Strategy, Adventure","2021","03",1,0
+"Nioh 2: The Complete Edition","Role-playing (RPG), Hack and slash/Beat 'em up, Adventure","2021","02",1,0
+"Outriders","Shooter, Role-playing (RPG), Adventure","2021","04",1,0
+"Super Mario 3D World + Bowser's Fury","Platform, Adventure","2021","02",1,0
+"DEVOUR","Indie","2021","01",1,0
+"Stocks And Bonds",NA,NA,NA,0,0
+"Cookie Run: Kingdom","Puzzle, Role-playing (RPG)","2021","01",1,0
+"Destruction AllStars","Racing, Sport","2021","02",1,0
+"Mad Games Tycoon 2","Simulator, Strategy, Indie","2023","05",1,0
+"Ghosts 'n Goblins Resurrection","Platform, Adventure","2021","02",1,0
+"Persona 5 Strikers","Role-playing (RPG), Hack and slash/Beat 'em up, Adventure","2020","02",1,0
+"Escape from Tarkov","Shooter, Role-playing (RPG), Simulator, Tactical","2017","07",1,0
+"It Takes Two","Platform, Puzzle, Adventure","2021","03",1,0
+"Loop Hero","Role-playing (RPG), Strategy, Adventure, Indie, Card & Board Game","2021","03",1,0
+"Umamusume: Pretty Derby","Role-playing (RPG), Simulator","2021","02",1,0
+"ALTF4","Platform, Adventure, Indie, Arcade","2021","02",1,0
+"duplicate Sleepers",NA,NA,NA,0,0
+"Suspects: Mystery Mansion","Role-playing (RPG), Strategy","2021","02",1,0
+"Teamfight Manager","Fighting, Simulator, Sport, Strategy, Indie","2021","03",1,0
+"Project Zomboid","Role-playing (RPG), Simulator, Indie","2013","11",0,0
+"Magic: Legends","Role-playing (RPG), Hack and slash/Beat 'em up","2021","03",1,0
+"Enlisted","Shooter, Simulator","2020","11",1,0
+"The Movies","Simulator, Strategy, Tactical","2005","11",0,0
+"Mario Kart 8 Deluxe","Racing, Arcade","2017","04",1,0
+"Betrayal.io","Real Time Strategy (RTS)","2020","10",1,0
+"Ranch Simulator","Simulator","2023","11",1,0
+"Royal Crown","Strategy, MOBA","2020","02",1,0
+"Rhythm Doctor","Music, Adventure, Indie","2021","02",1,0
+"Diablo II: Resurrected","Role-playing (RPG), Hack and slash/Beat 'em up, Adventure","2021","09",1,0
+"NieR Replicant Ver.1.22474487139...","Role-playing (RPG), Adventure","2021","04",1,0
+"MLB The Show 21","Sport","2021","04",1,0
+"Returnal","Shooter","2021","04",1,0
+"First Class Trouble","Indie","2021","04",1,0
+"Home Sweet Home: Survive","Strategy, Adventure, Indie","2021","03",1,0
+"Scavengers","Shooter, Strategy","2021","05",1,0
+"Chivalry 2","Fighting, Tactical, Hack and slash/Beat 'em up, Indie","2021","06",1,0
+"Knockout City","Fighting, Sport","2021","05",1,0
+"War by Grow Games",NA,NA,NA,0,0
+"Lineage 2M","Role-playing (RPG)","2019","11",1,0
+"Business Tour","Real Time Strategy (RTS), Strategy, Indie","2016","10",0,0
+"Hobo: Tough Life","Role-playing (RPG), Simulator, Adventure, Indie","2017","07",1,0
+"New Pok<U+00E9>mon Snap",NA,NA,NA,0,0
+"Evil Genius 2: World Domination","Real Time Strategy (RTS), Simulator, Strategy","2021","03",1,0
+"Summoners War: Lost Centuria","Role-playing (RPG), Strategy, Tactical, Adventure","2021","04",1,0
+"NARAKA: BLADEPOINT","Fighting, Hack and slash/Beat 'em up","2021","08",1,0
+"FRIDAY NIGHT FUNKIN'",NA,NA,NA,0,0
+"Resident Evil Village","Shooter, Adventure","2021","05",1,0
+"Biomutant","Role-playing (RPG), Adventure","2021","05",1,0
+"Mass Effect Legendary Edition","Shooter, Role-playing (RPG), Strategy, Adventure","2021","05",1,0
+"Final Fantasy XIV Online","Role-playing (RPG)","2013","08",0,0
+"Pools, Hot Tubs, and Beaches",NA,NA,NA,0,0
+"Hood: Outlaws & Legends","Shooter, Role-playing (RPG), Strategy, Adventure","2021","05",1,0
+"Dread Hunger","Shooter, Adventure, Indie","2021","04",1,0
+"NieR Replicant ver.1.22474487139...","Role-playing (RPG), Adventure","2021","04",1,0
+"Miitopia","Role-playing (RPG), Adventure","2016","12",0,0
+"I'm Only Sleeping","Point-and-click, Adventure","2005","12",0,0
+"Swords of Legends Online","Role-playing (RPG)","2018","08",1,0
+"Assetto Corsa Competizione","Racing, Simulator","2019","05",1,0
+"PowerWash Simulator","Simulator, Indie","2022","07",1,0
+"Dying Light 2: Stay Human","Role-playing (RPG), Adventure","2022","02",1,0
+"PUBG: BATTLEGROUNDS","Shooter","2017","12",1,0
+"Ratchet & Clank: Rift Apart","Shooter, Platform, Adventure","2021","06",1,0
+"Eternal Return","Strategy, MOBA","2023","07",1,0
+"Mario Golf: Super Rush","Role-playing (RPG), Sport, Adventure","2021","06",1,0
+"The Last Spell","Role-playing (RPG), Strategy, Turn-based strategy (TBS), Tactical, Indie","2023","03",1,0
+"Dungeons & Dragons: Dark Alliance","Role-playing (RPG)","2021","06",1,0
+"Naraka: Bladepoint","Fighting, Hack and slash/Beat 'em up","2021","08",1,0
+"Scarlet Nexus","Role-playing (RPG), Adventure","2021","06",1,0
+"Going Medieval","Role-playing (RPG), Simulator, Strategy, Indie","2021","06",1,0
+"Until We Die","Simulator, Strategy, Adventure, Indie","2021","06",1,0
+"Operation: Tango","Puzzle, Strategy, Adventure, Indie","2021","06",1,0
+"Olympic Games Tokyo 2020: The Official Video Game","Sport","2019","07",1,0
+"Pok<U+00E9>mon Unite",NA,NA,NA,0,0
+"Necromunda: Hired Gun","Shooter, Turn-based strategy (TBS), Adventure","2021","06",1,0
+"Ni no Kuni: Cross Worlds","Role-playing (RPG), Simulator, Adventure","2021","06",1,0
+"Sniper Ghost Warrior Contracts 2","Shooter, Tactical","2021","06",1,0
+"Phantasy Star Online 2 New Genesis","Shooter, Role-playing (RPG), Hack and slash/Beat 'em up, Adventure","2021","06",1,0
+"Phantom Abyss","Adventure, Indie","2024","01",1,0
+"Muck","Adventure, Indie","2021","06",1,0
+"F1 2021","Racing, Simulator, Sport","2021","07",1,0
+"The Legend of Zelda: Skyward Sword HD","Role-playing (RPG), Adventure","2021","07",1,0
+"Monster Hunter Stories 2: Wings of Ruin","Role-playing (RPG), Adventure","2021","07",1,0
+"Aion","Role-playing (RPG), Strategy, Adventure","2008","11",0,0
+"Axie Infinity","Fighting, Strategy, Indie, Card & Board Game","2018","03",1,0
+"Tribes of Midgard","Fighting, Role-playing (RPG), Adventure, Indie","2021","07",1,0
+"Ashes of Creation",NA,NA,NA,0,0
+"Ghost Hunters Corp",NA,NA,NA,0,0
+"Grand Chase","Fighting, Platform, Role-playing (RPG), Adventure","2003","08",0,0
+"Death's Door","Role-playing (RPG), Hack and slash/Beat 'em up, Adventure, Indie","2021","07",1,0
+"Crowfall","Fighting, Role-playing (RPG), Strategy, Tactical, Adventure","2021","07",1,0
+"PICO PARK","Puzzle, Indie","2019","06",1,0
+"Doki Doki Literature Club Plus!","Role-playing (RPG), Simulator, Adventure, Indie, Visual Novel","2021","06",1,0
+"Orcs Must Die! 3","Shooter, Puzzle, Strategy, Adventure, Indie","2020","07",1,0
+"Halo Infinite","Shooter, Adventure","2021","11",1,0
+"Splitgate","Shooter","2019","05",1,0
+"Twelve Minutes","Point-and-click, Puzzle, Adventure, Indie","2021","08",1,0
+"Madden NFL 22","Simulator, Sport, Strategy","2021","08",1,0
+"Aliens: Fireteam Elite","Shooter, Role-playing (RPG)","2021","08",1,0
+"Road 96","Puzzle, Adventure, Indie","2021","08",1,0
+"HUMANKIND","Simulator, Strategy, Turn-based strategy (TBS)","2021","08",1,0
+"Riders Republic","Racing, Simulator, Sport","2021","10",1,0
+"Bless Unleashed","Role-playing (RPG)","2020","03",1,0
+"Starbase","Simulator","2021","06",1,0
+"Psychonauts 2","Platform, Adventure","2021","08",1,0
+"Idol Manager","Music, Simulator, Indie, Visual Novel","2021","07",1,0
+"Dark Roll: Free Kick Challenge","Simulator, Sport, Indie","2021","08",1,0
+"Call of Duty: Vanguard","Shooter","2021","11",1,0
+"Ghost of Tsushima: Director's Cut","Role-playing (RPG), Adventure","2021","08",1,0
+"Tormented Souls","Shooter, Puzzle, Adventure, Indie","2021","08",1,0
+"Movie World",NA,NA,NA,0,0
+"ELYON","Role-playing (RPG), Adventure","2021","10",1,0
+"Hivemind Gameshow",NA,NA,NA,0,0
+"Icarus","Simulator, Adventure","2021","12",1,0
+"Car Mechanic Simulator 2021","Racing, Simulator, Indie","2018","02",1,0
+"The Ascent","Shooter, Role-playing (RPG), Adventure, Indie","2021","07",1,0
+"GRIME","Platform, Role-playing (RPG), Adventure, Indie","2021","08",1,0
+"Voidtrain","Role-playing (RPG), Simulator, Adventure, Indie","2021","08",1,0
+"FIFA 22","Simulator, Sport","2021","10",1,0
+"NBA 2K22","Simulator, Sport","2021","09",1,0
+"DEATHLOOP","Shooter, Adventure","2021","09",1,0
+"Vampire: The Masquerade - Bloodhunt","Shooter, Tactical","2021","09",1,0
+"Tales of Arise","Role-playing (RPG), Adventure","2021","09",1,0
+"Kena: Bridge of Spirits","Role-playing (RPG), Adventure, Indie","2021","09",1,0
+"Gas Station Simulator","Simulator, Indie","2021","09",1,0
+"Life is Strange: True Colors","Adventure","2021","09",1,0
+"Pathfinder: Wrath of the Righteous","Role-playing (RPG), Strategy, Tactical, Adventure, Indie","2021","09",1,0
+"Lost Judgment","Role-playing (RPG), Hack and slash/Beat 'em up, Adventure","2021","09",1,0
+"Age of Empires IV","Real Time Strategy (RTS), Strategy","2021","10",1,0
+"I Am Fish","Platform, Puzzle, Simulator, Adventure","2021","09",1,0
+"Midnight Cinema","Point-and-click, Adventure","2016","10",0,0
+"WarioWare: Get It Together!","Arcade","2021","09",1,0
+"Plant vs Undead","Adventure","2021","04",1,0
+"MIR4","Role-playing (RPG), Adventure","2021","08",1,0
+"Software and Game Development",NA,NA,NA,0,0
+"World War Z: Aftermath","Shooter, Adventure","2021","09",1,0
+"ANIME STANDING",NA,"2020","07",1,0
+"Timberborn","Simulator, Strategy, Indie","2021","09",1,0
+"Storybook Brawl","Strategy, Card & Board Game","2021","06",1,0
+"Lost in Random","Role-playing (RPG), Adventure","2021","09",1,0
+"Potion Craft","Point-and-click, Puzzle, Role-playing (RPG), Simulator, Indie","2022","12",1,0
+"Far Cry 6","Shooter, Adventure","2021","10",1,0
+"Battlefield 2042","Shooter","2021","06",1,0
+"The Dark Pictures Anthology: House of Ashes","Adventure","2021","10",1,0
+"Darkest Dungeon II","Role-playing (RPG), Strategy, Turn-based strategy (TBS), Tactical, Adventure, Indie","2023","05",1,0
+"Metroid Dread","Platform, Adventure","2021","10",1,0
+"Nickelodeon All-Star Brawl","Fighting, Arcade","2021","10",1,0
+"Marvel's Guardians of the Galaxy","Shooter, Role-playing (RPG), Adventure","2021","10",1,0
+"Inscryption","Puzzle, Strategy, Adventure, Indie, Card & Board Game","2021","10",1,0
+"The Cycle: Frontier","Shooter","2022","06",1,0
+"Mario Party Superstars","Card & Board Game","2021","10",1,0
+"Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles","Fighting, Adventure","2021","10",1,0
+"Alan Wake Remastered","Shooter, Adventure","2021","10",1,0
+"Poppy Playtime","Puzzle, Adventure, Indie","2021","10",1,0
+"The Riftbreaker","Shooter, Role-playing (RPG), Simulator, Strategy, Adventure, Indie","2021","10",1,0
+"Melty Blood: Type Lumina","Fighting, Visual Novel","2021","09",1,0
+"Hot Wheels Unleashed","Racing, Arcade","2021","09",1,0
+"In Sound Mind","Shooter, Platform, Puzzle, Adventure, Indie","2021","09",1,0
+"Crab Game","Fighting, Racing, Strategy, Indie, Arcade","2021","10",1,0
+"Sudden Attack","Shooter","2004","07",0,0
+"Age of Darkness: Final Stand","Real Time Strategy (RTS), Strategy","2025","01",1,0
+"Goose Goose Duck","Strategy, Indie","2021","10",1,0
+"NHL 22","Sport","2021","10",1,0
+"RISK: The Game of Global Domination","Strategy, Turn-based strategy (TBS), Card & Board Game","2021","03",1,0
+"Pok<U+00E9>mon Brilliant Diamond/Shining Pearl",NA,NA,NA,0,0
+"Forza Horizon 5","Racing","2021","11",1,0
+"Arcane","Shooter","1997","09",0,0
+"Farming Simulator 22","Simulator","2021","11",1,0
+"Black Desert","Role-playing (RPG), Hack and slash/Beat 'em up, Adventure","2014","12",0,0
+"Elden Ring","Role-playing (RPG), Adventure","2022","02",1,0
+"Animals, Aquariums, and Zoos",NA,NA,NA,0,0
+"Ruined King: A League of Legends Story","Role-playing (RPG), Turn-based strategy (TBS), Adventure, Indie","2021","11",1,0
+"Super Auto Pets","Fighting, Strategy, Turn-based strategy (TBS), Card & Board Game","2021","04",1,0
+"Grand Theft Auto: San Andreas  The Definitive Edition","Shooter, Racing, Adventure","2021","11",1,0
+"Jurassic World Evolution 2","Simulator, Strategy","2021","11",1,0
+"Myth of Empires","Role-playing (RPG), Simulator, Strategy, Adventure, Indie","2024","02",1,0
+"Lineage W","Role-playing (RPG)","2021","11",1,0
+"Grand Theft Auto: Vice City  The Definitive Edition","Shooter, Racing, Adventure","2021","11",1,0
+"Football Manager 2022","Simulator, Sport, Strategy","2021","11",1,0
+"Unpacking","Point-and-click, Puzzle, Simulator, Indie","2021","11",1,0
+"Blue Archive","Role-playing (RPG), Simulator, Strategy","2021","02",1,0
+"Shin Megami Tensei V","Role-playing (RPG), Turn-based strategy (TBS), Adventure","2021","11",1,0
+"Feign","Puzzle, Indie","2010","12",0,0
+"Mahjong Soul","Strategy, Card & Board Game","2018","06",1,0
+"Prison Simulator","Role-playing (RPG), Simulator, Adventure, Indie","2021","11",1,0
+"Assetto Corsa","Racing, Simulator, Sport, Indie","2014","12",0,0
+"Sherlock Holmes: Chapter One","Adventure, Indie","2021","11",1,0
+"Grand Theft Auto III: The Definitive Edition","Shooter, Racing, Adventure","2021","11",1,0
+"Super People","Shooter, Role-playing (RPG)","2022","10",1,0
+"Propnight","Role-playing (RPG), Strategy, Adventure","2021","12",1,0
+"Five Nights at Freddy's: Security Breach","Simulator, Strategy, Adventure, Indie","2021","12",1,0
+"Ready or Not","Shooter, Simulator, Tactical, Indie","2023","12",1,0
+"Happy's Humble Burger Farm","Simulator, Adventure, Indie, Arcade","2021","12",1,0
+"Escape Simulator","Point-and-click, Puzzle, Simulator, Adventure, Indie","2021","10",1,0
+"VHS","Simulator","2024","07",1,0
+"Rubber Bandits","Fighting, Hack and slash/Beat 'em up, Indie, Arcade","2021","12",1,0
+"Bloons TD Battles 2","Strategy, Tactical, Indie","2021","11",1,0
+"Archvale","Shooter, Role-playing (RPG), Adventure","2021","12",1,0
+"Just Dance 2022","Music","2021","11",1,0
+"Thetan Arena","Strategy, Indie, MOBA","2021","11",1,0
+"The Elder Scrolls V: Skyrim Special Edition","Role-playing (RPG), Adventure","2016","10",0,0
+"DNF Duel","Fighting, Strategy","2022","06",1,0
+"Pro Soccer Online","Real Time Strategy (RTS), Sport, Indie","2021","11",1,0
+"PokÃ©mon Legends: Arceus",NA,NA,NA,0,0
+"Lost Ark","Role-playing (RPG), Hack and slash/Beat 'em up, Adventure","2018","12",1,0
+"Yu-Gi-Oh! Master Duel","Simulator, Strategy, Card & Board Game","2022","01",1,0
+"Vampire Survivors","Role-playing (RPG), Adventure, Indie, Arcade","2022","02",1,0
+"PokÃ©mon Brilliant Diamond/Shining Pearl",NA,NA,NA,0,0
+"Internet Cafe Simulator 2","Simulator, Strategy, Adventure, Indie","2022","01",1,0
+"Fall Guys","Platform, Racing, Sport, Indie","2020","08",1,0
+"Tom Clancy's Rainbow Six Extraction","Shooter, Strategy","2022","01",1,0
+"Anime World",NA,NA,NA,0,0
+"PokÃ©mon Unite",NA,NA,NA,0,0
+"The Elder Scrolls V: Skyrim - Special Edition","Role-playing (RPG), Adventure","2016","10",0,0
+"PokÃ©mon Trading Card Game",NA,NA,NA,0,0
+"Expeditions: Rome","Role-playing (RPG), Strategy, Turn-based strategy (TBS)","2022","01",1,0
+"Undecember","Role-playing (RPG), Hack and slash/Beat 'em up, Adventure","2022","10",1,0
+"PokÃ©mon GO",NA,NA,NA,0,0
+"NEW STATE MOBILE","Shooter","2021","11",1,0
+"Horizon Forbidden West","Role-playing (RPG), Adventure","2022","02",1,0
+"Sifu","Fighting, Hack and slash/Beat 'em up, Indie","2022","02",1,0
+"Total War: Warhammer III","Real Time Strategy (RTS), Strategy","2022","02",1,0
+"The King of Fighters XV","Fighting","2022","02",1,0
+"Trackmania","Racing, Sport, Arcade","2020","07",1,0
+"WWE SuperCard","Fighting, Sport, Turn-based strategy (TBS), Card & Board Game","2014","08",0,0
+"Martha Is Dead","Role-playing (RPG), Adventure, Indie","2022","02",1,0
+"Mortal Online 2","Role-playing (RPG), Adventure, Indie","2022","01",1,0
+"Video Horror Society","Tactical, Indie","2022","07",1,0
+"Rogue Tower","Strategy, Tactical, Indie","2022","01",1,0
+"Bloodborne PSX","Role-playing (RPG), Adventure","2022","01",1,0
+"Gartic Show","Quiz/Trivia","2021","11",1,0
+"PokÃ©mon HeartGold/SoulSilver",NA,NA,NA,0,0
+"WWE 2K22","Fighting, Simulator, Sport","2022","03",1,0
+"Gran Turismo 7","Racing, Simulator, Sport","2022","03",1,0
+"Tiny Tina's Wonderlands","Shooter, Role-playing (RPG), Adventure","2022","03",1,0
+"Kirby and the Forgotten Land","Platform, Adventure","2022","03",1,0
+"Core Keeper","Role-playing (RPG), Adventure, Indie","2024","08",1,0
+"Stranger of Paradise: Final Fantasy Origin","Role-playing (RPG), Adventure","2022","03",1,0
+"Ghostwire: Tokyo","Adventure","2022","03",1,0
+"ELEX II","Role-playing (RPG), Adventure","2022","03",1,0
+"Tunic","Puzzle, Role-playing (RPG), Adventure, Indie","2022","03",1,0
+"The Simpsons",NA,"1999","12",0,0
+"The Closing Shift","Simulator, Strategy, Adventure, Indie","2022","03",1,0
+"MU Online","Fighting, Role-playing (RPG), Strategy, Turn-based strategy (TBS)","2001","11",0,0
+"Triangle Strategy","Role-playing (RPG), Strategy, Turn-based strategy (TBS), Tactical","2022","03",1,0
+"PokÃ©mon Sword/Shield",NA,NA,NA,0,0
+"Planet Crafter","Adventure","2024","04",1,0
+"Tusmo","Puzzle","2022","02",1,0
+"LEGO Star Wars: The Skywalker Saga","Puzzle, Adventure","2022","04",1,0
+"MLB The Show 22","Simulator, Sport","2022","04",1,0
+"Overwatch 2","Shooter","2023","08",1,0
+"eBaseball Pawafuru Puroyakyu 2022","Sport","2022","04",1,0
+"Midnight Ghost Hunt","Indie","2024","03",1,0
+"eFootball 2022","Simulator, Sport","2021","09",1,0
+"Rogue Legacy 2","Platform, Role-playing (RPG), Adventure, Indie","2022","04",1,0
+"Gundam Evolution","Shooter","2022","09",1,0
+"PokÃ©mon FireRed/LeafGreen",NA,NA,NA,0,0
+"Nintendo Switch Sports","Simulator, Sport","2022","04",1,0
+"Tale of Immortal","Role-playing (RPG), Simulator, Strategy, Adventure, Indie","2021","01",1,0
+"The Stanley Parable: Ultra Deluxe","Simulator, Adventure","2022","04",1,0
+"Weird West","Role-playing (RPG), Simulator, Adventure, Indie","2022","03",1,0
+"Rise Online","Role-playing (RPG)","2024","01",1,0
+"V Rising","Role-playing (RPG), Adventure","2024","05",1,0
+"Evil Dead: The Game","Shooter","2022","05",1,0
+"We Were Here Forever","Puzzle, Adventure, Indie","2022","05",1,0
+"MultiVersus","Fighting","2024","05",1,0
+"Warhammer 40,000: Chaos Gate - Daemonhunters","Role-playing (RPG), Strategy, Tactical","2022","05",1,0
+"Sniper Elite 5","Fighting, Shooter, Simulator, Adventure","2022","05",1,0
+"Marauders","Shooter, Tactical","2022","10",1,0
+"Golf Gang","Racing, Sport, Arcade","2022","05",1,0
+"Stumble Guys","Platform, Racing, Indie","2020","09",1,0
+"King Arthur: Knight's Tale","Role-playing (RPG), Strategy, Turn-based strategy (TBS)","2022","04",1,0
+"Weed Shop 3","Simulator, Indie","2022","04",1,0
+"I'm on Observation Duty 5","Puzzle, Indie","2022","05",1,0
+"Songs of Conquest","Role-playing (RPG), Strategy, Adventure","2024","05",1,0
+"Hay Day","Simulator, Adventure","2012","06",0,0
+"Arma Reforger","Shooter, Simulator, Strategy, Tactical","2023","11",1,0
+"Dragon Quest X Online","Role-playing (RPG), Turn-based strategy (TBS)","2012","08",0,0
+"Apex Legends Mobile","Shooter","2022","05",1,0
+"Trek to Yomi","Hack and slash/Beat 'em up, Adventure, Indie","2022","05",1,0
+"The Quarry","Adventure","2022","06",1,0
+"Diablo Immortal","Role-playing (RPG)","2022","06",1,0
+"Mario Strikers: Battle League","Sport","2022","06",1,0
+"F1 22","Racing, Simulator, Sport","2022","07",1,0
+"Teenage Mutant Ninja Turtles: Shredder's Revenge","Hack and slash/Beat 'em up, Indie, Arcade","2022","06",1,0
+"Veiled Experts","Shooter, Strategy, Tactical","2023","05",1,0
+"20 Minutes Till Dawn","Shooter, Role-playing (RPG), Strategy, Adventure, Indie, Arcade","2022","09",1,0
+"Dragon Age: Origins","Role-playing (RPG)","2009","11",0,0
+"PokÃ©mon Emerald",NA,NA,NA,0,0
+"Card Shark","Simulator, Adventure, Indie, Card & Board Game","2022","06",1,0
+"Stray","Platform, Adventure, Indie","2022","07",1,0
+"Madison","Puzzle, Simulator, Adventure, Indie","2022","07",1,0
+"As Dusk Falls","Point-and-click, Role-playing (RPG), Adventure","2022","07",1,0
+"Dinkum","Role-playing (RPG), Simulator, Indie","2022","07",1,0
+"Chimeraland","Role-playing (RPG), Simulator, Adventure","2022","07",1,0
+"Dragon Age: Inquisition","Role-playing (RPG), Tactical, Adventure","2014","11",0,0
+"Xenoblade Chronicles 3","Role-playing (RPG), Adventure","2022","07",1,0
+"Peepo Island","Adventure, Indie","2022","07",1,0
+"Final Fantasy X","Role-playing (RPG), Adventure","2001","07",0,0
+"Cult of the Lamb","Role-playing (RPG), Simulator, Strategy, Hack and slash/Beat 'em up, Adventure, Indie","2022","08",1,0
+"Tower of Fantasy","Role-playing (RPG), Adventure","2021","12",1,0
+"The Mortuary Assistant","Puzzle, Simulator, Adventure, Indie","2022","08",1,0
+"Rumbleverse","Fighting, Platform","2022","08",1,0
+"Madden NFL 23","Simulator, Sport, Strategy","2022","08",1,0
+"PlateUp!","Simulator, Strategy, Indie","2022","08",1,0
+"Saints Row","Shooter, Racing, Adventure","2006","08",0,0
+"F1 Manager 2022","Racing, Simulator, Sport, Strategy","2022","08",1,0
+"Farthest Frontier","Simulator, Strategy, Indie","2022","08",1,0
+"Marvel's Spider-Man Remastered","Hack and slash/Beat 'em up, Adventure","2020","11",1,0
+"Ghost Watchers","Adventure","2022","07",1,0
+"Two Point Campus","Simulator, Strategy, Indie","2022","08",1,0
+"Thymesia","Role-playing (RPG), Hack and slash/Beat 'em up, Adventure","2022","08",1,0
+"Inside the Backrooms","Adventure, Indie","2022","06",1,0
+"Way of the Hunter","Shooter, Simulator, Sport, Adventure","2022","08",1,0
+"Splatoon 3","Shooter, Platform","2022","09",1,0
+"Hooked on You: A Dead by Daylight Dating Sim","Visual Novel","2022","08",1,0
+"Digimon Survive","Role-playing (RPG), Simulator, Strategy, Turn-based strategy (TBS), Adventure","2022","07",1,0
+"Backpack Hero","Fighting, Puzzle, Role-playing (RPG), Strategy, Turn-based strategy (TBS), Adventure, Indie, Card & Board Game","2023","11",1,0
+"The Bridge Curse: Road To Salvation","Puzzle, Adventure","2022","08",1,0
+"FIFA 23","Simulator, Sport","2022","09",1,0
+"Call of Duty: Modern Warfare II","Shooter","2022","10",1,0
+"NBA 2K23","Simulator, Sport","2022","09",1,0
+"The Last of Us Part I","Shooter, Adventure","2022","09",1,0
+"Omega Strikers","Strategy, Tactical, Arcade","2022","09",1,0
+"Disney Dreamlight Valley","Role-playing (RPG), Simulator, Adventure","2023","12",1,0
+"Slime Rancher 2","Shooter, Simulator, Adventure, Indie","2022","09",1,0
+"Dark and Darker","Shooter, Role-playing (RPG), Tactical, Adventure","2023","08",1,0
+"Steelrising","Role-playing (RPG), Hack and slash/Beat 'em up, Adventure","2022","09",1,0
+"Construction Simulator","Simulator, Strategy","2022","09",1,0
+"Metal: Hellsinger","Shooter, Music, Adventure","2022","09",1,0
+"Shatterline","Shooter","2022","09",1,0
+"Dome Keeper","Tactical, Indie, Arcade","2022","09",1,0
+"The Wandering Village","Simulator, Strategy, Indie","2023","06",1,0
+"Made in Abyss: Binary Star Falling into Darkness","Role-playing (RPG), Adventure","2022","09",1,0
+"Trombone Champ","Music, Indie","2022","09",1,0
+"Dragon Ball","Hack and slash/Beat 'em up, Adventure","1986","11",0,0
+"Return to Monkey Island","Point-and-click, Puzzle, Adventure","2022","09",1,0
+"SCP: Secret Files","Puzzle, Role-playing (RPG), Adventure, Indie","2022","09",1,0
+"Food Truck Simulator","Simulator, Indie","2022","09",1,0
+"Wo Long: Fallen Dynasty","Role-playing (RPG), Adventure","2023","03",1,0
+"PokÃ©mon Community Game",NA,NA,NA,0,0
+"A Plague Tale: Requiem","Role-playing (RPG), Adventure","2022","10",1,0
+"Scorn","Puzzle, Adventure, Indie","2022","10",1,0
+"Brotato","Fighting, Shooter, Role-playing (RPG), Indie, Arcade","2023","03",1,0
+"Gotham Knights","Role-playing (RPG), Hack and slash/Beat 'em up, Adventure","2022","10",1,0
+"Dragon Ball: The Breakers","Fighting","2022","10",1,0
+"Street Fighter 6","Fighting, Arcade","2023","06",1,0
+"Marvel Snap","Strategy, Card & Board Game","2022","10",1,0
+"Victoria 3","Simulator, Strategy","2022","10",1,0
+"The First Descendant","Shooter, Role-playing (RPG), Adventure","2024","07",1,0
+"Warhammer 40,000: Darktide","Shooter, Role-playing (RPG), Adventure, Indie","2022","11",1,0
+"Torchlight: Infinite","Role-playing (RPG), Hack and slash/Beat 'em up, Adventure","2023","05",1,0
+"The Bathhouse","Indie","2022","10",1,0
+"Mario + Rabbids Sparks of Hope","Strategy, Turn-based strategy (TBS), Tactical, Adventure","2022","10",1,0
+"The Outlast Trials","Adventure, Indie","2024","03",1,0
+"Ghostbusters: Spirits Unleashed","Shooter, Adventure","2022","10",1,0
+"Stay Out of the House","Shooter, Puzzle, Simulator, Adventure, Indie","2022","10",1,0
+"God of War RagnarÃ¶k",NA,NA,NA,0,0
+"PokÃ©mon Scarlet/Violet",NA,NA,NA,0,0
+"The Dark Pictures Anthology: The Devil in Me","Adventure","2022","11",1,0
+"Sonic Frontiers","Platform, Adventure","2022","11",1,0
+"Goddess of Victory: Nikke","Shooter, Role-playing (RPG)","2022","11",1,0
+"Football Manager 2023","Simulator, Sport","2022","11",1,0
+"Watch TV",NA,NA,NA,0,0
+"Soulstone Survivors","Role-playing (RPG), Hack and slash/Beat 'em up, Indie, Arcade","2022","11",1,0
+"Dave the Diver","Role-playing (RPG), Simulator, Adventure","2023","06",1,0
+"Among Us VR","Simulator, Strategy, Indie","2022","11",1,0
+"Paragon: The Overprime","Shooter, Strategy, MOBA","2022","12",1,0
+"Evil West","Shooter, Hack and slash/Beat 'em up, Adventure","2022","11",1,0
+"Call of Duty: Warzone 2.0","Shooter, Tactical","2022","11",1,0
+"Goat Simulator 3","Simulator, Adventure","2022","11",1,0
+"Tactics Ogre: Reborn","Role-playing (RPG), Simulator, Strategy, Tactical","2022","11",1,0
+"Zero Sievert","Role-playing (RPG), Adventure","2024","10",1,0
+"Bendy and the Dark Revival","Puzzle, Adventure, Indie","2022","11",1,0
+"Need for Speed Unbound","Racing","2022","11",1,0
+"The Chant","Adventure","2022","11",1,0
+"Tiny Rogues","Shooter, Role-playing (RPG), Adventure, Indie, Arcade","2022","09",1,0
+"Against the Storm","Real Time Strategy (RTS), Simulator, Strategy, Indie","2023","12",1,0
+"The Callisto Protocol","Shooter, Adventure","2022","12",1,0
+"High on Life","Shooter, Adventure","2022","12",1,0
+"Dwarf Fortress",NA,NA,NA,0,0
+"Choo-Choo Charles","Shooter, Adventure, Indie","2022","12",1,0
+"Crisis Core: Final Fantasy VII - Reunion","Role-playing (RPG)","2022","12",1,0
+"Marvel's Midnight Suns","Role-playing (RPG), Strategy, Tactical","2022","12",1,0
+"DKO: Divine Knockout","Fighting, Platform","2022","12",1,0
+"Stalcraft",NA,NA,NA,0,0
+"Hello Neighbor 2","Puzzle, Strategy, Adventure, Indie","2022","12",1,0
+"Ixion","Simulator, Strategy, Indie","2022","12",1,0
+"Live","Indie","2017","10",1,0
+"Death Stranding: Directorâs Cut",NA,NA,NA,0,0
+"Cafe Owner Simulator","Simulator, Adventure, Indie","2022","12",1,0
+"Project: Playtime","Indie","2022","12",1,0
+"Crimson Snow","Adventure, Indie","2022","12",1,0
+"Forspoken","Role-playing (RPG), Adventure","2023","01",1,0
+"Fire Emblem Engage","Role-playing (RPG), Strategy, Turn-based strategy (TBS), Tactical, Adventure","2023","01",1,0
+"KartRider: Drift","Racing, Sport","2023","01",1,0
+"Hi-Fi Rush","Music, Platform, Hack and slash/Beat 'em up, Adventure","2023","01",1,0
+"Fears to Fathom: Carson House","Adventure, Indie","2023","01",1,0
+"One Piece Odyssey","Role-playing (RPG), Adventure","2023","01",1,0
+"Warlander","Role-playing (RPG), Adventure","2020","02",1,0
+"Amok Runner","Shooter, Puzzle, Adventure, Indie","2022","11",1,0
+"Dark Souls: Remastered","Role-playing (RPG), Adventure","2018","05",1,0
+"HITMAN World of Assassination","Shooter, Tactical, Adventure","2023","01",1,0
+"Wrestling Empire","Fighting, Role-playing (RPG), Simulator, Sport, Indie","2021","01",1,0
+"The Stubborn Of WakGood",NA,NA,NA,0,0
+"Uno","Strategy, Turn-based strategy (TBS), Card & Board Game","2006","05",0,0
+"Hogwarts Legacy","Role-playing (RPG), Adventure","2023","02",1,0
+"Sons of the Forest","Simulator, Adventure, Indie","2024","02",1,0
+"Atomic Heart","Shooter, Role-playing (RPG), Adventure","2023","02",1,0
+"ELDEN RING","Role-playing (RPG), Adventure","2022","02",1,0
+"FINAL FANTASY XIV ONLINE","Role-playing (RPG)","2013","08",0,0
+"Wild Hearts","Adventure","2023","02",1,0
+"ROBLOX","Platform, Role-playing (RPG), Simulator, Adventure, Arcade","2006","09",0,0
+"Like a Dragon: Ishin!","Role-playing (RPG), Hack and slash/Beat 'em up, Adventure","2023","02",1,0
+"MARVEL SNAP","Strategy, Card & Board Game","2022","10",1,0
+"Hi-Fi RUSH","Music, Platform, Hack and slash/Beat 'em up, Adventure","2023","01",1,0
+"Honkai: Star Rail","Role-playing (RPG), Turn-based strategy (TBS), Adventure","2023","04",1,0
+"Marbles on Stream","Racing, Simulator","2018","03",1,0
+"PokÃ©mon UNITE",NA,NA,NA,0,0
+"ANIME WORLD",NA,NA,NA,0,0
+"Undisputed","Fighting, Simulator, Sport, Indie","2024","10",1,0
+"Company of Heroes 3","Real Time Strategy (RTS), Strategy, Turn-based strategy (TBS), Tactical","2023","02",1,0
+"Metroid Prime Remastered","Shooter, Platform, Adventure","2023","02",1,0
+"Lineage II","Role-playing (RPG), Adventure","2003","10",0,0
+"SpongeBob SquarePants: The Cosmic Shake","Platform, Adventure","2023","01",1,0
+"GODDESS OF VICTORY: NIKKE","Shooter, Role-playing (RPG)","2022","11",1,0
+"Escape the Backrooms","Adventure, Indie","2022","08",1,0
+"Octopath Traveler II","Role-playing (RPG), Turn-based strategy (TBS)","2023","02",1,0
+"Kerbal Space Program 2","Simulator, Adventure, Indie","2023","02",1,0
+"The Karaoke","Adventure, Indie","2023","02",1,0
+"MIR 4","Role-playing (RPG), Adventure","2021","08",1,0
+"Sexy Sniper","Simulator, Adventure, Indie","2021","04",1,0
+"Make it Meme","Quiz/Trivia, Indie","2021","03",1,0
+"Contraband Police","Shooter, Simulator, Indie","2023","03",1,0
+"Counter-Strike 2","Shooter, Tactical","2023","09",1,0
+"THE FINALS","Role-playing (RPG), Adventure","2007","12",0,0
+"Big Ambitions","Simulator, Strategy, Indie","2023","03",1,0
+"WWE 2K23","Fighting, Simulator, Sport","2023","03",1,0
+"MLB The Show 23","Simulator, Sport","2023","03",1,0
+"Summoners War: Chronicles","Role-playing (RPG), Adventure","2022","08",1,0
+"Nitro: Stream Racing",NA,NA,NA,0,0
+"Deceive Inc.","Shooter, Tactical, Indie","2023","03",1,0
+"Dredge","Role-playing (RPG), Simulator, Adventure","2023","03",1,0
+"PokÃ©mon Omega Ruby/Alpha Sapphire",NA,NA,NA,0,0
+"Demonologist","Puzzle, Simulator, Adventure, Indie","2023","09",1,0
+"Have a Nice Death","Platform, Indie, Arcade","2023","03",1,0
+"Mechabellum","Strategy, Tactical","2024","09",1,0
+"STALCRAFT","Shooter, Adventure","2022","12",1,0
+"King of the Castle","Strategy, Indie","2023","03",1,0
+"The Godfather","Shooter, Adventure","2006","03",0,0
+"Dead Island 2","Shooter, Role-playing (RPG), Hack and slash/Beat 'em up, Adventure","2023","04",1,0
+"XDefiant","Shooter","2024","05",1,0
+"Star Wars Jedi: Survivor","Adventure","2023","04",1,0
+"Wartales","Role-playing (RPG), Strategy, Turn-based strategy (TBS), Tactical, Adventure, Indie","2023","04",1,0
+"Altf42","Adventure, Indie","2024","06",1,0
+"Crab Champions","Fighting, Shooter, Platform, Racing, Adventure, Indie","2023","04",1,0
+"BETON BRUTAL","Platform, Indie","2023","03",1,0
+"Total War: WARHAMMER III","Real Time Strategy (RTS), Strategy","2022","02",1,0
+"Minecraft: Legends","Strategy, Arcade","2023","04",1,0
+"Winning Post 10","Racing, Simulator, Sport","2023","03",1,0
+"Smalland: Survive the Wilds","Role-playing (RPG), Adventure, Indie","2024","02",1,0
+"Meet Your Maker","Shooter, Strategy, Tactical","2023","04",1,0
+"DARK SOULS III","Role-playing (RPG), Adventure","2016","03",0,0
+"PokÃ©mon Infinite Fusion",NA,NA,NA,0,0
+"Wall World","Fighting, Shooter, Platform, Role-playing (RPG), Strategy, Adventure, Indie, Arcade","2023","04",1,0
+"Sun Haven","Role-playing (RPG), Simulator, Adventure, Indie","2023","03",1,0
+"Mega Man Battle Network","Role-playing (RPG), Turn-based strategy (TBS), Adventure","2001","03",0,0
+"Dragon Quest XI S: Echoes of an Elusive Age - Definitive Edition","Role-playing (RPG), Adventure","2019","09",1,0
+"The Mageseeker: A League of Legends Story","Role-playing (RPG), Adventure, Indie","2023","04",1,0
+"Scarface: The World Is Yours","Shooter, Adventure","2006","07",0,0
+"Amanda the Adventurer","Puzzle, Adventure, Indie","2023","04",1,0
+"South Park","Shooter","1998","12",0,0
+"The Legend of Zelda: Tears of the Kingdom","Role-playing (RPG), Adventure","2023","05",1,0
+"Casino Slot Machine","Arcade","1978","02",0,0
+"The Texas Chain Saw Massacre","Indie","2023","08",1,0
+"Redfall","Shooter, Role-playing (RPG), Adventure","2023","05",1,0
+"Fortnite Zero Build",NA,NA,NA,0,0
+"Farlight 84","Shooter, Tactical, Adventure","2021","06",1,0
+"Bramble: The Mountain King","Platform, Puzzle, Adventure, Indie","2023","04",1,0
+"The Lord of the Rings: Gollum","Adventure","2023","05",1,0
+"Starship Troopers: Extermination","Shooter, Indie","2024","10",1,0
+"Age of Wonders 4","Strategy, Turn-based strategy (TBS)","2023","05",1,0
+"DARK SOULS II: Scholar of the First Sin","Role-playing (RPG), Adventure","2015","04",0,0
+"System Shock","Shooter, Role-playing (RPG)","1994","09",0,0
+"Q REMASTERED","Puzzle, Simulator, Indie, Arcade","2022","11",1,0
+"You Suck at Parking","Puzzle, Racing, Sport, Indie, Arcade","2022","09",1,0
+"Counter-Strike","Shooter","2000","11",0,0
+"Only Up!","Adventure, Indie","2023","05",1,0
+"FINAL FANTASY XVI","Role-playing (RPG)","2023","06",1,0
+"BattleBit Remastered","Shooter, Simulator, Tactical, Indie","2023","06",1,0
+"Amnesia: The Bunker","Shooter, Puzzle, Adventure, Indie","2023","06",1,0
+"F1 23","Racing, Simulator, Sport","2023","06",1,0
+"Blue Protocol","Role-playing (RPG), Adventure","2023","06",1,0
+"Lies of P","Role-playing (RPG)","2023","09",1,0
+"Counter-Strike 2 Limited Test",NA,NA,NA,0,0
+"Aliens: Dark Descent","Strategy, Adventure","2023","06",1,0
+"Poly Bridge 3","Puzzle, Simulator, Indie","2023","05",1,0
+"Killer Frequency","Puzzle, Simulator, Adventure, Indie","2023","06",1,0
+"Night Security","Indie","2023","06",1,0
+"Mortal Kombat 1","Fighting, Adventure","2023","09",1,0
+"EA Sports FC Online","Simulator, Sport","2018","06",1,0
+"Park Beyond","Simulator, Strategy","2023","06",1,0
+"PokÃ©mon Platinum Version",NA,NA,NA,0,0
+"Counter-Strike 1.6",NA,NA,NA,0,0
+"Remnant II","Shooter, Role-playing (RPG), Adventure","2023","07",1,0
+"Halls of Torment","Role-playing (RPG), Indie","2024","08",1,0
+"Pikmin 4","Real Time Strategy (RTS), Strategy, Adventure","2023","07",1,0
+"Jagged Alliance 3","Role-playing (RPG), Strategy, Turn-based strategy (TBS), Tactical","2023","07",1,0
+"Punch Club 2: Fast Forward","Fighting, Role-playing (RPG), Simulator, Sport, Strategy, Adventure, Indie","2023","07",1,0
+"Exoprimal","Shooter, Hack and slash/Beat 'em up","2023","07",1,0
+"TEKKEN 8","Fighting","2024","01",1,0
+"Viewfinder","Platform, Puzzle, Adventure, Indie","2023","07",1,0
+"Mir Tankov","Shooter, Simulator, Strategy, Tactical","2022","04",1,0
+"My Friendly Neighborhood","Shooter, Adventure, Indie","2023","07",1,0
+"Cyphers","Role-playing (RPG), MOBA","2011","06",0,0
+"Dating Simulator","Simulator, Indie","2021","12",1,0
+"Only Climb: Better Together","Adventure, Indie","2023","07",1,0
+"Starsiege: Deadzone","Shooter, Tactical","2023","07",1,0
+"Bread & Fred","Platform, Indie","2023","05",1,0
+"Casino Jackpot",NA,NA,NA,0,0
+"Armored Core VI: Fires of Rubicon","Shooter","2023","08",1,0
+"Palia","Role-playing (RPG), Simulator, Adventure","2023","12",1,0
+"Madden NFL 24","Simulator, Sport, Strategy","2023","08",1,0
+"Starfield","Shooter, Role-playing (RPG), Adventure","2023","09",1,0
+"The Casino: Roulette, Video Poker, Slot Machines, Craps, Baccarat","Simulator, Card & Board Game","2020","11",1,0
+"Wayfinder","Role-playing (RPG), Adventure","2024","10",1,0
+"Project F",NA,NA,NA,0,0
+"Blasphemous II","Platform, Role-playing (RPG), Hack and slash/Beat 'em up, Adventure, Indie","2023","08",1,0
+"Waven","Role-playing (RPG), Strategy, Tactical, Adventure","2023","08",1,0
+"Immortals of Aveum","Shooter, Adventure","2023","08",1,0
+"F1 Manager 2023","Racing, Simulator, Sport, Strategy","2023","07",1,0
+"Atlas Fallen","Role-playing (RPG), Adventure","2023","08",1,0
+"PAYDAY 3","Shooter","2023","09",1,0
+"Parasocial","Simulator, Indie","2023","08",1,0
+"Poker Online - Texas Holdem",NA,"2017","12",1,0
+"Holocure: Save the Fans!","Role-playing (RPG), Adventure, Indie, Arcade","2022","06",1,0
+"Skull and Bones","Adventure","2024","02",1,0
+"Sea of Stars","Role-playing (RPG), Turn-based strategy (TBS), Adventure, Indie","2023","08",1,0
+"EA Sports FC 24","Simulator, Sport","2023","09",1,0
+"NBA 2K24","Simulator, Sport","2023","09",1,0
+"Suika Game","Puzzle, Arcade","2021","12",1,0
+"F-Zero 99","Racing","2023","09",1,0
+"Fae Farm","Role-playing (RPG), Simulator, Adventure","2023","09",1,0
+"Sunkenland","Indie","2023","08",1,0
+"SYNCED","Shooter, Adventure","2023","09",1,0
+"The Crew: Motorfest","Racing, Adventure","2023","09",1,0
+"My Hero Ultra Rumble","Fighting","2023","09",1,0
+"Dragonheir: Silent Gods","Role-playing (RPG), Strategy, Adventure","2023","09",1,0
+"Warhaven","Fighting, Hack and slash/Beat 'em up","2023","09",1,0
+"Aion Classic","Role-playing (RPG)","2021","06",1,0
+"Town of Salem 2","Role-playing (RPG), Strategy, Indie","2023","05",1,0
+"I'm on Observation Duty 6","Indie","2023","09",1,0
+"Deceit 2","Shooter, Role-playing (RPG)","2023","09",1,0
+"Marvel's Spider-Man 2","Hack and slash/Beat 'em up, Adventure","2023","10",1,0
+"Lords of the Fallen","Role-playing (RPG), Adventure","2023","10",1,0
+"Call of Duty: Modern Warfare III","Shooter","2023","11",1,0
+"New World: Aeternum","Role-playing (RPG), Adventure","2021","09",1,0
+"Assassin's Creed Mirage","Adventure","2023","10",1,0
+"Alan Wake II","Shooter, Adventure","2023","10",1,0
+"Hunt: Showdown 1896","Shooter, Simulator","2019","08",1,0
+"Cities: Skylines II","Simulator, Strategy","2023","10",1,0
+"Super Mario Bros. Wonder","Platform","2023","10",1,0
+"Backpack Battles","Strategy, Turn-based strategy (TBS), Tactical, Indie","2024","03",1,0
+"ARK: Survival Ascended","Shooter, Role-playing (RPG), Simulator, Adventure, Indie","2023","11",1,0
+"The Lord of the Rings: Return to Moria","Role-playing (RPG), Adventure","2023","10",1,0
+"Fears to Fathom: Ironbark Lookout","Strategy, Adventure, Indie","2023","10",1,0
+"Dead Signal","Simulator, Indie","2023","10",1,0
+"The Front",NA,NA,NA,0,0
+"Call of Duty","Shooter","2003","10",0,0
+"DON'T SCREAM",NA,NA,NA,0,0
+"Forza Motorsport","Racing, Simulator, Sport","2005","05",0,0
+"Poker Online: Texas Holdem",NA,"2017","12",1,0
+"Thief Simulator 2","Role-playing (RPG), Simulator, Strategy, Indie","2023","10",1,0
+"Voices of the Void",NA,NA,NA,0,0
+"STALCRAFT: X","Shooter, Adventure","2022","12",1,0
+"El Chavo","Shooter, Platform, Arcade","2012","04",0,0
+"Football Manager 2024","Simulator, Sport, Strategy","2023","11",1,0
+"NHL 24","Sport","2023","10",1,0
+"Lethal Company","Indie","2023","10",1,0
+"Super Mario RPG","Role-playing (RPG)","2023","11",1,0
+"Half Sword",NA,NA,NA,0,0
+"Like a Dragon Gaiden: The Man Who Erased His Name","Role-playing (RPG), Hack and slash/Beat 'em up, Adventure","2023","11",1,0
+"For the King II","Role-playing (RPG), Strategy, Adventure, Indie","2023","11",1,0
+"Risk of Rain Returns","Shooter, Hack and slash/Beat 'em up, Indie","2023","11",1,0
+"RoboCop: Rogue City","Shooter, Role-playing (RPG), Adventure","2023","11",1,0
+"Ratopia","Simulator, Strategy, Indie","2024","11",1,0
+"Wakfu","Role-playing (RPG), Strategy, Turn-based strategy (TBS), Tactical, Adventure, Indie","2012","02",0,0
+"Chilla's Art: The Kidnap","Indie","2023","11",1,0
+"Pax Dei","Role-playing (RPG), Adventure","2024","06",1,0
+"SANABI","Platform, Adventure, Indie","2023","11",1,0
+"Death Must Die","Role-playing (RPG), Indie","2023","11",1,0
+"Zenless Zone Zero","Role-playing (RPG), Adventure","2024","06",1,0
+"Pumping Simulator 2","Simulator, Indie","2023","09",1,0
+"Five Nights at Freddy's 2","Simulator, Strategy, Adventure, Indie","2014","11",0,0
+"My Time at Sandrock","Role-playing (RPG), Simulator, Adventure, Indie","2023","11",1,0
+"HeadBangers: Rhythm Royale","Music","2023","10",1,0
+"The Invincible","Adventure, Indie","2023","11",1,0
+"HANS","Platform, Role-playing (RPG), Simulator, Adventure, Indie, Arcade","2023","11",1,0
+"Nickelodeon All-Star Brawl 2","Fighting, Platform","2023","11",1,0
+"Stronghold: Definitive Edition","Real Time Strategy (RTS), Simulator, Strategy","2023","11",1,0
+"Perfect World","Role-playing (RPG)","2005","07",0,0
+"Escape from Tarkov: Arena",NA,NA,NA,0,0
+"The Day Before","Shooter, Adventure","2023","12",1,0
+"Avatar: Frontiers of Pandora","Adventure","2023","12",1,0
+"Once Human","Shooter, Role-playing (RPG), Strategy, Adventure","2024","07",1,0
+"MapleStory Worlds","Platform, Simulator, Adventure","2024","04",1,0
+"DRAGON QUEST MONSTERS: The Dark Prince","Role-playing (RPG), Adventure","2023","12",1,0
+"House Flipper 2","Simulator, Indie","2023","12",1,0
+"Throne and Liberty","Role-playing (RPG), Adventure","2023","12",1,0
+"Granblue Fantasy Versus: Rising","Fighting, Role-playing (RPG)","2023","12",1,0
+"Warhammer 40,000: Rogue Trader","Role-playing (RPG), Strategy, Turn-based strategy (TBS)","2023","12",1,0
+"The Exit 8","Puzzle, Simulator, Adventure, Indie","2023","11",1,0
+"Black Clover Mobile","Role-playing (RPG), Adventure","2023","11",1,0
+"Hollow Cocoon","Adventure, Indie","2023","12",1,0
+"60 Seconds! Reatomized","Role-playing (RPG), Simulator, Strategy, Adventure, Indie","2019","07",1,0
+"FINAL FANTASY VII","Role-playing (RPG), Turn-based strategy (TBS), Adventure","1997","01",0,0
+"Words On Stream","Quiz/Trivia","2019","04",1,0
+"Palworld","Shooter, Role-playing (RPG), Hack and slash/Beat 'em up, Adventure, Indie","2024","01",1,0
+"Enshrouded","Role-playing (RPG), Adventure","2024","01",1,0
+"Like a Dragon: Infinite Wealth","Role-playing (RPG), Hack and slash/Beat 'em up, Adventure","2024","01",1,0
+"Prince of Persia: The Lost Crown","Platform, Adventure","2024","01",1,0
+"Ravendawn","Role-playing (RPG), Adventure, Indie","2024","01",1,0
+"Suicide Squad: Kill the Justice League","Shooter, Adventure","2024","02",1,0
+"The Last of Us Part II: Remastered","Shooter, Adventure","2024","01",1,0
+"Shiren the Wanderer: The Mystery Dungeon of Serpentcoil Island","Role-playing (RPG)","2024","01",1,0
+"BUCKSHOT ROULETTE","Simulator, Strategy, Indie","2023","12",1,0
+"FINAL FANTASY VII REMAKE","Role-playing (RPG), Adventure","2020","04",1,0
+"Gym Simulator 24","Simulator, Sport, Indie","2024","07",1,0
+"HELLDIVERS 2","Shooter, Tactical","2024","02",1,0
+"Nightingale","Role-playing (RPG), Adventure","2024","02",1,0
+"Deep Rock Galactic: Survivor","Adventure","2024","02",1,0
+"Persona 3 Reload","Role-playing (RPG), Strategy, Turn-based strategy (TBS), Adventure","2024","02",1,0
+"Granblue Fantasy: Relink","Role-playing (RPG), Hack and slash/Beat 'em up, Adventure","2024","02",1,0
+"Dungeonborne","Role-playing (RPG), Simulator, Strategy, Adventure, Indie, Card & Board Game","2019","05",1,0
+"Supermarket Simulator","Simulator, Strategy, Indie","2024","02",1,0
+"Pacific Drive","Simulator, Adventure, Indie","2024","02",1,0
+"FINAL FANTASY VII REBIRTH","Role-playing (RPG), Adventure","2024","02",1,0
+"Balatro","Strategy, Turn-based strategy (TBS), Indie, Card & Board Game","2024","02",1,0
+"Kebab Chefs!: Restaurant Simulator","Simulator","2024","01",1,0
+"Banishers: Ghosts of New Eden","Role-playing (RPG), Adventure","2024","02",1,0
+"Tomb Raider Iâ¢IIâ¢III Remastered",NA,NA,NA,0,0
+"Anime Squad",NA,NA,NA,0,0
+"Wuthering Waves","Role-playing (RPG), Adventure","2024","05",1,0
+"Silent Hill: The Short Message","Adventure","2024","01",1,0
+"Infinite Craft",NA,"2024","01",1,0
+"Stormgate","Real Time Strategy (RTS), Strategy","2024","07",1,0
+"HAWKED","Shooter, Adventure","2024","02",1,0
+"PokÃ©mon Emerald Version",NA,NA,NA,0,0
+"Dragon's Dogma II","Role-playing (RPG)","2024","03",1,0
+"A Difficult Game About Climbing","Platform, Puzzle, Simulator, Adventure, Indie","2024","03",1,0
+"MLB The Show 24","Simulator, Sport","2024","03",1,0
+"Rise of the Ronin","Role-playing (RPG), Adventure","2024","03",1,0
+"Night Crows","Role-playing (RPG), Adventure","2024","03",1,0
+"Tournament Poker",NA,NA,NA,0,0
+"WWE 2K24","Fighting, Simulator, Sport","2024","03",1,0
+"Alone in the Dark","Puzzle, Adventure","1992","09",0,0
+"Unicorn Overlord","Role-playing (RPG), Strategy, Turn-based strategy (TBS), Tactical","2024","03",1,0
+"Ragnarok Origin","Role-playing (RPG), Simulator, Adventure","2020","07",1,0
+"Hospital 666","Adventure, Indie","2024","03",1,0
+"Shinkansen 0","Indie","2024","03",1,0
+"Call of Duty: Warzone Mobile","Shooter, Tactical","2024","03",1,0
+"South Park: Snow Day!","Adventure","2024","03",1,0
+"Content Warning","Adventure, Indie","2024","04",1,0
+"Gray Zone Warfare","Shooter, Adventure","2024","04",1,0
+"Manor Lords","Real Time Strategy (RTS), Strategy","2024","04",1,0
+"Stellar Blade","Role-playing (RPG), Adventure","2024","04",1,0
+"No Rest for the Wicked","Role-playing (RPG), Strategy","2024","04",1,0
+"The Game of Sisyphus","Adventure, Indie","2024","04",1,0
+"ArmA Reforger","Shooter, Simulator, Strategy, Tactical","2023","11",1,0
+"AFK Journey","Strategy, Adventure, Card & Board Game","2024","01",1,0
+"Another Crab's Treasure","Platform, Role-playing (RPG), Adventure, Indie","2024","04",1,0
+"Smuta","Role-playing (RPG), Adventure","2024","04",1,0
+"TopSpin 2K25","Simulator, Sport","2024","04",1,0
+"SILENT BREATH","Adventure, Indie","2024","04",1,0
+"Predecessor","Shooter, Strategy, MOBA","2024","08",1,0
+"Arena Breakout: Infinite","Shooter, Role-playing (RPG), Strategy, Tactical, Adventure","2024","08",1,0
+"Kings League",NA,NA,NA,0,0
+"Hades II","Role-playing (RPG), Hack and slash/Beat 'em up, Adventure, Indie","2024","05",1,0
+"Marvel Rivals","Shooter","2024","12",1,0
+"PokÃ©Rogue",NA,NA,NA,0,0
+"Senua's Saga: Hellblade II","Adventure","2024","05",1,0
+"Abiotic Factor","Shooter, Role-playing (RPG), Simulator, Adventure, Indie","2024","05",1,0
+"INDIKA","Puzzle, Adventure","2024","05",1,0
+"ANIMAL WELL","Platform, Puzzle, Adventure, Indie","2024","05",1,0
+"Killer Klowns from Outer Space: The Game",NA,"2024","06",1,0
+"Little Kitty, Big City","Simulator, Adventure, Indie","2024","05",1,0
+"The Bridge Curse 2: The Extrication","Puzzle, Adventure","2024","05",1,0
+"Solo Leveling: Arise","Role-playing (RPG)","2024","05",1,0
+"The Classrooms",NA,"2022","10",1,0
+"Bunny Garden","Simulator, Adventure, Indie, Visual Novel","2024","04",1,0
+"Crow Country","Shooter, Puzzle, Adventure, Indie","2024","05",1,0
+"SMITE 2","Role-playing (RPG), Strategy, Adventure, MOBA","2024","08",1,0
+"Squad Busters","Hack and slash/Beat 'em up","2024","05",1,0
+"Chained Together","Simulator, Adventure, Indie","2024","06",1,0
+"Tarisland","Role-playing (RPG), Adventure","2024","06",1,0
+"Soulmask","Role-playing (RPG), Simulator, Adventure, Indie","2024","05",1,0
+"Bodycam","Simulator, Strategy, Indie","2024","06",1,0
+"Still Wakes the Deep","Adventure","2024","06",1,0
+"Casino Simulator","Simulator, Strategy","2024","11",1,0
+"Nine Sols","Platform, Hack and slash/Beat 'em up, Adventure, Indie","2024","05",1,0
+"Inazuma Eleven GO: Shadow","Role-playing (RPG), Sport, Adventure","2011","12",0,0
+"F1 24","Racing, Simulator, Sport","2024","05",1,0
+"Autopsy Simulator","Simulator, Adventure, Indie","2024","06",1,0
+"PANICORE","Adventure, Indie","2024","05",1,0
+"Shin Megami Tensei V: Vengeance","Role-playing (RPG), Adventure","2024","06",1,0
+"SUPERVIVE","Shooter, Strategy, MOBA","2024","11",1,0
+"Yo-Kai Watch 2: Psychic Specters","Role-playing (RPG)","2014","12",0,0
+"Legend of Mortal","Strategy, Indie","2024","06",1,0
+"UFL","Simulator, Sport","2024","12",1,0
+"EA Sports College Football 25","Simulator, Sport","2024","07",1,0
+"Pawafuru Puroyakyu 2024-2025","Sport","2024","06",1,0
+"Concord","Shooter, Adventure","2024","08",1,0
+"Nobody Wants to Die","Role-playing (RPG), Simulator, Adventure","2024","07",1,0
+"Nintendo World Championships: NES Edition","Platform, Racing","2024","07",1,0
+"RGG Land",NA,NA,NA,0,0
+"Supernatural","Adventure, Indie","2024","07",1,0
+"Norland","Role-playing (RPG), Simulator, Strategy, Indie","2024","07",1,0
+"Black Myth: Wukong","Role-playing (RPG), Adventure","2024","08",1,0
+"Deadlock","Shooter, Indie","2016","08",0,0
+"Delta Force","Shooter, Tactical","2024","12",1,0
+"Call of Duty: Black Ops 6","Shooter","2024","10",1,0
+"DJs","Indie","2020","02",1,0
+"Star Wars Outlaws","Adventure","2024","08",1,0
+"Spectre Divide","Shooter, Strategy, Tactical","2024","09",1,0
+"Madden NFL 25","Sport, Tactical","2013","11",0,0
+"LOCKDOWN Protocol","Shooter, Strategy, Indie","2024","07",1,0
+"Crime Scene Cleaner","Simulator, Indie","2024","08",1,0
+"2XKO","Fighting","2025","12",1,0
+"Five Nights at Freddy's: Into the Pit","Puzzle, Adventure, Indie","2024","08",1,0
+"Supermarket Together","Simulator, Indie","2024","08",1,0
+"Mecha BREAK","Shooter","2025","06",1,0
+"The Bathhouse Restored Edition","Indie","2024","08",1,0
+"Tavern Manager Simulator","Simulator, Indie","2024","08",1,0
+"Knock on the Coffin Lid","Role-playing (RPG), Strategy, Turn-based strategy (TBS), Indie, Card & Board Game","2024","08",1,0
+"Baller League",NA,NA,NA,0,0
+"Fields of Mistria","Role-playing (RPG), Simulator, Indie","2024","08",1,0
+"Inazuma Eleven GO: Chrono Stones - Wildfire","Role-playing (RPG), Sport, Adventure","2012","12",0,0
+"inZOI",NA,NA,NA,0,0
+"Melee Combat Championship",NA,NA,NA,0,0
+"Thank Goodness Youâre Here!",NA,NA,NA,0,0
+"The Battle Cats Unite!","Simulator, Strategy, Tactical","2018","12",1,0
+"EA Sports FC 25","Simulator, Sport","2024","09",1,0
+"NBA 2K25","Simulator, Sport","2024","09",1,0
+"Warhammer 40,000: Space Marine II","Shooter, Role-playing (RPG), Adventure","2024","09",1,0
+"TCG Card Shop Simulator","Simulator, Strategy, Indie","2024","09",1,0
+"Dale & Dawson Stationery Supplies","Role-playing (RPG), Strategy, Indie","2024","08",1,0
+"The Casting of Frank Stone","Adventure","2024","09",1,0
+"ASTRO BOT","Platform, Adventure","2018","10",1,0
+"Frostpunk 2","Simulator, Strategy, Indie","2024","09",1,0
+"Fears to Fathom: Woodbury Getaway","Adventure, Indie","2024","09",1,0
+"Age of Mythology","Real Time Strategy (RTS), Strategy","2002","10",0,0
+"Enotria: The Last Song","Fighting, Role-playing (RPG), Adventure, Indie","2024","09",1,0
+"The Legend of Zelda: Echoes of Wisdom","Puzzle, Adventure","2024","09",1,0
+"Pico Park 2","Platform, Puzzle","2024","08",1,0
+"PokÃ©mon Mystery Dungeon: Explorers of Sky",NA,NA,NA,0,0
+"Dead Rising Deluxe Remaster","Hack and slash/Beat 'em up, Adventure","2024","09",1,0
+"UFO 50","Shooter, Platform, Puzzle, Role-playing (RPG), Strategy, Adventure, Indie, Arcade","2024","09",1,0
+"Marvel vs. Capcom 2: New Age of Heroes","Fighting, Arcade","2000","02",0,0
+"PokÃ©mon Black/White Version 2",NA,NA,NA,0,0
+"Zoochosis","Simulator, Adventure, Indie","2024","09",1,0
+"Star Trucker","Simulator, Adventure, Arcade","2024","09",1,0
+"Squirrel with a Gun","Shooter, Platform, Simulator, Adventure, Indie","2024","08",1,0
+"The Plucky Squire","Platform, Puzzle, Adventure","2024","09",1,0
