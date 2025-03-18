@@ -13,4 +13,4 @@ Support Vector Machine model: SVM_with_training_acc.ipynb
 
 LSTM: LSTM.ipynb
 
-Transformer: Transformer.ipynb
+Transformer: Transformer.ipynb and Transformers.ipynb
